@@ -1,0 +1,266 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Telepon
+[End call]
+Akhiri panggilan
+[Contacts]
+Kontak
+[Dialpad]
+Tombol dial
+[Account]
+akun
+[Settings]
+setting
+[Visit website]
+Kunjungi website
+[Exit]
+keluar
+[Ringing Sound]
+nada dering
+[Browse...]
+Browse...
+[Default]
+Default
+[Auto answer]
+jawab otomatis
+[Disable local account]
+Nonaktifkan Akun Lokal
+[OK]
+ok
+[Save]
+simpan
+[Cancel]
+Cancel
+[SIP server]
+[SIP proxy]
+[User]
+Pengguna
+[Domain]
+Domain
+[Password]
+password
+[Connecting...]
+Connecting..
+[Online]
+online
+[Local]
+lokal
+[Message]
+pesan
+[Edit]
+Edit
+[Delete]
+Hapus
+[Add]
+Tambah
+[Bad Gateway]
+Bad Gateway
+[Request Timeout]
+permintaan habis waktu
+[Number]
+nomor
+[Name]
+nama
+[Contact]
+Kontak
+[Incoming call]
+Panggilan masuk
+[Answer]
+Jawab
+[Decline]
+Menolak
+[Calling]
+Menelepon
+[Connecting]
+Connecting
+[Connected]
+Connet
+[Auto]
+Otomatis
+[Transport]
+Membawa
+[Incorrect password]
+Password salah
+[Public address]
+alamat publik
+[Media encryption]
+enkripsi media
+[Disabled]
+Nonaktif
+[Optional]
+pilihan
+[Mandatory]
+[STUN server]
+Server STUN
+[Presence subscription]
+[Local port]
+port lokal
+[Ringing]
+berdering
+[Call ended]
+Telepon berakhir
+[Declined]
+Ditolak
+[No address found]
+alamat tidak di temukan
+[Request Terminated]
+Permintaan diakhiri
+[Away]
+Away
+[Publish presence]
+tampilkan kehadiran
+[Session Progress]
+[Camera]
+Kamera
+[Video call]
+Panggilan video
+[Answer with video]
+Jawab dengan video
+[View log file]
+Lihat ringkasan file
+[Microphone]
+mikrophone
+[Speaker]
+pengeras suara
+[Audio codecs]
+Audio codecs
+[Video codec]
+Video codec
+[Check for updates]
+cek update
+[Daily]
+Harian
+[Weekly]
+perminggu
+[Monthly]
+bulanan
+[Quarterly]
+Kwartal
+[Never]
+tidak
+[Update available]
+Update tersedia
+[Do you want to update now?]
+Anda ingin memperbarui?
+[Force codec for incoming]
+[Available]
+Available
+[Enabled]
+Tersedia
+[Disable H.264]
+Nonaktifkan H.264
+[Disable H.263+]
+Nonaktifkan H.263+
+[Invalid URI]
+URI Tidak berlaku
+[Offline]
+offline
+[Single call mode]
+mode telefon tunggal
+[Local Video]
+video lokal
+[Call Transfer]
+kirim telpon
+[Transfer status]
+status kiriman
+[final]
+selesai
+[Call transfered successfully, disconnecting call]
+Sukses kirim telepon, telepon diputus
+[Hold]
+Tahan
+[Transfer]
+mengirim
+[Sound events]
+[Bitrate]
+Bitrate
+[Login]
+Masuk
+[Enable log file]
+[Calls]
+Telepon
+[Duration]
+Durasi
+[Info]
+info
+[display password]
+Tampilkan Password
+[From]
+Dari
+[To]
+kepada
+[Ring device]
+[Service Unavailable]
+Servise tidak tersedia
+[Invalid Request URI]
+Permintaan URI Tidak Berlaku
+[Busy Here]
+Sibuk
+[Trying]
+Coba
+[Method Not Allowed]
+metode tidakdi ijinkan
+[Not Found]
+tidak di temukan
+[Always on Top]
+Selalu di depan
+[Connect]
+Connect
+[Last Call]
+Panggilan terakhir
+[Close All]
+TutupSemua
+[Copy]
+Salin
+[Select All]
+Pilih semua
+[Display name]
+nama kamu
+[Remember details]
+ingat detail
+[No]
+[All calls]
+Semua Panggilan
+[SIP header]
+[Different user]
+Beda Use
+[Different domain]
+Beda Domain
+[Different user or domain]
+[Different remote domain]
+[Deny incoming]
+Tolak Panggilan
+[Allow IP rewrite]
+[Directory of users]
+[Call on remote hold]
+[Call on local hold]
+[Call on hold]
+[Call is active]
+[Menu]
+[Edit account]
+[Add account...]
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+[Call pickup]
+[Speaker level]
+Volume Speaker
+[Microphone level]
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random position]
+[Time]
+Waktu
+[Donate]
+Menyumbangkan
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

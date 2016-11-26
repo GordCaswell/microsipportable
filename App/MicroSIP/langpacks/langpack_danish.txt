@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Ring
+[End call]
+Afslut opkald
+[Contacts]
+Kontakter
+[Dialpad]
+Tastatur
+[Account]
+Konto
+[Settings]
+Indstillinger
+[Visit website]
+Besøg hjemmeside
+[Exit]
+Afslut MicroSIP
+[Ringing Sound]
+Ringelyd
+[Browse...]
+Gennemse...
+[Default]
+Standard
+[Auto answer]
+Besvar automatisk
+[Disable local account]
+Deaktiver lokal konto
+[OK]
+OK
+[Save]
+Gem
+[Cancel]
+Annuller
+[SIP server]
+SIP-server
+[SIP proxy]
+SIP-proxy
+[User]
+Bruger
+[Domain]
+Domæne
+[Password]
+Adgangskode
+[Connecting...]
+Forbinder...
+[Online]
+Online
+[Local]
+Lokal
+[Message]
+Besked
+[Edit]
+Rediger
+[Delete]
+Slet
+[Add]
+Tilføj
+[Bad Gateway]
+"Bad Gateway"-fejl
+[Request Timeout]
+Forespørgsel tidsudløbet
+[Number]
+Nummer
+[Name]
+Navn
+[Contact]
+Kontakt
+[Incoming call]
+Indkommende opkald
+[Answer]
+Tag telefonen
+[Decline]
+Afvis
+[Calling]
+Ringer
+[Connecting]
+Forbinder
+[Connected]
+Forbundet
+[Auto]
+Automatisk
+[Transport]
+Transport
+[Incorrect password]
+Ukorrekt adgangskode
+[Public address]
+Offentlig adresse
+[Media encryption]
+Mediekryptering
+[Disabled]
+Deaktiveret
+[Optional]
+Valgfri
+[Mandatory]
+Påkrævet
+[STUN server]
+STUN-server
+[Presence subscription]
+Vis min tilstedeværelse
+[Local port]
+Lokal port
+[Ringing]
+Ringer
+[Call ended]
+Opkald afsluttet
+[Declined]
+Afvist
+[No address found]
+Ingen adresse fundet
+[Request Terminated]
+Forespørgsel afbrudt
+[Away]
+Væk
+[Publish presence]
+Offentliggør min tilstedeværelse
+[Session Progress]
+Etablerer forbindelse
+[Camera]
+Kamera
+[Video call]
+Videopkald
+[Answer with video]
+Svar med video
+[View log file]
+Vis logfil
+[Microphone]
+Mikrofon
+[Speaker]
+Højttaler
+[Audio codecs]
+Lyd-codec
+[Video codec]
+Video-codec
+[Check for updates]
+Kontrollér for opdateringer
+[Daily]
+Daglig
+[Weekly]
+Ugentligt
+[Monthly]
+Månedlig
+[Quarterly]
+Kvartalsvis
+[Never]
+Aldrig
+[Update available]
+Opdatering tilgængelig
+[Do you want to update now?]
+Ønsker du at opdatere?
+[Force codec for incoming]
+Kræv codec for indgående opkald
+[Available]
+Til stede
+[Enabled]
+Aktiveret
+[Disable H.264]
+Deaktiver H-264
+[Disable H.263+]
+Deaktiver H.263+
+[Invalid URI]
+Ugyldig adresse ("Invalid URI")
+[Offline]
+Offline
+[Single call mode]
+Enkeltkald-tilstand
+[Local Video]
+Lokal video
+[Call Transfer]
+Opkaldsoverførsel
+[Transfer status]
+Overførselsstatus
+[final]
+endelig
+[Call transfered successfully, disconnecting call]
+Opkald overført korrekt, afbryder opkald
+[Hold]
+Parkér
+[Transfer]
+Overfør opkald
+[Sound events]
+Lydhændelser
+[Bitrate]
+Bithastighed
+[Login]
+Login
+[Enable log file]
+Vis logfil
+[Calls]
+Opkald
+[Duration]
+Varighed
+[Info]
+Information
+[display password]
+Vis adgangskode
+[From]
+Fra
+[To]
+Til
+[Ring device]
+Ringeenhed
+[Service Unavailable]
+Tjeneste ikke tilgængelig
+[Invalid Request URI]
+Ugyldig forespørgselsadresse ("Invalid request URI")
+[Busy Here]
+Optaget ("Busy Here")
+[Trying]
+Forsøger
+[Method Not Allowed]
+Metode ikke tilladt ("Method Not Allowed")
+[Not Found]
+Ikke fundet
+[Always on Top]
+Altid øverst
+[Connect]
+Forbind
+[Last Call]
+Seneste opkald
+[Close All]
+Luk alle
+[Copy]
+Kopier
+[Select All]
+Vælg alt/alle
+[Display name]
+Dit navn
+[Remember details]
+Husk detaljer
+[No]
+Nej
+[All calls]
+Alle opkald
+[SIP header]
+SIP-header
+[Different user]
+Anden bruger
+[Different domain]
+Andet domæne
+[Different user or domain]
+Anden bruger eller domæne
+[Different remote domain]
+Andet fjerndomæne
+[Deny incoming]
+Afvis indkommende opkald
+[Allow IP rewrite]
+Tillad "IP rewrite"
+[Directory of users]
+Kontaktpersonliste
+[Call on remote hold]
+Opkald fjernbetjent parkeret
+[Call on local hold]
+Opkald lokalt parkeret
+[Call on hold]
+Opkald parkeret
+[Call is active]
+Opkald i gang
+[Menu]
+Menu
+[Edit account]
+Redigér konto
+[Add account...]
+Tilføj konto...
+[Remove account]
+Slet konto
+[Make active]
+Gør aktiv
+[Are you sure you want to remove?]
+Er du sikker på at du vil slette?
+[Call pickup]
+Ring pickup
+[Speaker level]
+Højtaler lydstyrke
+[Microphone level]
+Mikrofon lydstyke
+[Mute speaker]
+Mute højtaler
+[Mute microphone]
+Mute mikrofon
+[Please fill out at least the required fields marked with *.]
+Udfyld please least de krævede filter, Markeret med *.
+[Ask your SIP provider how to configure the account correctly.]
+Spørg din SIP-udbyder, hvordan du konfigurerer kontoen korrekt.
+[Random position]
+Tilfældig position af indgående opkald box
+[Time]
+Tid
+[Donate]
+Doner
+[Enable local account]
+Aktivere lokal konto
+[Send crash report]
+[Account name]
+[]

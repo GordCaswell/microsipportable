@@ -1,0 +1,298 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+ზარი
+[End call]
+ზარის გათიშვა
+[Contacts]
+კონტაქტები
+[Dialpad]
+ციფერბლატი
+[Account]
+ანგარიში
+[Settings]
+პარამეტრები
+[Visit website]
+ნახეთ პროგრამის საიტი
+[Exit]
+გამოსვლა
+[Ringing Sound]
+ზარის ხმა
+[Browse...]
+დათვალიერება...
+[Default]
+დუმილის წესით
+[Auto answer]
+ავტო მოპასუხე
+[Disable local account]
+ადგ. ანგარიშის გათიშვა
+[OK]
+კარგი
+[Save]
+შენახვა
+[Cancel]
+გაუქმება
+[SIP server]
+SIP სერვერი
+[SIP proxy]
+SIP პროქსი
+[User]
+მომხმარებელი
+[Domain]
+დომენი
+[Password]
+პაროლი
+[Connecting...]
+ვუკავშირდებით...
+[Online]
+ონლიანი
+[Local]
+ადგილობრივი
+[Message]
+შეტყობინება
+[Edit]
+რედაქტირება
+[Delete]
+წაშლა
+[Add]
+დამატება
+[Bad Gateway]
+არასწორი გეითვეი
+[Request Timeout]
+მოთხოვნის დროის ამოწურვა
+[Number]
+ნომერი
+[Name]
+სახელი
+[Contact]
+კონტაქტი
+[Incoming call]
+შემომავალი ზარი
+[Answer]
+ვუპასუხოთ
+[Decline]
+დავაიგნოროთ
+[Calling]
+ირეკება
+[Connecting]
+ვუკავშირდებით
+[Connected]
+დაკავშირებულია
+[Auto]
+ავტო
+[Transport]
+ტრანსპორტი
+[Incorrect password]
+არასწორი პაროლი
+[Public address]
+საჯარო მისამართი
+[Media encryption]
+მედიის დაშიფვრა
+[Disabled]
+გამორთული
+[Optional]
+ფაკულტატიური
+[Mandatory]
+აუცილებელი
+[STUN server]
+STUN სერვერი
+[Presence subscription]
+პრეზანსის გამოწერა
+[Local port]
+ადგილობრივი პორტი
+[Ringing]
+რეკავს
+[Call ended]
+ზარი დასრულდა
+[Declined]
+უარყოფილია
+[No address found]
+მისამართი არ მოიძებნა
+[Request Terminated]
+მოთხოვნა დასრულდა
+[Away]
+გასულია
+[Publish presence]
+გაასაჯაროვე პრეზანსი
+[Session Progress]
+სესიის პროგრესი
+[Camera]
+ვებკამი
+[Video call]
+ვიდეო ზარი
+[Answer with video]
+უპასუხე ვიდეოთი
+[View log file]
+ოქმის ფაილის ნახვა
+[Microphone]
+მიკროფონი
+[Speaker]
+ხმამაღლამოლაპარაკე
+[Audio codecs]
+აუდიო კოდეკები
+[Video codec]
+ვიდეო კოდეკი
+[Check for updates]
+განახლებ. შემოწმება
+[Daily]
+ყოველდღიურად
+[Weekly]
+ყოველკვირეულად
+[Monthly]
+ყოველთვიურად
+[Quarterly]
+ყოველკვარტლურად
+[Never]
+არასოდეს
+[Update available]
+განახლება ხელმისაწვდომია
+[Do you want to update now?]
+გნებავთ პროგრამის განახლება?
+[Force codec for incoming]
+შემომ. კოდეკის ფორსირება
+[Available]
+ხელმისაწვდომია
+[Enabled]
+ჩართულია
+[Disable H.264]
+H.264 გათიშვა
+[Disable H.263+]
+H.263+ გათიშვა
+[Invalid URI]
+არასწორი URI
+[Offline]
+ოფლაინი
+[Single call mode]
+მარტო ერთი ზარის რეჟიმი
+[Local Video]
+ადგილობრივი ვიდეო
+[Call Transfer]
+ზარის გადატანა
+[Transfer status]
+გადატანის სტატუსი
+[final]
+საბოლოო
+[Call transfered successfully, disconnecting call]
+ზარის გადატანა წარმატებით მოხდა, ვთიშავთ ზარს
+[Hold]
+დაპაუზება
+[Transfer]
+ტრანსფერი
+[Sound events]
+ხმის ივენთები
+[Bitrate]
+ბიტ.სიჩქარე
+[Login]
+მომხმ.სახელი
+[Enable log file]
+ოქმის ფაილის ჩართვა
+[Calls]
+ზარები
+[Duration]
+ხანგრძლივობა
+[Info]
+ინფო
+[display password]
+პაროლის ჩვენება
+[From]
+ვისგან
+[To]
+ვის
+[Ring device]
+დაირეკოს მოწყობილობაზე
+[Service Unavailable]
+სერვისი მიუწვდომელია
+[Invalid Request URI]
+არასწორი URI მოთხოვნა
+[Busy Here]
+დაკავებაა
+[Trying]
+მცდელობა
+[Method Not Allowed]
+მეთოდი არ არის დაშვებული
+[Not Found]
+არ მოიძებნა
+[Always on Top]
+სულ ზევიდან
+[Connect]
+დაკავშირება
+[Last Call]
+ბოლო ზარი
+[Close All]
+ყვ. დახურვა
+[Copy]
+კოპირება
+[Select All]
+ყველას არჩევა
+[Display name]
+ეკრანზე სახელი
+[Remember details]
+დეტალების დამახსოვრება
+[No]
+არა
+[All calls]
+ველა ზარი
+[SIP header]
+SIP სათაური
+[Different user]
+სხვა მომხმარებელი
+[Different domain]
+სხვა დომენი
+[Different user or domain]
+სხვა მომხმარებელი ან დომენი
+[Different remote domain]
+სხვა შორი დომენი
+[Deny incoming]
+შემომავლის დაიგნორირება
+[Allow IP rewrite]
+IP-ს გადაწერის დაშვება
+[Directory of users]
+მომხმარებლების დირექტორია
+[Call on remote hold]
+ზარი შორეულ პაუზაზეა
+[Call on local hold]
+ზარი ადგილობრივ პაუზაზეა
+[Call on hold]
+ზარი დაპაუზებულია
+[Call is active]
+ზარი აქტიურია
+[Menu]
+მენიუ
+[Edit account]
+ანგარიშის რედაქტირება
+[Add account...]
+ანგარიშის დამატება
+[Remove account]
+ანგარიშის წაშლა
+[Make active]
+გააქტიურება
+[Are you sure you want to remove?]
+მართლა გსურთ წაშლა?
+[Call pickup]
+ზარის აღება
+[Speaker level]
+ხმამაღლამოლაპარაკის დონე
+[Microphone level]
+მიკროფონის დონე
+[Mute speaker]
+ხმამაღლამოლაპარაკის გაჩუმება
+[Mute microphone]
+მიკროფონის გაჩუმება
+[Please fill out at least the required fields marked with *.]
+გთხოვთ შეავსოთ სულ ცოტა * აღნიშნული ველები მაინც
+[Ask your SIP provider how to configure the account correctly.]
+ჰკითხეთ თქვენს SIP პროვაიდერს თუ როგორ უნდა დააკონფიგუროთ სწორად ანგარიში.
+[Random position]
+საპასუხო ყუთის შემთხვევითი პოზიცია
+[Time]
+დრო
+[Donate]
+შემოწირულობა
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

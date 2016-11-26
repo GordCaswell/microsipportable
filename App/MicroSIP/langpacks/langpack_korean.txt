@@ -1,0 +1,298 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+통화
+[End call]
+통화 종료
+[Contacts]
+연락처
+[Dialpad]
+다이얼
+[Account]
+계정
+[Settings]
+설정
+[Visit website]
+홈페이지 방문
+[Exit]
+종료
+[Ringing Sound]
+벨소리
+[Browse...]
+변경...
+[Default]
+기본값
+[Auto answer]
+자동 응답
+[Disable local account]
+로컬 계정 사용안함
+[OK]
+확인
+[Save]
+저장
+[Cancel]
+취소
+[SIP server]
+SIP 서버
+[SIP proxy]
+SIP 프록시
+[User]
+사용자
+[Domain]
+도메인
+[Password]
+비밀번호
+[Connecting...]
+연결...
+[Online]
+온라인
+[Local]
+로컬
+[Message]
+메시지
+[Edit]
+수정
+[Delete]
+삭제
+[Add]
+추가
+[Bad Gateway]
+게이트웨이불량
+[Request Timeout]
+요청시간초과
+[Number]
+번호
+[Name]
+이름
+[Contact]
+연락처
+[Incoming call]
+수신 전화
+[Answer]
+응답
+[Decline]
+거절
+[Calling]
+전화 거는 중
+[Connecting]
+연결중
+[Connected]
+통화중
+[Auto]
+자동
+[Transport]
+트랜스포트
+[Incorrect password]
+잘못된 비밀번호
+[Public address]
+공개 주소
+[Media encryption]
+미디어 암호화
+[Disabled]
+사용안함
+[Optional]
+선택사항
+[Mandatory]
+필수사항
+[STUN server]
+STUN 서버
+[Presence subscription]
+계정가입상태확인
+[Local port]
+포컬 포트
+[Ringing]
+연결음
+[Call ended]
+통화 종료
+[Declined]
+거절하기
+[No address found]
+잘못된 연락처
+[Request Terminated]
+발신요청 취소
+[Away]
+자리 비움
+[Publish presence]
+계정상태확인
+[Session Progress]
+세션 시작
+[Camera]
+카메라
+[Video call]
+영상통화
+[Answer with video]
+영상통화로 응답
+[View log file]
+로그 파일 보기
+[Microphone]
+마이크
+[Speaker]
+스피커
+[Audio codecs]
+오디오 코덱
+[Video codec]
+비디오 코덱
+[Check for updates]
+업데이트 확인
+[Daily]
+일일
+[Weekly]
+주간
+[Monthly]
+월간
+[Quarterly]
+분기
+[Never]
+끄기
+[Update available]
+업데이트 사용 가능
+[Do you want to update now?]
+를 업데이트 하시겠습니까?
+[Force codec for incoming]
+수신을 위해 강제 코덱
+[Available]
+사용가능
+[Enabled]
+활성화
+[Disable H.264]
+H.264 사용안함
+[Disable H.263+]
+H.263+ 사용안함
+[Invalid URI]
+잘못된 URI
+[Offline]
+오프라인
+[Single call mode]
+단일 통화 모드
+[Local Video]
+로컬 영상
+[Call Transfer]
+전화 연결
+[Transfer status]
+전송 상태
+[final]
+최종
+[Call transfered successfully, disconnecting call]
+성공적으로 연결된 전화, 연결 끊기
+[Hold]
+잠금
+[Transfer]
+연결
+[Sound events]
+사운드 이벤트
+[Bitrate]
+비트 레이트
+[Login]
+로그인
+[Enable log file]
+로그 생성 활성화
+[Calls]
+통화목록
+[Duration]
+기간
+[Info]
+정보
+[display password]
+비밀번호 보이기
+[From]
+누가
+[To]
+에게
+[Ring device]
+벨 장치
+[Service Unavailable]
+서비스를 사용할 수 없음
+[Invalid Request URI]
+잘못된 요청 URI
+[Busy Here]
+통화중
+[Trying]
+시도
+[Method Not Allowed]
+방법이 허용 되지 않음
+[Not Found]
+찾을 수 없음
+[Always on Top]
+항상 위
+[Connect]
+연결
+[Last Call]
+최근 통화
+[Close All]
+모두 닫기
+[Copy]
+복사
+[Select All]
+모두 선택
+[Display name]
+표시 이름
+[Remember details]
+상세 정보를 기억
+[No]
+없음
+[All calls]
+모든 통화
+[SIP header]
+SIP 헤더
+[Different user]
+다른 사용자
+[Different domain]
+다른 도메인
+[Different user or domain]
+다른 사용자 또는 도메인
+[Different remote domain]
+다른 원격 도메인
+[Deny incoming]
+수신 거부
+[Allow IP rewrite]
+IP 재 작성 추척 허용
+[Directory of users]
+사용자 디렉토리
+[Call on remote hold]
+통화 외부 대기
+[Call on local hold]
+통화 내부 대기
+[Call on hold]
+통화 대기
+[Call is active]
+통화 활성
+[Menu]
+메뉴 (no permission)
+[Edit account]
+계정 편집 (no permission)
+[Add account...]
+계정 추가 (no permission)
+[Remove account]
+계정 삭제 (no permission)
+[Make active]
+계정 활성화 (no permission)
+[Are you sure you want to remove?]
+삭제 하시겠습니까?
+[Call pickup]
+통화
+[Speaker level]
+스피커 볼륨
+[Microphone level]
+마이크 볼륨
+[Mute speaker]
+스피커 음소거
+[Mute microphone]
+마이크 음소거
+[Please fill out at least the required fields marked with *.]
+필수 필드는 * 표시가 적어도 기입하시기 바랍니다.
+[Ask your SIP provider how to configure the account correctly.]
+올바르게 계정을 구성하는 방법 SIP 공급자에게 문의하십시오.
+[Random position]
+걸려 오는 전화 상자의 임의의 위치
+[Time]
+시각
+[Donate]
+기부
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

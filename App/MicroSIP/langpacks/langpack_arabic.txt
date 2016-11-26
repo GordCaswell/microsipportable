@@ -1,0 +1,300 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 1
+
+; utf8
+
+[Call]
+اطلب الرقم
+[End call]
+انهى المكالمة
+[Contacts]
+ارقام
+[Dialpad]
+اعرض
+[Account]
+الحساب
+[Settings]
+التعديلات
+[Visit website]
+زر موقع مايكروسيب
+[Exit]
+الخروج
+[Ringing Sound]
+صوت الرنين
+[Browse...]
+تصفح
+[Default]
+m
+[Auto answer]
+إجابة أوتوماتيكية
+[Disable local account]
+ثبط الحساب المحلى
+[OK]
+حسنا
+[Save]
+احفظ
+[Cancel]
+الغاء
+[SIP server]
+خادم بروتوكول بدء الجلسة
+[SIP proxy]
+بروكسي بروتوكول بدء الجلسة
+[User]
+مستخدم
+[Domain]
+نطاق
+[Password]
+كلمة مرور
+[Connecting...]
+يتصل ...
+[Online]
+متصل
+[Local]
+محلى
+[Message]
+رسالة
+[Edit]
+عدل
+[Delete]
+امسح
+[Add]
+اضف
+[Bad Gateway]
+m
+[Request Timeout]
+انتهت مهلة الطلب
+[Number]
+رقم
+[Name]
+اسم
+[Contact]
+رقم
+[Incoming call]
+الواردة
+[Answer]
+اجب
+[Decline]
+رفض
+[Calling]
+الاتصال
+[Connecting]
+يتصل
+[Connected]
+متصل
+[Auto]
+آليا
+[Transport]
+وسيلة النقل
+[Incorrect password]
+كلمة مرور خاطئة
+[Public address]
+العنوان العمومي
+[Media encryption]
+تشفير الميديا
+[Disabled]
+ثبط
+[Optional]
+اختيارى
+[Mandatory]
+اجبارى
+[STUN server]
+خادم الستن
+[Presence subscription]
+اشتراك الحضور
+[Local port]
+المنفذ المحلى
+[Ringing]
+الرنين
+[Call ended]
+إنتهى الإتصال
+[Declined]
+رفضت
+[No address found]
+لم يوجد عنوان
+[Request Terminated]
+الغى الطلب
+[Away]
+غائب
+[Publish presence]
+إعلان الحضور
+[Session Progress]
+تقدم الجلسة
+[Camera]
+كاميرا
+[Video call]
+اتصال فيديو
+[Answer with video]
+اجب مع فيديو
+[View log file]
+مشاهدة ملف السجل
+[Microphone]
+اللاقط
+[Speaker]
+سماعة
+[Audio codecs]
+كودك الصوت
+[Video codec]
+برنامج ترميز الفيديو
+[Check for updates]
+مراجعة التحديثات
+[Daily]
+تأخير
+[Weekly]
+اسبوعيا
+[Monthly]
+شهر
+[Quarterly]
+الفصلية
+[Never]
+ابدا
+[Update available]
+تحديثات متوفرة
+[Do you want to update now?]
+هل تريد تحديث؟
+[Force codec for incoming]
+m
+[Available]
+متواجد
+[Enabled]
+فعّل
+[Disable H.264]
+ثبط H.264
+[Disable H.263+]
+ثبط H.263+
+[Invalid URI]
+m
+[Offline]
+غير متصل
+[Single call mode]
+وضعية الإتصال الواحد
+[Local Video]
+فيديوا محلى
+[Call Transfer]
+تحويل المكالمة
+[Transfer status]
+حالة التحويل
+[final]
+انتهى
+[Call transfered successfully, disconnecting call]
+حُولت المكالمة بنجاح, تفصل المكالمة
+[Hold]
+انتظار
+[Transfer]
+حول
+[Sound events]
+أحداث الصوت
+[Bitrate]
+السرعة المطلوبة للمكالمة
+[Login]
+الدخول
+[Enable log file]
+فعّل ملف اللوق
+[Calls]
+الاتصالات
+[Duration]
+فترة
+[Info]
+معلومات
+[display password]
+اعرض كلمة المرور
+[From]
+من
+[To]
+الى
+[Ring device]
+الجهاز يرن
+[Service Unavailable]
+الخدمة غير متوفرة
+[Invalid Request URI]
+m
+[Busy Here]
+الخط مشغول
+[Trying]
+يحاول
+[Method Not Allowed]
+الطريقة غير مسموحة
+[Not Found]
+لا يوجد
+[Always on Top]
+دائما فى الاعلى
+[Connect]
+اتصل
+[Last Call]
+المكالمة الاخيرة
+[Close All]
+اغلق الجميع
+[Copy]
+نسخ
+[Select All]
+اختر الجميع
+[Display name]
+اسمك
+[Remember details]
+تذكر التفاصيل
+[No]
+لا
+[All calls]
+كل الإتصالات
+[SIP header]
+ترويسة بروتوكول بدء الجلسة
+[Different user]
+مستخدم مختلف
+[Different domain]
+نطاق مختلف
+[Different user or domain]
+مستخدم الدليل
+[Different remote domain]
+نطاق مختلف بعيد
+[Deny incoming]
+ارفض الوارده
+[Allow IP rewrite]
+إعادة كتابة الأيبي أدرس
+[Directory of users]
+مستخدمى الدليل
+[Call on remote hold]
+المكالمة فى الانتظار البعيد
+[Call on local hold]
+المكالمة فى الانتظار المحلى
+[Call on hold]
+المكالمة فى الانتظار
+[Call is active]
+الاتصال نشط
+[Menu]
+m
+[Edit account]
+m
+[Add account...]
+m
+[Remove account]
+امسح الحساب
+[Make active]
+m
+[Are you sure you want to remove?]
+m
+[Call pickup]
+m
+[Speaker level]
+مستوى مكبر الصوت
+[Microphone level]
+m
+[Mute speaker]
+كتم السماعات
+[Mute microphone]
+m
+[Please fill out at least the required fields marked with *.]
+من فضلك قم بملئ المجالات المطلوبةو المرموز لها ب *
+[Ask your SIP provider how to configure the account correctly.]
+اطلب من مزود بروتوكول بدء جلسة كيفية ضبط الحساب بشكل صحيح
+[Random position]
+موقف عشوائي من مربع الإجابة
+[Time]
+مرة
+[Donate]
+تبرع
+[Enable local account]
+تمكين حساب محلي
+[Send crash report]
+[Account name]
+mustafa
+[]

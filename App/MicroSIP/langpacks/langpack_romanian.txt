@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Apel
+[End call]
+Sfârşit
+[Contacts]
+Cunoştinţe
+[Dialpad]
+Tastatură
+[Account]
+Cont
+[Settings]
+Reglaje
+[Visit website]
+Vizitati site-ul
+[Exit]
+Ieşire
+[Ringing Sound]
+Sunetul de apel
+[Browse...]
+Răsfoire...
+[Default]
+Prestabilit
+[Auto answer]
+Răspuns automat
+[Disable local account]
+Dezactivare cont local
+[OK]
+OK
+[Save]
+Salvare
+[Cancel]
+Anulare
+[SIP server]
+Server SIP
+[SIP proxy]
+Proxy SIP
+[User]
+Utilizator
+[Domain]
+Domain
+[Password]
+Parolă
+[Connecting...]
+Se conectează...
+[Online]
+Online
+[Local]
+Local
+[Message]
+Mesaj
+[Edit]
+Editare
+[Delete]
+Şterge
+[Add]
+Adaugă
+[Bad Gateway]
+Bad Gateway
+[Request Timeout]
+Solicitare expirată
+[Number]
+Număr
+[Name]
+Nume
+[Contact]
+Cunoştinţă
+[Incoming call]
+Sună cineva!
+[Answer]
+Răspunde
+[Decline]
+Refuz
+[Calling]
+Apelare
+[Connecting]
+Se conectează
+[Connected]
+Conectat
+[Auto]
+Automat
+[Transport]
+Transport
+[Incorrect password]
+Parolă incorectă
+[Public address]
+Adresă publică
+[Media encryption]
+Criptare media
+[Disabled]
+Dezactivat
+[Optional]
+Optional
+[Mandatory]
+Obligatoriu
+[STUN server]
+Server STUN
+[Presence subscription]
+Aprobare prezenţă
+[Local port]
+Port local
+[Ringing]
+Sună
+[Call ended]
+Apel terminat
+[Declined]
+Refuzat
+[No address found]
+Nici o adresă
+[Request Terminated]
+Solicitare terminată
+[Away]
+Absent
+[Publish presence]
+Anunţă-mi prezenţa
+[Session Progress]
+Proges sesiune
+[Camera]
+Camera
+[Video call]
+Apel video
+[Answer with video]
+Răspunde cu video
+[View log file]
+Afişare fişier-jurnal
+[Microphone]
+Microfon
+[Speaker]
+Difuzor
+[Audio codecs]
+Codificator-decodificator audio
+[Video codec]
+Codificator-decodificator video
+[Check for updates]
+Verificare actualizări
+[Daily]
+Zilnic
+[Weekly]
+Săptămânal
+[Monthly]
+Lunar
+[Quarterly]
+Trimestrial
+[Never]
+Niciodată
+[Update available]
+Actualizare disponibilă
+[Do you want to update now?]
+Vrei să actualizezi?
+[Force codec for incoming]
+Forţează codecul pentru intrare
+[Available]
+Disponibil
+[Enabled]
+Activat
+[Disable H.264]
+Dezactivare H 264
+[Disable H.263+]
+Dezactivare H.263+
+[Invalid URI]
+URI incorect
+[Offline]
+Deconectat
+[Single call mode]
+Mod apel unic
+[Local Video]
+Video local
+[Call Transfer]
+Transfer apel
+[Transfer status]
+Situaţia transferului
+[final]
+final
+[Call transfered successfully, disconnecting call]
+Apel transferat cu succes, urmează deconectarea
+[Hold]
+Suspendă
+[Transfer]
+Transfer
+[Sound events]
+Redare locală DTMF
+[Bitrate]
+Rată biţi
+[Login]
+Autentificare
+[Enable log file]
+Activarea fişierului-jurnal
+[Calls]
+Apeluri
+[Duration]
+Durată
+[Info]
+Info
+[display password]
+afişare parolă
+[From]
+Expeditor
+[To]
+Destinatar
+[Ring device]
+Ce vrei să sune
+[Service Unavailable]
+Serviciu indisponibil
+[Invalid Request URI]
+Solicitare incorectă de URI
+[Busy Here]
+Ocupat
+[Trying]
+Încercare
+[Method Not Allowed]
+Metodă nepermisă
+[Not Found]
+Nici un rezultat
+[Always on Top]
+Totdeauna deasupra
+[Connect]
+Conectare
+[Last Call]
+Ultimul apel
+[Close All]
+Închide tot şi toate
+[Copy]
+Copiere
+[Select All]
+Selectează tot
+[Display name]
+Numele dvs.
+[Remember details]
+Reamintire detalii
+[No]
+Nu
+[All calls]
+Toate apelurile
+[SIP header]
+Antet SIP
+[Different user]
+Utilizator diferit
+[Different domain]
+Domeniu diferit
+[Different user or domain]
+Utilizator sau domeniu diferit
+[Different remote domain]
+Domeniu diferit de la distanţă
+[Deny incoming]
+Refuz apel
+[Allow IP rewrite]
+Permite rescrierea IP
+[Directory of users]
+Mapa utilizatorilor
+[Call on remote hold]
+Apel pe reţinere la distanţă
+[Call on local hold]
+Apel pe reţinere locală
+[Call on hold]
+Apel reţinut
+[Call is active]
+Apel activ
+[Menu]
+Meniu
+[Edit account]
+Editare cont
+[Add account...]
+Adaugă cont...
+[Remove account]
+Ștergere cont
+[Make active]
+Activare
+[Are you sure you want to remove?]
+Sunteți sigur ca doriti ștergerea?
+[Call pickup]
+Preluare apel
+[Speaker level]
+Volum difuzor
+[Microphone level]
+Volum microfon
+[Mute speaker]
+Fără sunet difuzor
+[Mute microphone]
+Fără sunet microfon
+[Please fill out at least the required fields marked with *.]
+Vă rugăm să completați cel puțin câmpurile obligatorii marcate cu *.
+[Ask your SIP provider how to configure the account correctly.]
+Adresați-vă furnizorului de SIP cum să configurați contul corect.
+[Random position]
+Poziția aleatorie a casetei de apel
+[Time]
+Timp
+[Donate]
+Dona
+[Enable local account]
+Activarea cont local
+[Send crash report]
+[Account name]
+[]

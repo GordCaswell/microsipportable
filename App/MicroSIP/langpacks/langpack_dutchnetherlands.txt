@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Bellen
+[End call]
+Beëindigen
+[Contacts]
+Contacten
+[Dialpad]
+Toetsenblok
+[Account]
+Account
+[Settings]
+Instellingen
+[Visit website]
+Bezoek website
+[Exit]
+Afsluiten
+[Ringing Sound]
+Belgeluid
+[Browse...]
+Bladeren...
+[Default]
+Standaard
+[Auto answer]
+Automatisch beantwoorden
+[Disable local account]
+Schakel lokaal account uit
+[OK]
+OK
+[Save]
+Opslaan
+[Cancel]
+Annuleren
+[SIP server]
+SIP server
+[SIP proxy]
+SIP proxy
+[User]
+Gebruiker
+[Domain]
+Domein
+[Password]
+Wachtwoord
+[Connecting...]
+Verbinden...
+[Online]
+Online
+[Local]
+Lokaal
+[Message]
+Bericht
+[Edit]
+Bewerken
+[Delete]
+Verwijderen
+[Add]
+Toevoegen
+[Bad Gateway]
+Foutieve gateway
+[Request Timeout]
+Verzoek time-out
+[Number]
+Nummer
+[Name]
+Naam
+[Contact]
+Contact
+[Incoming call]
+Inkomende oproep
+[Answer]
+Beantwoorden
+[Decline]
+Weigeren
+[Calling]
+Bellen
+[Connecting]
+Verbinden
+[Connected]
+Verbonden
+[Auto]
+Automatisch
+[Transport]
+Transport
+[Incorrect password]
+Onjuist wachtwoord
+[Public address]
+Publiek-adres
+[Media encryption]
+Media versleuteling
+[Disabled]
+Uitgeschakeld
+[Optional]
+Optioneel
+[Mandatory]
+Verplicht
+[STUN server]
+STUN server
+[Presence subscription]
+Presence-abonnement
+[Local port]
+Lokale poort
+[Ringing]
+Gaat over
+[Call ended]
+Gesprek beëindigd
+[Declined]
+Afgewezen
+[No address found]
+Geen adres gevonden
+[Request Terminated]
+Verzoek beëindigd
+[Away]
+Afwezig
+[Publish presence]
+Publiceer aanwezigheid
+[Session Progress]
+Sessievoortgang
+[Camera]
+Videobron
+[Video call]
+Video gesprek
+[Answer with video]
+Beantwoorden met video
+[View log file]
+Bekijk logbestand
+[Microphone]
+Microfoon
+[Speaker]
+Luidspreker
+[Audio codecs]
+Audio codecs
+[Video codec]
+Video codec
+[Check for updates]
+Controleer op updates
+[Daily]
+Dagelijks
+[Weekly]
+Wekelijks
+[Monthly]
+Maandelijks
+[Quarterly]
+Per kwartaal
+[Never]
+Nooit
+[Update available]
+Update beschikbaar
+[Do you want to update now?]
+Wilt u bijwerken?
+[Force codec for incoming]
+Forceer codec voor inkomend
+[Available]
+Beschikbaar
+[Enabled]
+Ingeschakeld
+[Disable H.264]
+Schakel H.264 uit
+[Disable H.263+]
+Schakel H.263+ uit
+[Invalid URI]
+Ongeldige URI
+[Offline]
+Offline
+[Single call mode]
+Enkel belmodus
+[Local Video]
+Lokale video
+[Call Transfer]
+Oproep doorschakelen
+[Transfer status]
+Doorschakelstatus
+[final]
+Einde
+[Call transfered successfully, disconnecting call]
+Oproep succesvol doorgschakeld, er wordt opgehangen
+[Hold]
+In de wacht
+[Transfer]
+Doorschakelen
+[Sound events]
+DTMF lokaal afspelen
+[Bitrate]
+Bitrate
+[Login]
+Login
+[Enable log file]
+Logbestand inschakelen
+[Calls]
+Gesprekken
+[Duration]
+Duur
+[Info]
+Informatie
+[display password]
+Wachtwoord tonen
+[From]
+Van
+[To]
+Naar
+[Ring device]
+Beltoon apparaat
+[Service Unavailable]
+Service niet beschikbaar
+[Invalid Request URI]
+Ongeldige aanvraag URI
+[Busy Here]
+Bezig
+[Trying]
+Proberen
+[Method Not Allowed]
+Methode niet toegestaan
+[Not Found]
+Niet gevonden
+[Always on Top]
+Altijd bovenaan
+[Connect]
+Verbinden
+[Last Call]
+Laatste Gesprek
+[Close All]
+Alles Sluiten
+[Copy]
+Kopiëren
+[Select All]
+Selecteer Alles
+[Display name]
+Weergavenaam
+[Remember details]
+Sla details op
+[No]
+Nee
+[All calls]
+Alle gesprekken
+[SIP header]
+SIP header
+[Different user]
+Andere gebruiker
+[Different domain]
+Ander domein
+[Different user or domain]
+Andere gebruiker of domein
+[Different remote domain]
+Ander domein op afstand
+[Deny incoming]
+Inkomend weigeren
+[Allow IP rewrite]
+IP herschrijven toestaan
+[Directory of users]
+Lijst van gebruikers
+[Call on remote hold]
+Gesprek in de wacht
+[Call on local hold]
+In de wacht
+[Call on hold]
+Gesprek in wacht
+[Call is active]
+Gesprek is actief
+[Menu]
+Menu
+[Edit account]
+Account wijzigen
+[Add account...]
+Account toevoegen...
+[Remove account]
+Account verwijderen
+[Make active]
+Activeren
+[Are you sure you want to remove?]
+Verwijderen, weet u het zeker?
+[Call pickup]
+Gesprek uit de wacht
+[Speaker level]
+Luidsprekerniveau
+[Microphone level]
+Microphone niveau
+[Mute speaker]
+Luidspreker dempen
+[Mute microphone]
+Microfoon dempen
+[Please fill out at least the required fields marked with *.]
+Vul tenminste de velden in die gemarkeerd zijn met een *.
+[Ask your SIP provider how to configure the account correctly.]
+Vraag je SIP provider hoe je jouw account configureert.
+[Random position]
+Willekeurige plaats van antwoordbox
+[Time]
+Tijd
+[Donate]
+Schenken
+[Enable local account]
+Lokaal account inschakelen
+[Send crash report]
+[Account name]
+[]

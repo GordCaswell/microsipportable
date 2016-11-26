@@ -1,0 +1,224 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Залгах
+[End call]
+Дуудлага дуусгах
+[Contacts]
+Контакт
+[Dialpad]
+Товчлуур
+[Account]
+Дугаар
+[Settings]
+[Visit website]
+[Exit]
+Гарах
+[Ringing Sound]
+[Browse...]
+Файл сонгох...
+[Default]
+Үндсэн
+[Auto answer]
+Автоматаар хариулах
+[Disable local account]
+Дотоод дансыг хаах
+[OK]
+[Save]
+[Cancel]
+Цуцлах
+[SIP server]
+[SIP proxy]
+[User]
+[Domain]
+Домэйн
+[Password]
+[Connecting...]
+Холбогдож байна...
+[Online]
+[Local]
+[Message]
+[Edit]
+Өөрчлөх
+[Delete]
+Устгах
+[Add]
+Нэмэх
+[Bad Gateway]
+Гарц буруу
+[Request Timeout]
+[Number]
+[Name]
+[Contact]
+Контакт
+[Incoming call]
+[Answer]
+Хариулах
+[Decline]
+Цуцлах
+[Calling]
+Дуудаж байна
+[Connecting]
+Холбогдож байна
+[Connected]
+Холбогдсон
+[Auto]
+Авто
+[Transport]
+[Incorrect password]
+[Public address]
+[Media encryption]
+[Disabled]
+Хаасан
+[Optional]
+[Mandatory]
+[STUN server]
+[Presence subscription]
+[Local port]
+[Ringing]
+[Call ended]
+Дуудлага дууслаа
+[Declined]
+Цуцалсан
+[No address found]
+[Request Terminated]
+[Away]
+Эзгүй
+[Publish presence]
+[Session Progress]
+[Camera]
+Камер
+[Video call]
+[Answer with video]
+Видеогоор хариулах
+[View log file]
+[Microphone]
+[Speaker]
+[Audio codecs]
+Аудио кодек
+[Video codec]
+[Check for updates]
+Шинэчлэлтийг шалгах
+[Daily]
+Өдөр бүр
+[Weekly]
+[Monthly]
+[Quarterly]
+[Never]
+[Update available]
+[Do you want to update now?]
+Та шинэчлэх үү?
+[Force codec for incoming]
+[Available]
+Чөлөөтэй
+[Enabled]
+Идэвхижүүлсэн
+[Disable H.264]
+H.264 хаах
+[Disable H.263+]
+H.263+ хаах
+[Invalid URI]
+[Offline]
+[Single call mode]
+[Local Video]
+[Call Transfer]
+Дуудлага шилжүүлэх
+[Transfer status]
+[final]
+эцсийн
+[Call transfered successfully, disconnecting call]
+Дуудлагыг шилжүүллээ. Холболтыг тасалж байна
+[Hold]
+[Transfer]
+[Sound events]
+[Bitrate]
+Bitrate
+[Login]
+[Enable log file]
+Лог файлыг идэвхижүүлэх
+[Calls]
+Дуудлага
+[Duration]
+Хугацаа
+[Info]
+[display password]
+Нууц үгийг харуулах
+[From]
+[To]
+[Ring device]
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+Завгүй
+[Trying]
+[Method Not Allowed]
+[Not Found]
+[Always on Top]
+Үргэлж харуулна
+[Connect]
+Холбох
+[Last Call]
+[Close All]
+Бүгдийг хаах
+[Copy]
+Хуулах
+[Select All]
+[Display name]
+Харуулах нэр
+[Remember details]
+[No]
+[All calls]
+Бүх дуудлага
+[SIP header]
+[Different user]
+Өөр хэрэглэгч
+[Different domain]
+Өөр домэйн
+[Different user or domain]
+Өөр хэрэглэгч/домэйн
+[Different remote domain]
+Өөр remote домэйн
+[Deny incoming]
+Ирэх дуудлагыг хаах
+[Allow IP rewrite]
+IP rewrite идэвхижүүлэх
+[Directory of users]
+Хэрэглэгчийн жагсаалт
+[Call on remote hold]
+Дуудлага хүлээгдсэн
+[Call on local hold]
+Дуудлага хүлээгдсэн
+[Call on hold]
+Дуудлага хүлээгдсэн
+[Call is active]
+Дуудлага хийгдэж байна
+[Menu]
+[Edit account]
+Дугаар өөрчлөх
+[Add account...]
+Дугаар нэмэх...
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+Та устгахдаа итгэлтэй байна уу?
+[Call pickup]
+Дуудлага авах
+[Speaker level]
+[Microphone level]
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+Та үйлчилгээ үзүүлэгчээс лавлана уу
+[Random position]
+[Time]
+[Donate]
+Хандивлах
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

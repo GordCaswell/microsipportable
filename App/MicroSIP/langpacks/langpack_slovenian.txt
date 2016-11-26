@@ -1,0 +1,206 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Kliči
+[End call]
+[Contacts]
+Stiki
+[Dialpad]
+[Account]
+Račun
+[Settings]
+Nastavitve
+[Visit website]
+Poglej na website
+[Exit]
+Končaj
+[Ringing Sound]
+[Browse...]
+Prebrskaj....
+[Default]
+[Auto answer]
+Avtomatski
+[Disable local account]
+[OK]
+[Save]
+Shrani
+[Cancel]
+Prekliči
+[SIP server]
+SIP strežnik
+[SIP proxy]
+SIP proxy
+[User]
+Uporabnik
+[Domain]
+[Password]
+Geslo
+[Connecting...]
+[Online]
+[Local]
+[Message]
+Sporočilo
+[Edit]
+[Delete]
+Izbriši
+[Add]
+Dodaj
+[Bad Gateway]
+[Request Timeout]
+[Number]
+Številka
+[Name]
+Ime
+[Contact]
+Stik
+[Incoming call]
+[Answer]
+Javi se
+[Decline]
+[Calling]
+[Connecting]
+[Connected]
+[Auto]
+Avtomatsko
+[Transport]
+[Incorrect password]
+[Public address]
+[Media encryption]
+[Disabled]
+Onemogočeno
+[Optional]
+[Mandatory]
+[STUN server]
+STUN strežnik
+[Presence subscription]
+[Local port]
+[Ringing]
+[Call ended]
+[Declined]
+[No address found]
+[Request Terminated]
+[Away]
+Nedosegljiv
+[Publish presence]
+[Session Progress]
+[Camera]
+Kamera
+[Video call]
+Video klic
+[Answer with video]
+Javi se z video
+[View log file]
+Poglej log datoteko
+[Microphone]
+Mikrofon
+[Speaker]
+Zvočnik
+[Audio codecs]
+Zvočni kodeki
+[Video codec]
+Video kodek
+[Check for updates]
+[Daily]
+Dnevno
+[Weekly]
+Tedensko
+[Monthly]
+Mesečno
+[Quarterly]
+[Never]
+Nikoli
+[Update available]
+Posodoitve na voljo
+[Do you want to update now?]
+[Force codec for incoming]
+[Available]
+Dosegljiv
+[Enabled]
+[Disable H.264]
+Onemogoči H.264+
+[Disable H.263+]
+Onemogoči H.263+
+[Invalid URI]
+[Offline]
+[Single call mode]
+[Local Video]
+[Call Transfer]
+[Transfer status]
+Status prevezave
+[final]
+[Call transfered successfully, disconnecting call]
+[Hold]
+[Transfer]
+Preveži
+[Sound events]
+[Bitrate]
+[Login]
+[Enable log file]
+[Calls]
+Klici
+[Duration]
+[Info]
+[display password]
+pokaži geslo
+[From]
+[To]
+[Ring device]
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+[Trying]
+Poiskušam
+[Method Not Allowed]
+[Not Found]
+[Always on Top]
+Vedno na vrhu
+[Connect]
+[Last Call]
+[Close All]
+[Copy]
+Kopiraj
+[Select All]
+[Display name]
+Vaše ime
+[Remember details]
+[No]
+Ne
+[All calls]
+Vsi klici
+[SIP header]
+[Different user]
+[Different domain]
+[Different user or domain]
+[Different remote domain]
+[Deny incoming]
+[Allow IP rewrite]
+[Directory of users]
+[Call on remote hold]
+[Call on local hold]
+[Call on hold]
+[Call is active]
+[Menu]
+[Edit account]
+[Add account...]
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+[Call pickup]
+[Speaker level]
+[Microphone level]
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random position]
+[Time]
+[Donate]
+Donate
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

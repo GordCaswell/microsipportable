@@ -1,0 +1,214 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Bel
+[End call]
+[Contacts]
+Kontakte
+[Dialpad]
+[Account]
+Rekening
+[Settings]
+Stellings
+[Visit website]
+Besoek WebWerf
+[Exit]
+[Ringing Sound]
+Lui Geluid
+[Browse...]
+[Default]
+[Auto answer]
+outomaties antwoord
+[Disable local account]
+[OK]
+Reg
+[Save]
+[Cancel]
+Kanseleer
+[SIP server]
+[SIP proxy]
+[User]
+Gebruiker
+[Domain]
+[Password]
+Wagwoord
+[Connecting...]
+[Online]
+Aanlyn
+[Local]
+[Message]
+[Edit]
+[Delete]
+[Add]
+voeg by
+[Bad Gateway]
+Verkeerde Gateway
+[Request Timeout]
+[Number]
+Nommer
+[Name]
+Naam
+[Contact]
+Kontak
+[Incoming call]
+[Answer]
+antwoord
+[Decline]
+[Calling]
+Bel
+[Connecting]
+[Connected]
+Gekonnekteer
+[Auto]
+outomaties
+[Transport]
+Vervoer
+[Incorrect password]
+[Public address]
+[Media encryption]
+[Disabled]
+[Optional]
+Optioneel
+[Mandatory]
+[STUN server]
+[Presence subscription]
+[Local port]
+[Ringing]
+Lui
+[Call ended]
+Oproep geëindig
+[Declined]
+[No address found]
+[Request Terminated]
+[Away]
+Weg
+[Publish presence]
+[Session Progress]
+[Camera]
+Kamera
+[Video call]
+Video Oproep
+[Answer with video]
+antwoord met video
+[View log file]
+[Microphone]
+[Speaker]
+[Audio codecs]
+oudio kodeerders
+[Video codec]
+[Check for updates]
+Soek vir opgradeerings middels
+[Daily]
+Daagliks
+[Weekly]
+weekliks
+[Monthly]
+[Quarterly]
+Kwartaaliks
+[Never]
+Nooit
+[Update available]
+New Weergawe beskikbaar
+[Do you want to update now?]
+[Force codec for incoming]
+[Available]
+Beskikbaar
+[Enabled]
+[Disable H.264]
+[Disable H.263+]
+[Invalid URI]
+[Offline]
+Van Lyn Af
+[Single call mode]
+[Local Video]
+[Call Transfer]
+Oproep oorplasing
+[Transfer status]
+[final]
+[Call transfered successfully, disconnecting call]
+Oproep oorplasing suksesvol, oproep afgeskakel
+[Hold]
+[Transfer]
+[Sound events]
+[Bitrate]
+[Login]
+[Enable log file]
+[Calls]
+Oproepe
+[Duration]
+[Info]
+[display password]
+[From]
+[To]
+Na
+[Ring device]
+Bel Toestel
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+Besig Hier
+[Trying]
+Tik
+[Method Not Allowed]
+[Not Found]
+Nie Gevind
+[Always on Top]
+Altyd Bo
+[Connect]
+Konnekteer
+[Last Call]
+[Close All]
+Eindig Alles
+[Copy]
+[Select All]
+Kies Almal
+[Display name]
+Jou naam
+[Remember details]
+[No]
+Nee
+[All calls]
+alle oproepe
+[SIP header]
+[Different user]
+[Different domain]
+[Different user or domain]
+[Different remote domain]
+[Deny incoming]
+[Allow IP rewrite]
+[Directory of users]
+[Call on remote hold]
+Oproep op afgeleëde breek
+[Call on local hold]
+Oproep op plaaslike breek
+[Call on hold]
+Oproep op breek
+[Call is active]
+Oproep is aktief
+[Menu]
+[Edit account]
+[Add account...]
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+[Call pickup]
+Oproep optel
+[Speaker level]
+[Microphone level]
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+Vra jou SIP verskaffer hoe om die rekening reg op te stel.
+[Random position]
+[Time]
+[Donate]
+Skenk
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

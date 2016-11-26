@@ -1,0 +1,298 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Volať
+[End call]
+Koniec hovoru
+[Contacts]
+Kontakty
+[Dialpad]
+Klávesnica
+[Account]
+Konto
+[Settings]
+Nastavenia
+[Visit website]
+Navštíviť webovú lokalitu
+[Exit]
+Zavrieť
+[Ringing Sound]
+Zvuk zvonenia
+[Browse...]
+Prechádzať ...
+[Default]
+Prednadstavené zariadenie
+[Auto answer]
+Automatická odpoveď
+[Disable local account]
+Vypnúť lokálny účet
+[OK]
+Potvrdiť
+[Save]
+Uložiť
+[Cancel]
+Zrušiť
+[SIP server]
+Server SIP
+[SIP proxy]
+Proxy SIP
+[User]
+Požívateľ
+[Domain]
+Doména
+[Password]
+Heslo
+[Connecting...]
+Pripája sa ...
+[Online]
+Pripojené
+[Local]
+Lokálny
+[Message]
+Odoslať správu
+[Edit]
+Upraviť
+[Delete]
+Vymazať
+[Add]
+Pridať
+[Bad Gateway]
+Nesprávna brána
+[Request Timeout]
+Časový limit vypršal
+[Number]
+Číslo
+[Name]
+Meno
+[Contact]
+Kontakt
+[Incoming call]
+Prichádzajúci hovor
+[Answer]
+Zdvihnúť
+[Decline]
+Zložiť
+[Calling]
+Volanie
+[Connecting]
+Pripája sa
+[Connected]
+Pripojené
+[Auto]
+Automaticky
+[Transport]
+Prenos
+[Incorrect password]
+Nesprávne heslo
+[Public address]
+Verejná adresa
+[Media encryption]
+Šifrovanie
+[Disabled]
+Vypnuté
+[Optional]
+Voliteľné
+[Mandatory]
+Povinné
+[STUN server]
+Server STUN
+[Presence subscription]
+Odoberať stav prítomnosti
+[Local port]
+Lokálny port
+[Ringing]
+Zvonenie
+[Call ended]
+Hovor skončený
+[Declined]
+Odmietnuté
+[No address found]
+Adresa nenájdená
+[Request Terminated]
+Požiadavka ukončená
+[Away]
+Neprítomný
+[Publish presence]
+Zverejňovať stav prítomnosti
+[Session Progress]
+Priebeh relácie
+[Camera]
+Kamera
+[Video call]
+Videohovor
+[Answer with video]
+Odpovedať videom
+[View log file]
+Zobraziť súbor denníka
+[Microphone]
+Mikrofón
+[Speaker]
+Reproduktor
+[Audio codecs]
+Zvukové kodeky
+[Video codec]
+Videokodek
+[Check for updates]
+Vyhľadať aktualizáciu
+[Daily]
+Denne
+[Weekly]
+Týždenne
+[Monthly]
+Mesačne
+[Quarterly]
+Štvrťročne
+[Never]
+Nikdy
+[Update available]
+K dispozícii je aktualizácia
+[Do you want to update now?]
+Chcete aktualizovať?
+[Force codec for incoming]
+Vynútený kodec pre prichádzajúci
+[Available]
+Dostupné
+[Enabled]
+Použité
+[Disable H.264]
+Vypnúť H.264
+[Disable H.263+]
+Vypnúť H.263+
+[Invalid URI]
+Nesprávne URI
+[Offline]
+Odpojené
+[Single call mode]
+Režim jedného hovoru
+[Local Video]
+Lokálne video
+[Call Transfer]
+Prepojenie hovoru
+[Transfer status]
+Stav prenosu
+[final]
+posledný
+[Call transfered successfully, disconnecting call]
+Hovor bol úspešne presmerovaný, odpojenie hovoru
+[Hold]
+Podržať
+[Transfer]
+Prepnúť
+[Sound events]
+Zvuky
+[Bitrate]
+Bitová rýchlosť
+[Login]
+Meno
+[Enable log file]
+Zapnúť súbor denníka
+[Calls]
+História
+[Duration]
+Trvanie
+[Info]
+Stav
+[display password]
+zobraziť heslo
+[From]
+Od
+[To]
+Pre
+[Ring device]
+Vyzváňanie
+[Service Unavailable]
+Služba nedostupná
+[Invalid Request URI]
+Chybná požiadavka URI
+[Busy Here]
+Obsadený
+[Trying]
+Pokúš sa
+[Method Not Allowed]
+Metóda nie je povolená
+[Not Found]
+Nenájdené
+[Always on Top]
+Vždy navrchu
+[Connect]
+Pripojiť
+[Last Call]
+Posledný h.
+[Close All]
+Zavrieť
+[Copy]
+Kopírovať
+[Select All]
+Vybrať všetko
+[Display name]
+Vaše meno
+[Remember details]
+Zapamätať detaily
+[No]
+Nie
+[All calls]
+Všetky hovory
+[SIP header]
+Hlavička SIP
+[Different user]
+Iný používateľ
+[Different domain]
+Iná doména
+[Different user or domain]
+Iný používateľ alebo doména
+[Different remote domain]
+Iná vzdialená doména
+[Deny incoming]
+Odmietnuť hovor
+[Allow IP rewrite]
+Povoliť prepis IP
+[Directory of users]
+Zoznam používateľov
+[Call on remote hold]
+Hovor je vzdialene pozdržaný
+[Call on local hold]
+Hovor je lokálne pozdržaný
+[Call on hold]
+Hovor je pozdržaný
+[Call is active]
+Hovor je aktívny
+[Menu]
+Menu
+[Edit account]
+Upraviť konto
+[Add account...]
+Pridať konto
+[Remove account]
+Odstrániť účet
+[Make active]
+Nastaviť ako aktívny
+[Are you sure you want to remove?]
+Ste si istý že chcete odstrániť ?
+[Call pickup]
+Prijať hovor
+[Speaker level]
+Úroveň reproduktora
+[Microphone level]
+Úroveň mikrofónu
+[Mute speaker]
+Vypnúť reproduktor
+[Mute microphone]
+Vypnúť mikrofón
+[Please fill out at least the required fields marked with *.]
+Prosím, vyplňte aspoň požadované polia označené *.
+[Ask your SIP provider how to configure the account correctly.]
+Opýtajte sa svojho poskytovateľa SIP, ako správne nakonfigurovať účet.
+[Random position]
+Náhodné pozície odpovedí krabica
+[Time]
+Čas
+[Donate]
+Darovať
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

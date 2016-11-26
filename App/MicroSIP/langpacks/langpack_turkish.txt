@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Ara
+[End call]
+Bitir
+[Contacts]
+Kişiler
+[Dialpad]
+Tuşlar
+[Account]
+Hesap
+[Settings]
+Ayarlar
+[Visit website]
+Websitesini ziyaret et
+[Exit]
+Çıkış
+[Ringing Sound]
+Zil Sesi
+[Browse...]
+Göz at...
+[Default]
+Varsayılan
+[Auto answer]
+Otomatik yanıtla
+[Disable local account]
+Yerel hesabı etkisizleştir
+[OK]
+Tamam
+[Save]
+Kaydet
+[Cancel]
+İptal
+[SIP server]
+SIP sunucu
+[SIP proxy]
+SIP vekil sunucu
+[User]
+Kullanıcı
+[Domain]
+Etki alanı
+[Password]
+Parola
+[Connecting...]
+Bağlanıyor...
+[Online]
+Çevrim içi
+[Local]
+Yerel
+[Message]
+İleti
+[Edit]
+Düzenle
+[Delete]
+Sil
+[Add]
+Ekle
+[Bad Gateway]
+Geçersiz Ağ Geçidi
+[Request Timeout]
+İstek Zaman Aşımı
+[Number]
+Numara
+[Name]
+Ad
+[Contact]
+Kişi
+[Incoming call]
+Gelen arama
+[Answer]
+Yanıtla
+[Decline]
+Reddet
+[Calling]
+Arıyor
+[Connecting]
+Bağlanıyor
+[Connected]
+Bağlandı
+[Auto]
+Kendiliğinden
+[Transport]
+Nakil
+[Incorrect password]
+Yanlış parola
+[Public address]
+Genel adres
+[Media encryption]
+Ortam şifrelemesi
+[Disabled]
+Etkin değil
+[Optional]
+İsteğe bağlı
+[Mandatory]
+Zorunlu
+[STUN server]
+STUN sunucu
+[Presence subscription]
+Varlık aboneliği
+[Local port]
+Yerel port
+[Ringing]
+Çalıyor
+[Call ended]
+Arama sonlandı
+[Declined]
+Reddedildi
+[No address found]
+Adres bulunamadı
+[Request Terminated]
+İsteğe Son Verildi
+[Away]
+Uzakta
+[Publish presence]
+Varlığı yayımla
+[Session Progress]
+Oturum Süreci
+[Camera]
+Kamera
+[Video call]
+Görüntülü ara
+[Answer with video]
+Görüntülü yanıtla
+[View log file]
+Kayıt dosyasını görüntüle
+[Microphone]
+Mikrofon
+[Speaker]
+Hoparlör
+[Audio codecs]
+Ses çözücüleri
+[Video codec]
+Görüntü çözücü
+[Check for updates]
+Güncelleştirmeleri denetle
+[Daily]
+Günlük
+[Weekly]
+Haftalık
+[Monthly]
+Aylık
+[Quarterly]
+Üç ayda bir
+[Never]
+Asla
+[Update available]
+Güncelleştirme mevcut
+[Do you want to update now?]
+Güncelleştirmek ister misiniz?
+[Force codec for incoming]
+Gelen arama için çözücüyü zorla
+[Available]
+Uygun
+[Enabled]
+Etkin
+[Disable H.264]
+H.264'ü etkisizleştir
+[Disable H.263+]
+H.263+'yı etkisizleştir
+[Invalid URI]
+Geçersiz URI
+[Offline]
+Çevrim dışı
+[Single call mode]
+Tekil arama modu
+[Local Video]
+Yerel Görüntü
+[Call Transfer]
+Arama Aktarma
+[Transfer status]
+Aktarma durumu
+[final]
+Son
+[Call transfered successfully, disconnecting call]
+Arama başarıyla aktarıldı, arama kesiliyor
+[Hold]
+Beklet
+[Transfer]
+Aktar
+[Sound events]
+Sesleri çal
+[Bitrate]
+Bit oranı
+[Login]
+Oturum aç
+[Enable log file]
+Kayıt dosyasını etkinleştir
+[Calls]
+Aramalar
+[Duration]
+Süre
+[Info]
+Bilgi
+[display password]
+Parolayı göster
+[From]
+Kimden
+[To]
+Kime
+[Ring device]
+Zil aygıtı
+[Service Unavailable]
+Hizmet Mevcut Değil
+[Invalid Request URI]
+Geçersiz URI İsteği
+[Busy Here]
+Meşgul
+[Trying]
+Deniyor
+[Method Not Allowed]
+İzinsiz Yöntem
+[Not Found]
+Bulunamadı
+[Always on Top]
+Her Zaman Üstte
+[Connect]
+Bağlan
+[Last Call]
+Son Arama
+[Close All]
+Hepsini Kapat
+[Copy]
+Kopyala
+[Select All]
+Hepsini Seç
+[Display name]
+Görünen Ad
+[Remember details]
+Ayrıntıları hatırla
+[No]
+Hayır
+[All calls]
+Tüm aramalar
+[SIP header]
+SIP başlığı
+[Different user]
+Farklı kullanıcı
+[Different domain]
+Farklı etki alanı
+[Different user or domain]
+Farklı kullanıcı veya etki alanı
+[Different remote domain]
+Farklı uzak etki alanı
+[Deny incoming]
+Gelen aramaları reddet
+[Allow IP rewrite]
+Değiştirilmiş IP'i kabullen
+[Directory of users]
+Kullanıcılar dizini
+[Call on remote hold]
+Arama uzak beklemede
+[Call on local hold]
+Arama yerel beklemede
+[Call on hold]
+Arama beklemede
+[Call is active]
+Arama etkin
+[Menu]
+Menü
+[Edit account]
+Hesabı düzenle
+[Add account...]
+Hesap ekle...
+[Remove account]
+Hesabı kaldır
+[Make active]
+Etkinleştir
+[Are you sure you want to remove?]
+Kaldırmak istediğinizden emin misiniz?
+[Call pickup]
+Çağrı topla
+[Speaker level]
+Hoparlör seviyesi
+[Microphone level]
+Mikrofon seviyesi
+[Mute speaker]
+Hoparlörü sustur
+[Mute microphone]
+Mikrofonu sustur
+[Please fill out at least the required fields marked with *.]
+Lütfen * ile işaretli alanları doldurun.
+[Ask your SIP provider how to configure the account correctly.]
+Hesap ayarlarını doğru yapmak için SIP servis sağlayıcınıza ulaşın
+[Random position]
+Konumu değişken cevaplama kutusu
+[Time]
+Zaman
+[Donate]
+Bağış yapın
+[Enable local account]
+Yerel hesabı etkinleştir
+[Send crash report]
+[Account name]
+[]

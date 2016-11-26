@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Volat
+[End call]
+Zavěsit
+[Contacts]
+Kontakty
+[Dialpad]
+Číselník
+[Account]
+Účet
+[Settings]
+Nastavení
+[Visit website]
+Navštívit web
+[Exit]
+Konec
+[Ringing Sound]
+Zvuk vyzvánění
+[Browse...]
+Procházet
+[Default]
+Defaultně
+[Auto answer]
+Automatická odpověď
+[Disable local account]
+Zakázat místní účet
+[OK]
+OK
+[Save]
+Uložit
+[Cancel]
+Zrušit
+[SIP server]
+SIP server
+[SIP proxy]
+SIP proxy
+[User]
+Uživatel
+[Domain]
+Doména
+[Password]
+Heslo
+[Connecting...]
+Připojuji...
+[Online]
+Připojeno
+[Local]
+Místní
+[Message]
+Zpráva
+[Edit]
+Upravit
+[Delete]
+Smazat
+[Add]
+Přidat
+[Bad Gateway]
+Špatná brána
+[Request Timeout]
+Požadavek vypršel
+[Number]
+Číslo
+[Name]
+Jméno
+[Contact]
+Kontakt
+[Incoming call]
+Příchozí hovor
+[Answer]
+Přijmout hovor
+[Decline]
+Zavěsit
+[Calling]
+volání
+[Connecting]
+Připojování
+[Connected]
+Připojeno
+[Auto]
+Auto
+[Transport]
+Přenos. protokol
+[Incorrect password]
+Špatné heslo
+[Public address]
+Veřejná adresa
+[Media encryption]
+Šifrování médií
+[Disabled]
+Nepovoleno
+[Optional]
+Volitelné
+[Mandatory]
+Povinně
+[STUN server]
+STUN server
+[Presence subscription]
+Odběr prezence
+[Local port]
+Místní port
+[Ringing]
+Vyzváním
+[Call ended]
+Hovor skončil
+[Declined]
+Zavěšeno
+[No address found]
+Adresa nenalezena
+[Request Terminated]
+Požadavek ukončen
+[Away]
+Pryč
+[Publish presence]
+Zvěřejnit přítomnost
+[Session Progress]
+Průběh sezení
+[Camera]
+Kamera
+[Video call]
+Videohovor
+[Answer with video]
+Přijmout s video
+[View log file]
+Zobrazit soubor záznamu
+[Microphone]
+Mikrofon
+[Speaker]
+Reproduktor
+[Audio codecs]
+Audio kodeky
+[Video codec]
+Video codec
+[Check for updates]
+Vyhledat aktualizace
+[Daily]
+Denně
+[Weekly]
+Týdně
+[Monthly]
+Měsíčně
+[Quarterly]
+Čtvrtletně
+[Never]
+Nikdy
+[Update available]
+Dostupná aktualizace
+[Do you want to update now?]
+Chcete aktualizovat?
+[Force codec for incoming]
+Vynucený kodek pro příchozí
+[Available]
+Dostupné
+[Enabled]
+Povoleno
+[Disable H.264]
+Zakázat H.264
+[Disable H.263+]
+Zakázat H.263+
+[Invalid URI]
+Neplatné URI
+[Offline]
+Odpojeno
+[Single call mode]
+Mód jednoho hovoru
+[Local Video]
+Místní video
+[Call Transfer]
+Přepojení hovoru
+[Transfer status]
+Stav přenosu
+[final]
+poslední
+[Call transfered successfully, disconnecting call]
+Přepojení úspěšné, ukončení hovoru
+[Hold]
+Podržet
+[Transfer]
+Přenos
+[Sound events]
+Události
+[Bitrate]
+Bitrate
+[Login]
+Přihlaš. jméno
+[Enable log file]
+Povolení log souboru
+[Calls]
+Hovory
+[Duration]
+Trvání
+[Info]
+Info
+[display password]
+zobrazit heslo
+[From]
+Z
+[To]
+Komu
+[Ring device]
+Vyzváněcí zařízení
+[Service Unavailable]
+Služby nedostupné
+[Invalid Request URI]
+Neplatný požadavek URI
+[Busy Here]
+Zaneprázdněn
+[Trying]
+Zkouším
+[Method Not Allowed]
+Netoda nepovolena
+[Not Found]
+Nenalezeno
+[Always on Top]
+Vždy navrchu
+[Connect]
+Připojit
+[Last Call]
+Posled. hovor
+[Close All]
+Zavřít vše
+[Copy]
+Kopírovat
+[Select All]
+Vybrat vše
+[Display name]
+Zobrazované jméno
+[Remember details]
+Zapamatovat podrobnosti
+[No]
+Ne
+[All calls]
+Všechny hovory
+[SIP header]
+Hlavička SIP
+[Different user]
+Rozdílný uživatel
+[Different domain]
+Rozdílná doména
+[Different user or domain]
+Rozdílný uživatel nebo doméná
+[Different remote domain]
+Rozdílná vzdálená doména
+[Deny incoming]
+Odmítnout příchozí
+[Allow IP rewrite]
+Povolit přepis IP
+[Directory of users]
+Seznam uživatelů
+[Call on remote hold]
+Hovor vzdáleně pozdržen
+[Call on local hold]
+Hovor lokálně pozdržen
+[Call on hold]
+Hovor pozdržen
+[Call is active]
+Hovor probíhá
+[Menu]
+Nabídka
+[Edit account]
+Upravit nastavení účtu
+[Add account...]
+Přidat účet...
+[Remove account]
+Odebrat účet
+[Make active]
+Nastavit jako aktivní
+[Are you sure you want to remove?]
+Opravdu odebrat?
+[Call pickup]
+Přijmout hovor
+[Speaker level]
+Úroveň hlasitosti reproduktoru
+[Microphone level]
+Úroveň hlasitosti mikrofonu
+[Mute speaker]
+Ztišit reprodukrot
+[Mute microphone]
+Ztišit mikrofon
+[Please fill out at least the required fields marked with *.]
+Prosím, vyplňte alespoň povinné údaje označené *
+[Ask your SIP provider how to configure the account correctly.]
+Zeptejte se svého poskytovatele SIP, jak správně nakonfigurovat úče
+[Random position]
+Náhodná pozice pole pro odpověď
+[Time]
+Čas
+[Donate]
+Darovat
+[Enable local account]
+Povolit místní účet
+[Send crash report]
+[Account name]
+[]

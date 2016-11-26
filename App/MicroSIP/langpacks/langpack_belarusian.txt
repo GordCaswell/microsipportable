@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Выклік
+[End call]
+Завяршыць
+[Contacts]
+Кантакты
+[Dialpad]
+Кнопкі
+[Account]
+Акаўнт
+[Settings]
+Налады
+[Visit website]
+Наведаць сайт
+[Exit]
+Выхад
+[Ringing Sound]
+Гук выкліку
+[Browse...]
+Выбраць...
+[Default]
+Па змаўчанні
+[Auto answer]
+Аўто адказ
+[Disable local account]
+Адключыць лакальны рахунак
+[OK]
+ОК
+[Save]
+Захаваць
+[Cancel]
+Адмена
+[SIP server]
+SIP сервер
+[SIP proxy]
+SIP проксі
+[User]
+Карыстальнік
+[Domain]
+Дамен
+[Password]
+Пароль
+[Connecting...]
+Падлучэнне...
+[Online]
+Анлайн
+[Local]
+Лакальны
+[Message]
+Паведамленне
+[Edit]
+Змяніць
+[Delete]
+Выдаліць
+[Add]
+Дадаць
+[Bad Gateway]
+Сервер не знойдзены
+[Request Timeout]
+Таймаўт запыту
+[Number]
+Нумар
+[Name]
+Імя
+[Contact]
+Кантакт
+[Incoming call]
+Уваходны выклік
+[Answer]
+Адказаць
+[Decline]
+Адхіліць
+[Calling]
+Набор нумара
+[Connecting]
+Злучэнне
+[Connected]
+Злучаны
+[Auto]
+Аўто
+[Transport]
+Транспарт
+[Incorrect password]
+Няправільны пароль
+[Public address]
+Публічны адрас
+[Media encryption]
+Шыфраванне медыя
+[Disabled]
+Адключана
+[Optional]
+Неабавязкова
+[Mandatory]
+Абавязкова
+[STUN server]
+STUN сервер
+[Presence subscription]
+Падпіска на прысутнасць
+[Local port]
+Лакальны порт
+[Ringing]
+Ідзе выклік
+[Call ended]
+Выклік завершаны
+[Declined]
+Выклік адхілены
+[No address found]
+Адрас не знойдзены
+[Request Terminated]
+Выклік адменены
+[Away]
+Адышоў
+[Publish presence]
+Публікаваць прысутнасць
+[Session Progress]
+Сесія прасоўваецца
+[Camera]
+Камера
+[Video call]
+Видеовызов
+[Answer with video]
+Адказаць з відэа
+[View log file]
+Прагляд лог файла
+[Microphone]
+Мікрафон
+[Speaker]
+Дынамікі
+[Audio codecs]
+Аўдыё кодэкі
+[Video codec]
+Відэа кодэк
+[Check for updates]
+Правяраць абнаўлення
+[Daily]
+Раз у дзень
+[Weekly]
+Раз у тыдзень
+[Monthly]
+Раз у месяц
+[Quarterly]
+Раз у квартал
+[Never]
+Ніколі
+[Update available]
+Даступна абнаўленне
+[Do you want to update now?]
+Вы хочаце абнавіць?
+[Force codec for incoming]
+Прымусовае выкарыстанне кодэка для ўваходных
+[Available]
+Даступныя
+[Enabled]
+Актыўныя
+[Disable H.264]
+Адключыць H.264
+[Disable H.263+]
+Адключыць H.263+
+[Invalid URI]
+Няправільны нумар
+[Offline]
+Афлайн
+[Single call mode]
+Рэжым адзіночнага выкліку
+[Local Video]
+Лакальнае відэа
+[Call Transfer]
+Перанакіраванне выкліку
+[Transfer status]
+Стан перанакіраваньні
+[final]
+апошні
+[Call transfered successfully, disconnecting call]
+Выклік паспяхова перанакіраваны, адключэнне
+[Hold]
+Утрыманне
+[Transfer]
+Перанакіраванне
+[Sound events]
+Агучваць DTMF
+[Bitrate]
+Бітрэйт
+[Login]
+Лагін
+[Enable log file]
+Ўключыць лог файл
+[Calls]
+Выклікі
+[Duration]
+Працягласць
+[Info]
+Інфа
+[display password]
+паказаць пароль
+[From]
+Ад
+[To]
+Каму
+[Ring device]
+Прылада для выкліку
+[Service Unavailable]
+Сэрвіс недаступны
+[Invalid Request URI]
+Няправільны нумар
+[Busy Here]
+Занята
+[Trying]
+Спроба
+[Method Not Allowed]
+Раз у тыдзень (no permission)
+[Not Found]
+Раз у тыдзен
+[Always on Top]
+Заўсёды зверху
+[Connect]
+Падключыць
+[Last Call]
+Апошні званок
+[Close All]
+Закрыць ўсе
+[Copy]
+Скапірваць
+[Select All]
+Выбраць усе
+[Display name]
+Паказаць імя
+[Remember details]
+Запомніць дадзеныя
+[No]
+Не
+[All calls]
+Усе званкі
+[SIP header]
+Загаловак SIP
+[Different user]
+Другі карыстальнік
+[Different domain]
+Другі дамен
+[Different user or domain]
+Другі карыстальнік або дамен
+[Different remote domain]
+Другі дыстанцыйны дамен
+[Deny incoming]
+Забараніць ўваходныя
+[Allow IP rewrite]
+Дазволіць перапісванне IP
+[Directory of users]
+Каталог карыстальнікаў
+[Call on remote hold]
+Званок на дыстанцыйным утрыманьні
+[Call on local hold]
+Званок на лакальным утрыманьні
+[Call on hold]
+Ўтрыманне званка
+[Call is active]
+Званок актыўны
+[Menu]
+Меню
+[Edit account]
+Змяніць аккаунт
+[Add account...]
+Дадаць аккаунт...
+[Remove account]
+Выдаліць аккаунт
+[Make active]
+Зрабіць актыўным
+[Are you sure you want to remove?]
+Вы ўпэўненыя, што хочаце выдаліць?
+[Call pickup]
+Перахоп званка
+[Speaker level]
+Узровень дынаміка
+[Microphone level]
+Узровень мікрафона
+[Mute speaker]
+Адключыць дынамік
+[Mute microphone]
+Адключыць мікрафон
+[Please fill out at least the required fields marked with *.]
+Калі ласка, запоўніце па меншай меры, абавязковыя палі, адзначаныя *.
+[Ask your SIP provider how to configure the account correctly.]
+Папытаеце вашага пастаўшчыка SIP, як правільна наладзіць аккаўнт.
+[Random position]
+Выпадковая пазіцыя полі адказу
+[Time]
+Час
+[Donate]
+Ахвяраваць
+[Enable local account]
+Ўключыць лакальны рахунак
+[Send crash report]
+[Account name]
+[]

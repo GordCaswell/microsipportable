@@ -1,0 +1,298 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+発信
+[End call]
+切る
+[Contacts]
+コンタクト
+[Dialpad]
+キーパッド
+[Account]
+アカウント
+[Settings]
+設定
+[Visit website]
+サイトへ
+[Exit]
+終了
+[Ringing Sound]
+呼出音
+[Browse...]
+参照...
+[Default]
+デフォルト
+[Auto answer]
+自動着信
+[Disable local account]
+ローカル接続無効
+[OK]
+Ok
+[Save]
+保存
+[Cancel]
+キャンセル
+[SIP server]
+SIP サーバ
+[SIP proxy]
+SIP プロキシ
+[User]
+ユーザ名
+[Domain]
+ドメイン
+[Password]
+暗証番号
+[Connecting...]
+接続中...
+[Online]
+オンライン
+[Local]
+ローカル
+[Message]
+メッセージ
+[Edit]
+編集
+[Delete]
+削除
+[Add]
+追加
+[Bad Gateway]
+不正なゲートウェイ
+[Request Timeout]
+リクエストタイムアウト
+[Number]
+番号
+[Name]
+名前
+[Contact]
+コンタクト
+[Incoming call]
+着信
+[Answer]
+応答
+[Decline]
+着信拒否
+[Calling]
+呼び出し中
+[Connecting]
+接続中
+[Connected]
+接続済
+[Auto]
+自動
+[Transport]
+転送
+[Incorrect password]
+パスワードが違います
+[Public address]
+公開アドレス
+[Media encryption]
+音声／映像暗号化
+[Disabled]
+無効
+[Optional]
+接続先による
+[Mandatory]
+必須
+[STUN server]
+STUN サーバ
+[Presence subscription]
+在席確認登録
+[Local port]
+ローカルポート
+[Ringing]
+応答を待っています
+[Call ended]
+通話終了
+[Declined]
+着信拒否済み
+[No address found]
+アドレスが見つかりません
+[Request Terminated]
+要求は終了されました
+[Away]
+離席中
+[Publish presence]
+在席状況通知
+[Session Progress]
+通話中
+[Camera]
+カメラ
+[Video call]
+ビデオ通話
+[Answer with video]
+ビデオ通話で応答
+[View log file]
+ログファイル表示
+[Microphone]
+マイク
+[Speaker]
+スピーカー
+[Audio codecs]
+音声コーデック
+[Video codec]
+ビデオコーデック
+[Check for updates]
+更新の確認
+[Daily]
+毎日
+[Weekly]
+毎週
+[Monthly]
+毎月
+[Quarterly]
+3ヶ月毎
+[Never]
+しない
+[Update available]
+更新があります
+[Do you want to update now?]
+を更新しますか?
+[Force codec for incoming]
+コーデックを強制使用する
+[Available]
+通話可能
+[Enabled]
+有効
+[Disable H.264]
+H.264 無効
+[Disable H.263+]
+H.263+ 無効
+[Invalid URI]
+アドレスが不正です
+[Offline]
+オフライン
+[Single call mode]
+シングルモード
+[Local Video]
+私の映像
+[Call Transfer]
+通話転送
+[Transfer status]
+転送状況
+[final]
+最終
+[Call transfered successfully, disconnecting call]
+転送しました。終了処理中です。
+[Hold]
+保留
+[Transfer]
+転送
+[Sound events]
+トーン信号音再生
+[Bitrate]
+ビットレート
+[Login]
+ログイン
+[Enable log file]
+ログを保存する
+[Calls]
+履歴
+[Duration]
+通話時間
+[Info]
+情報
+[display password]
+パスワードを表示する
+[From]
+From
+[To]
+～
+[Ring device]
+呼出音再生
+[Service Unavailable]
+サービスは利用できません
+[Invalid Request URI]
+指定のアドレスは不正です
+[Busy Here]
+使用中
+[Trying]
+試行中
+[Method Not Allowed]
+許可されていないメソッド
+[Not Found]
+見つかりません
+[Always on Top]
+常に最前面
+[Connect]
+接続
+[Last Call]
+最後の通話
+[Close All]
+すべて閉じる
+[Copy]
+コピー
+[Select All]
+すべて選択
+[Display name]
+あなたの名前
+[Remember details]
+パースワード記憶
+[No]
+いいえ
+[All calls]
+全ての通話
+[SIP header]
+SIPヘッダー
+[Different user]
+別のユーザー
+[Different domain]
+ドメイン名が異なります
+[Different user or domain]
+ユーザーかドメインが異なります
+[Different remote domain]
+リモートドメインが違います
+[Deny incoming]
+着信拒否
+[Allow IP rewrite]
+IP上書きを許可
+[Directory of users]
+ユーザーのディレクトリ
+[Call on remote hold]
+保留解除
+[Call on local hold]
+内線保留
+[Call on hold]
+保留
+[Call is active]
+通話有効
+[Menu]
+メニュー
+[Edit account]
+アカウント編集
+[Add account...]
+アカウント追加
+[Remove account]
+アカウント削除
+[Make active]
+有効化
+[Are you sure you want to remove?]
+本当に削除しますか？
+[Call pickup]
+コールピックアップ
+[Speaker level]
+音量
+[Microphone level]
+マイク音量
+[Mute speaker]
+消音
+[Mute microphone]
+マイク消音
+[Please fill out at least the required fields marked with *.]
+必須フィールドは、*でマークされ、少なくともご記入ください。
+[Ask your SIP provider how to configure the account correctly.]
+正しくアカウントを設定する方法をSIPプロバイダーを確認して下さい。
+[Random position]
+解答ボックスのランダムな位置
+[Time]
+時間
+[Donate]
+寄付します
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

@@ -1,0 +1,261 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Позив
+[End call]
+Забрши позив
+[Contacts]
+Контакти
+[Dialpad]
+Панел за позиве
+[Account]
+Рачун
+[Settings]
+[Visit website]
+Посетить сайт
+[Exit]
+Излази
+[Ringing Sound]
+[Browse...]
+Претрага
+[Default]
+Стандардна
+[Auto answer]
+Аутоматски одговор
+[Disable local account]
+Забрана локалног рачуна
+[OK]
+У реду
+[Save]
+[Cancel]
+Отказ
+[SIP server]
+[SIP proxy]
+[User]
+Пользователь
+[Domain]
+Домејн
+[Password]
+Лозинка
+[Connecting...]
+Повезивање...
+[Online]
+На вези
+[Local]
+Локални
+[Message]
+Порука
+[Edit]
+Уређивање
+[Delete]
+Обриши
+[Add]
+Додај
+[Bad Gateway]
+Лоша пренос
+[Request Timeout]
+[Number]
+Број
+[Name]
+Име
+[Contact]
+Контакт
+[Incoming call]
+Долазни позив
+[Answer]
+Одговор
+[Decline]
+Пад
+[Calling]
+Позивање
+[Connecting]
+Повезивање
+[Connected]
+Веза је постављена
+[Auto]
+Аутоматски
+[Transport]
+[Incorrect password]
+Неисправна лозинка
+[Public address]
+Jaвна адреса
+[Media encryption]
+Упознавање медије
+[Disabled]
+Забрањено
+[Optional]
+Oпционално
+[Mandatory]
+Обавезно
+[STUN server]
+[Presence subscription]
+Упис присуства
+[Local port]
+Локални port
+[Ringing]
+[Call ended]
+Позив завршен
+[Declined]
+Одбјен
+[No address found]
+Адреса није пронађена
+[Request Terminated]
+[Away]
+Odsutan
+[Publish presence]
+Појави присуства
+[Session Progress]
+[Camera]
+Камера
+[Video call]
+Видеозвонок
+[Answer with video]
+Одговос са видеом
+[View log file]
+Посмотреть лог-файл
+[Microphone]
+Микрофон
+[Speaker]
+[Audio codecs]
+Audio codecs
+[Video codec]
+Видео кодек
+[Check for updates]
+Проверите да ли постоје исправке
+[Daily]
+Дневни
+[Weekly]
+[Monthly]
+Месечно
+[Quarterly]
+Тромесечно
+[Never]
+Никад
+[Update available]
+[Do you want to update now?]
+Желите ажурирати?
+[Force codec for incoming]
+[Available]
+Доступан
+[Enabled]
+Омогућено
+[Disable H.264]
+Забрана H.264
+[Disable H.263+]
+Забрана H.263+
+[Invalid URI]
+Неисправан URI
+[Offline]
+Није на вези
+[Single call mode]
+[Local Video]
+Локални видео
+[Call Transfer]
+Преусмеривање позива
+[Transfer status]
+[final]
+Коначан
+[Call transfered successfully, disconnecting call]
+Успешно преусмеривање позива, прекид везе
+[Hold]
+држи
+[Transfer]
+[Sound events]
+[Bitrate]
+Bitrate
+[Login]
+Улоговање
+[Enable log file]
+Омогући log file
+[Calls]
+Позиви
+[Duration]
+Трајање
+[Info]
+Информација
+[display password]
+Лозинка дисплеја
+[From]
+од
+[To]
+[Ring device]
+[Service Unavailable]
+[Invalid Request URI]
+Неисправан URI захтев
+[Busy Here]
+Овде је заузет
+[Trying]
+[Method Not Allowed]
+Начин није дозвољен
+[Not Found]
+Није пронађено
+[Always on Top]
+Увек горе
+[Connect]
+Постави везу
+[Last Call]
+Последњи позив
+[Close All]
+Затвози све
+[Copy]
+Копирај
+[Select All]
+[Display name]
+[Remember details]
+Запамти детаље
+[No]
+Не
+[All calls]
+Сваки позив
+[SIP header]
+[Different user]
+Други корисник
+[Different domain]
+Други домејн
+[Different user or domain]
+Други корисник или домејн
+[Different remote domain]
+Други страни домејн
+[Deny incoming]
+Одбити позив
+[Allow IP rewrite]
+Дозвољен препис IP-a
+[Directory of users]
+Именик
+[Call on remote hold]
+Међумесни позив на чекању
+[Call on local hold]
+Локани позив на чекању
+[Call on hold]
+Позив на чекању
+[Call is active]
+Позив је активан
+[Menu]
+Меню
+[Edit account]
+[Add account...]
+sss
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+[Call pickup]
+[Speaker level]
+[Microphone level]
+Уровень микрофона
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random position]
+[Time]
+Время
+[Donate]
+Поклонити
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

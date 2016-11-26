@@ -1,0 +1,268 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+เรียก
+[End call]
+วางสาย
+[Contacts]
+ผู้ติดต่อ
+[Dialpad]
+ปุ่มโทร
+[Account]
+บัญชี
+[Settings]
+ตั้งค่า
+[Visit website]
+เยี่ยมชมเว็บไซต์
+[Exit]
+ออก
+[Ringing Sound]
+เสียงเรียกเข้า
+[Browse...]
+เลือกไฟล์
+[Default]
+ค่าเริ่มต้น
+[Auto answer]
+ตอบรับอัตโนมัติ
+[Disable local account]
+[OK]
+ตกลง
+[Save]
+บันทึก
+[Cancel]
+ยกเลิก
+[SIP server]
+[SIP proxy]
+[User]
+ผู้ใช้
+[Domain]
+โดเมน
+[Password]
+รหัสผ่าน
+[Connecting...]
+กำลังต่อสาย..
+[Online]
+ออนไลน์
+[Local]
+ภายใน
+[Message]
+ข้อความ
+[Edit]
+แก้ไข
+[Delete]
+ลบ
+[Add]
+เพิ่ม
+[Bad Gateway]
+จุดเชื่อมต่อมีปัญหา
+[Request Timeout]
+[Number]
+หมายเลข
+[Name]
+ชื่อ
+[Contact]
+ติดต่อ
+[Incoming call]
+สายเข้า
+[Answer]
+ตอบรับ
+[Decline]
+[Calling]
+กำลังเรียก
+[Connecting]
+กำลังต่อสาย
+[Connected]
+ยกเลิก
+[Auto]
+อัตโนมัติ
+[Transport]
+[Incorrect password]
+รหัสผ่านไม่ถูกต้อง
+[Public address]
+[Media encryption]
+การเข้ารหัสมีเดีย
+[Disabled]
+[Optional]
+ตัวเลือก
+[Mandatory]
+บังคับ
+[STUN server]
+[Presence subscription]
+[Local port]
+port ภายใน
+[Ringing]
+เรียกเข้า
+[Call ended]
+วางสาย
+[Declined]
+[No address found]
+เจอที่อยู่
+[Request Terminated]
+[Away]
+ไม่อยู่
+[Publish presence]
+[Session Progress]
+[Camera]
+กล้อง
+[Video call]
+วิดีโอคอล
+[Answer with video]
+ตอบรับด้วยวีดีโอ
+[View log file]
+ดู log file
+[Microphone]
+ไมโครโฟน
+[Speaker]
+ลำโพง
+[Audio codecs]
+รหัสสัญญาณเสียง
+[Video codec]
+รหัสสัญญาณภาพ
+[Check for updates]
+ตรวจสอบ Updates
+[Daily]
+ทุกวัน
+[Weekly]
+ทุกสัปดาห์
+[Monthly]
+ทุกเดือน
+[Quarterly]
+ทุก 3 เดือน
+[Never]
+ไม่เคย
+[Update available]
+[Do you want to update now?]
+คุณต้องการอัพเดท หรือไม่?
+[Force codec for incoming]
+[Available]
+ว่าง
+[Enabled]
+ใช้งาน
+[Disable H.264]
+ปิดใช้ H.264
+[Disable H.263+]
+ปิดใช้ H.263+
+[Invalid URI]
+[Offline]
+ออฟไลน์
+[Single call mode]
+โหมดใช้งานสายเดียว
+[Local Video]
+[Call Transfer]
+โอนสาย
+[Transfer status]
+สถานะโอนสาย
+[final]
+สุดท้าย
+[Call transfered successfully, disconnecting call]
+โอนสายเรียบร้อย, วางสาย
+[Hold]
+พักสาย
+[Transfer]
+โอนสาย
+[Sound events]
+[Bitrate]
+ความเร็ว
+[Login]
+เข้าระบบ
+[Enable log file]
+เปิดล็อคไฟล์
+[Calls]
+เรียก
+[Duration]
+ระหว่าง
+[Info]
+เกี่ยวกับ
+[display password]
+โชว์รหัสผ่าน
+[From]
+จาก
+[To]
+ถึง
+[Ring device]
+อุปกรณ์เสียง
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+ไม่ว่าง
+[Trying]
+ทำอีกครั้ง
+[Method Not Allowed]
+[Not Found]
+ไม่เจอ
+[Always on Top]
+อยู่ข้างบนตลอดเวลา
+[Connect]
+ต่อสาย
+[Last Call]
+สายล่าสุด
+[Close All]
+ปิดทั้งหมด
+[Copy]
+สำเนา
+[Select All]
+เลือกทั้งหมด
+[Display name]
+ชื่อคุณ
+[Remember details]
+จำรายละเอียด
+[No]
+ไม่
+[All calls]
+เบอร์โทรทั้งหมด
+[SIP header]
+[Different user]
+ผู้ใช้งานที่ต่างกัน
+[Different domain]
+โดเมนที่ต่างกัน
+[Different user or domain]
+ผู้ใช้งานหรือโดเมนที่ต่างกัน
+[Different remote domain]
+รีโมทโดเมนที่ต่างกัน
+[Deny incoming]
+ปฏิเสธสายโทรเข้า
+[Allow IP rewrite]
+เรียกใช้ IP เดิม
+[Directory of users]
+ไดเรกทอรีของผู้ใช้
+[Call on remote hold]
+[Call on local hold]
+[Call on hold]
+พักสาย
+[Call is active]
+[Menu]
+เมนู
+[Edit account]
+แก้ไขบัญชี
+[Add account...]
+เพิ่มบัญชี
+[Remove account]
+ลบบัญชีออก
+[Make active]
+ใช้งาน
+[Are you sure you want to remove?]
+คุณแน่ใจว่าต้องการลบ?
+[Call pickup]
+สายเรียกเข้า
+[Speaker level]
+ระดับเสียงลำโพง
+[Microphone level]
+ระดับเสียงไมโครโฟน
+[Mute speaker]
+ปิดเสียงลำโพง
+[Mute microphone]
+ปิดเสียงไมโครโฟน
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random position]
+[Time]
+[Donate]
+บริจาค
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

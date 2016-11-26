@@ -1,0 +1,268 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Thirrja
+[End call]
+Mbaro thirrjen
+[Contacts]
+Kontaktet
+[Dialpad]
+Numratori
+[Account]
+Llogaria
+[Settings]
+Konfigurimet
+[Visit website]
+Vizito webfaqen
+[Exit]
+Dil
+[Ringing Sound]
+Zëri cingërrues
+[Browse...]
+Shfleto...
+[Default]
+Parazgjedhur
+[Auto answer]
+Përgjigju automatikisht
+[Disable local account]
+Paaftëso llogarinë lokale
+[OK]
+OK
+[Save]
+Ruaj
+[Cancel]
+Anulo
+[SIP server]
+SIP serveri
+[SIP proxy]
+SIP proxy
+[User]
+Përdoruesi
+[Domain]
+Domeni
+[Password]
+Fjalëkalimi
+[Connecting...]
+Duke u lidhur...
+[Online]
+Në linjë
+[Local]
+Lokal
+[Message]
+Porosia
+[Edit]
+Redakto
+[Delete]
+Fshij
+[Add]
+Shto
+[Bad Gateway]
+Gateway i gabuar
+[Request Timeout]
+Tejkalim i kohës së kërkesës
+[Number]
+Numri
+[Name]
+Emri
+[Contact]
+Kontakto
+[Incoming call]
+Thirrja hyrëse
+[Answer]
+Përgjigju
+[Decline]
+Refuzo
+[Calling]
+Duke thirrur
+[Connecting]
+Duke u lidhur
+[Connected]
+I lidhur
+[Auto]
+Auto
+[Transport]
+Transporti
+[Incorrect password]
+Fjalëkalim i gabuar
+[Public address]
+Adresa publike
+[Media encryption]
+Shifrim i medias
+[Disabled]
+Paaftësuar
+[Optional]
+Jo i detyrueshëm
+[Mandatory]
+Detyrueshme
+[STUN server]
+STUN serveri
+[Presence subscription]
+Abonim i pranisë
+[Local port]
+Porti Lokal
+[Ringing]
+Duke cingërruar
+[Call ended]
+Thirrja mbaroi
+[Declined]
+Refuzuar
+[No address found]
+Adresa nuk u gjet
+[Request Terminated]
+Kërkesa perfundoi
+[Away]
+Larg
+[Publish presence]
+Publiko praninë
+[Session Progress]
+Përparimi i sesionit
+[Camera]
+Kamera
+[Video call]
+Video thirrja
+[Answer with video]
+Përgjigju me video
+[View log file]
+Shiko log fajllin
+[Microphone]
+Mikrofoni
+[Speaker]
+Alltoparlanti
+[Audio codecs]
+Kodekët e zërit
+[Video codec]
+Video codec-u
+[Check for updates]
+Kontrollo përditësimet
+[Daily]
+Ditor
+[Weekly]
+Javor
+[Monthly]
+Mujor
+[Quarterly]
+Tremujor
+[Never]
+Asnjëherë
+[Update available]
+Përditësim i mundshëm
+[Do you want to update now?]
+A doni t'a përditësoni?
+[Force codec for incoming]
+[Available]
+Në dispozicion
+[Enabled]
+I lëshuar
+[Disable H.264]
+Paaftëso H.264
+[Disable H.263+]
+Paaftëso H.263+
+[Invalid URI]
+URI jokorrekt
+[Offline]
+Jashtë linjës
+[Single call mode]
+Modusi për thirrje të vetme
+[Local Video]
+Video lokale
+[Call Transfer]
+Transferim i thirrjes
+[Transfer status]
+Statusi i transferit
+[final]
+finale
+[Call transfered successfully, disconnecting call]
+Thirrja u transferua me sukses, duke shkëputur thirrjen
+[Hold]
+Mbaj
+[Transfer]
+Transfero
+[Sound events]
+Tingujt
+[Bitrate]
+Bitrate
+[Login]
+Hyr
+[Enable log file]
+Lësho log fajllin
+[Calls]
+Thirrjet
+[Duration]
+Kohëzgjatja
+[Info]
+Info
+[display password]
+shfaq fjalëkalimin
+[From]
+Nga
+[To]
+Drejt
+[Ring device]
+Cingërro pajisjen
+[Service Unavailable]
+Shërbimi
+[Invalid Request URI]
+URI kërkesë jokorrekte
+[Busy Here]
+I nxënë
+[Trying]
+Duke provuar
+[Method Not Allowed]
+Metodë e palejueshme
+[Not Found]
+Nuk u gjet
+[Always on Top]
+Gjithnjë në maje
+[Connect]
+Lidhu
+[Last Call]
+Thirrja e fundit
+[Close All]
+Mbyll të gjithat
+[Copy]
+Kopjo
+[Select All]
+Zgjedh të gjitha
+[Display name]
+Emri yt
+[Remember details]
+Kujto detajet
+[No]
+[All calls]
+[SIP header]
+[Different user]
+[Different domain]
+[Different user or domain]
+[Different remote domain]
+[Deny incoming]
+[Allow IP rewrite]
+[Directory of users]
+[Call on remote hold]
+[Call on local hold]
+[Call on hold]
+[Call is active]
+[Menu]
+[Edit account]
+[Add account...]
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+[Call pickup]
+[Speaker level]
+[Microphone level]
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random position]
+[Time]
+[Donate]
+Dhuroj
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

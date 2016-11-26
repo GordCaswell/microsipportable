@@ -1,0 +1,195 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Pangil
+[End call]
+[Contacts]
+[Dialpad]
+[Account]
+Akaun
+[Settings]
+Tetapan
+[Visit website]
+[Exit]
+Keluar
+[Ringing Sound]
+[Browse...]
+[Default]
+[Auto answer]
+[Disable local account]
+[OK]
+OK
+[Save]
+Simpan
+[Cancel]
+[SIP server]
+[SIP proxy]
+[User]
+[Domain]
+Domain
+[Password]
+Kata Laluan
+[Connecting...]
+[Online]
+[Local]
+[Message]
+Mesej
+[Edit]
+Ubah
+[Delete]
+Padam
+[Add]
+Tambah
+[Bad Gateway]
+[Request Timeout]
+[Number]
+Nombor
+[Name]
+Nama
+[Contact]
+[Incoming call]
+[Answer]
+Jawab
+[Decline]
+[Calling]
+Memanggil
+[Connecting]
+[Connected]
+[Auto]
+[Transport]
+[Incorrect password]
+[Public address]
+[Media encryption]
+[Disabled]
+[Optional]
+[Mandatory]
+[STUN server]
+[Presence subscription]
+[Local port]
+[Ringing]
+[Call ended]
+Panggilan Tamat
+[Declined]
+[No address found]
+Tiada alamat dijumpai
+[Request Terminated]
+[Away]
+Tiada
+[Publish presence]
+[Session Progress]
+[Camera]
+Kamera
+[Video call]
+Panggilan Video
+[Answer with video]
+Jawab dengan video
+[View log file]
+[Microphone]
+[Speaker]
+[Audio codecs]
+[Video codec]
+[Check for updates]
+[Daily]
+Harian
+[Weekly]
+Mingguan
+[Monthly]
+[Quarterly]
+[Never]
+Tidak sama sekali
+[Update available]
+[Do you want to update now?]
+[Force codec for incoming]
+[Available]
+Sedia
+[Enabled]
+[Disable H.264]
+[Disable H.263+]
+[Invalid URI]
+[Offline]
+[Single call mode]
+[Local Video]
+[Call Transfer]
+[Transfer status]
+[final]
+[Call transfered successfully, disconnecting call]
+[Hold]
+Menunggu
+[Transfer]
+[Sound events]
+[Bitrate]
+[Login]
+[Enable log file]
+[Calls]
+[Duration]
+Durasi
+[Info]
+[display password]
+[From]
+Daripada
+[To]
+Kepada
+[Ring device]
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+Sedang Sibuk
+[Trying]
+Mencuba
+[Method Not Allowed]
+[Not Found]
+Tidak Dijumpai
+[Always on Top]
+[Connect]
+[Last Call]
+[Close All]
+Tutup Semua
+[Copy]
+Salin
+[Select All]
+Simpan Semua
+[Display name]
+Nama anda
+[Remember details]
+[No]
+Tidak
+[All calls]
+Semua Panggilan
+[SIP header]
+[Different user]
+[Different domain]
+[Different user or domain]
+[Different remote domain]
+[Deny incoming]
+[Allow IP rewrite]
+test
+[Directory of users]
+[Call on remote hold]
+[Call on local hold]
+[Call on hold]
+[Call is active]
+Panggilan Aktif
+[Menu]
+[Edit account]
+[Add account...]
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+[Call pickup]
+[Speaker level]
+[Microphone level]
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random position]
+[Time]
+[Donate]
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

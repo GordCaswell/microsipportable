@@ -1,0 +1,235 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Skambutis
+[End call]
+Baigti skambutį
+[Contacts]
+Kontaktai
+[Dialpad]
+Skaičių klaviatūra
+[Account]
+Paskyra
+[Settings]
+Nustatymai
+[Visit website]
+Aplankyti tinklalapį
+[Exit]
+Išeiti
+[Ringing Sound]
+Skambučio garsas
+[Browse...]
+[Default]
+Pagrindinis
+[Auto answer]
+Automatinis atsakymas
+[Disable local account]
+[OK]
+Gerai
+[Save]
+Išsaugoti
+[Cancel]
+Atsisakyti
+[SIP server]
+SIP serveris
+[SIP proxy]
+[User]
+Vartotojas
+[Domain]
+Domenas
+[Password]
+Slaptažodis
+[Connecting...]
+Jungiasi...
+[Online]
+Esu
+[Local]
+[Message]
+Žinutė
+[Edit]
+Redaguoti
+[Delete]
+Ištrinti
+[Add]
+Pridėti
+[Bad Gateway]
+[Request Timeout]
+[Number]
+Numeris
+[Name]
+Vardas
+[Contact]
+Kontaktas
+[Incoming call]
+Įeinantis skambutis
+[Answer]
+Atsakyti
+[Decline]
+Atmesti
+[Calling]
+Skambina
+[Connecting]
+Jungiamasi
+[Connected]
+Prisijungta
+[Auto]
+Auto
+[Transport]
+[Incorrect password]
+Neteisingas slaptažodis
+[Public address]
+[Media encryption]
+[Disabled]
+[Optional]
+[Mandatory]
+[STUN server]
+[Presence subscription]
+[Local port]
+[Ringing]
+Skamba
+[Call ended]
+Skambutis baigtas
+[Declined]
+Atmestas
+[No address found]
+Nerastas adresas
+[Request Terminated]
+[Away]
+Nesu
+[Publish presence]
+[Session Progress]
+[Camera]
+Kamera
+[Video call]
+Video skambutis
+[Answer with video]
+Atsakyti su vaizdu
+[View log file]
+[Microphone]
+Mikrofonas
+[Speaker]
+Garsiakalbis
+[Audio codecs]
+[Video codec]
+[Check for updates]
+Ieškoti atnaujinimų
+[Daily]
+Kasdien
+[Weekly]
+Kas savaitę
+[Monthly]
+Kas mėnesį
+[Quarterly]
+Kas ketvirtį
+[Never]
+Niekada
+[Update available]
+Galimas atnaujinimas
+[Do you want to update now?]
+Ar norite atnaujinti?
+[Force codec for incoming]
+[Available]
+Galimas
+[Enabled]
+Įgalintas
+[Disable H.264]
+[Disable H.263+]
+[Invalid URI]
+[Offline]
+Neprisijungęs
+[Single call mode]
+[Local Video]
+[Call Transfer]
+[Transfer status]
+[final]
+[Call transfered successfully, disconnecting call]
+[Hold]
+Sulaikyti
+[Transfer]
+[Sound events]
+[Bitrate]
+[Login]
+Registruotis
+[Enable log file]
+[Calls]
+Skambučiai
+[Duration]
+Trukmė
+[Info]
+Info
+[display password]
+rodyti slaptažodį
+[From]
+Nuo
+[To]
+Kam
+[Ring device]
+Skambučio įrenginis
+[Service Unavailable]
+Paslauga neprieinama
+[Invalid Request URI]
+[Busy Here]
+[Trying]
+Bandoma
+[Method Not Allowed]
+[Not Found]
+Nerasta
+[Always on Top]
+Visada viršuje
+[Connect]
+Prisijungti
+[Last Call]
+Paskutinis skambutis
+[Close All]
+Uždaryti visus
+[Copy]
+Kopijuoti
+[Select All]
+Pasirinkti visus
+[Display name]
+Jūsų vardas
+[Remember details]
+[No]
+Ne
+[All calls]
+Visi skambučiai
+[SIP header]
+[Different user]
+[Different domain]
+[Different user or domain]
+[Different remote domain]
+[Deny incoming]
+Uždrausti įeinančius
+[Allow IP rewrite]
+Leisti IP rewrite
+[Directory of users]
+[Call on remote hold]
+[Call on local hold]
+[Call on hold]
+Skambutis sulaikomas
+[Call is active]
+[Menu]
+[Edit account]
+[Add account...]
+[Remove account]
+[Make active]
+[Are you sure you want to remove?]
+[Call pickup]
+[Speaker level]
+[Microphone level]
+[Mute speaker]
+[Mute microphone]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random position]
+[Time]
+[Donate]
+Paaukok
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

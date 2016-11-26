@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Chamar
+[End call]
+Desligar
+[Contacts]
+Contatos
+[Dialpad]
+Teclado
+[Account]
+Conta
+[Settings]
+Configurações
+[Visit website]
+Visitar o site
+[Exit]
+Sair
+[Ringing Sound]
+Som de Chamada
+[Browse...]
+Procurar...
+[Default]
+Padrão
+[Auto answer]
+Atendimento automático
+[Disable local account]
+Desabilitar conta local
+[OK]
+OK
+[Save]
+Salvar
+[Cancel]
+Cancelar
+[SIP server]
+Servidor SIP
+[SIP proxy]
+Proxy SIP
+[User]
+Usuário
+[Domain]
+Domínio
+[Password]
+Senha
+[Connecting...]
+Conectando...
+[Online]
+Online
+[Local]
+Local
+[Message]
+Mensagem
+[Edit]
+Editar
+[Delete]
+Remover
+[Add]
+Adicionar
+[Bad Gateway]
+Gateway Inválido
+[Request Timeout]
+Tempo Limite da Requisição
+[Number]
+Número
+[Name]
+Nome
+[Contact]
+Contato
+[Incoming call]
+Chamada recebida
+[Answer]
+Atender
+[Decline]
+Recusar
+[Calling]
+Chamando
+[Connecting]
+Conectando
+[Connected]
+Conectado
+[Auto]
+Auto
+[Transport]
+Transporte
+[Incorrect password]
+Senha incorreta
+[Public address]
+Endereço público
+[Media encryption]
+Criptografia da mídia
+[Disabled]
+Desabilitado
+[Optional]
+Opcional
+[Mandatory]
+Mandatório
+[STUN server]
+Servidor STUN
+[Presence subscription]
+Inscrição de presença
+[Local port]
+Porta local
+[Ringing]
+Chamando
+[Call ended]
+Chamada terminada
+[Declined]
+Recusada
+[No address found]
+Nenhum endereço encontrado
+[Request Terminated]
+Requisição Terminada
+[Away]
+Ausente
+[Publish presence]
+Publicar presença
+[Session Progress]
+Sessão em Andamento
+[Camera]
+Câmera
+[Video call]
+Ligação com vídeo
+[Answer with video]
+Atender com video
+[View log file]
+Visualizar arquivo de log
+[Microphone]
+Microfone
+[Speaker]
+Alto-falante
+[Audio codecs]
+Codecs de Audio
+[Video codec]
+Codec de vídeo
+[Check for updates]
+Verificar atualizações
+[Daily]
+Diário
+[Weekly]
+Semanal
+[Monthly]
+Mensal
+[Quarterly]
+Trimestral
+[Never]
+Nunca
+[Update available]
+Atualização disponível
+[Do you want to update now?]
+Deseja atualizar?
+[Force codec for incoming]
+Forçar codec para chamada recebida
+[Available]
+Disponível
+[Enabled]
+Habilitado
+[Disable H.264]
+Desabilitar H.264
+[Disable H.263+]
+Desabilitar H.263+
+[Invalid URI]
+URI Invalida
+[Offline]
+Desconectado
+[Single call mode]
+Modo de ligação simples
+[Local Video]
+Vídeo Local
+[Call Transfer]
+Transferir Chamada
+[Transfer status]
+Status da transferência
+[final]
+finalizar
+[Call transfered successfully, disconnecting call]
+Ligação transferida com sucesso, desconectando a ligação
+[Hold]
+Espera
+[Transfer]
+Transferir
+[Sound events]
+Enviar DTMF durante ligação
+[Bitrate]
+Bitrate
+[Login]
+Login
+[Enable log file]
+Habilitar arquivo de log
+[Calls]
+Ligações
+[Duration]
+Duração
+[Info]
+Informação
+[display password]
+exibir senha
+[From]
+De
+[To]
+Para
+[Ring device]
+Chamando
+[Service Unavailable]
+Serviço não disponível
+[Invalid Request URI]
+Solicitação Invalida de de URI
+[Busy Here]
+Ocupado
+[Trying]
+Tentando
+[Method Not Allowed]
+Método não aceito
+[Not Found]
+Não existe
+[Always on Top]
+Sempre no Topo
+[Connect]
+Conectar
+[Last Call]
+Ultima Chamada
+[Close All]
+Fechar todos
+[Copy]
+Copiar
+[Select All]
+Selecionar todos
+[Display name]
+Seu nome
+[Remember details]
+Lembrar detalhes
+[No]
+Não
+[All calls]
+Todas as chamadas
+[SIP header]
+Leitor SIP
+[Different user]
+Outro usuário
+[Different domain]
+Outro domínio
+[Different user or domain]
+Outro usuário ou domínio
+[Different remote domain]
+Outro domínio remoto
+[Deny incoming]
+Negar recebimento
+[Allow IP rewrite]
+Permitir reescrever IP
+[Directory of users]
+Diretório de usuários
+[Call on remote hold]
+Chamada em espera remota
+[Call on local hold]
+Chamada em espera local
+[Call on hold]
+Chamada em espera
+[Call is active]
+Chamada está ativa
+[Menu]
+Menu
+[Edit account]
+Editar conta
+[Add account...]
+Adicionar conta...
+[Remove account]
+Remover conta
+[Make active]
+Manter ativa
+[Are you sure you want to remove?]
+Você deseja realmente remover?
+[Call pickup]
+Puxar ligação
+[Speaker level]
+Volume de Recepção
+[Microphone level]
+Volume de Transmição
+[Mute speaker]
+Silenciar Recepção
+[Mute microphone]
+Silenciar Transmição
+[Please fill out at least the required fields marked with *.]
+Por favor preencha os campos marcados com *.
+[Ask your SIP provider how to configure the account correctly.]
+Verifique com seu provedor SIP como configurar a conta voip corretamente.
+[Random position]
+Posição aleatória da caixa de atendimento
+[Time]
+Tempo
+[Donate]
+Doar
+[Enable local account]
+Habilitar conta local
+[Send crash report]
+[Account name]
+[]

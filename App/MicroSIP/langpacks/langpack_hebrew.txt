@@ -1,0 +1,299 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 1
+
+; utf8
+
+[Call]
+חיוג
+[End call]
+סיים שיחה
+[Contacts]
+אנשי קשר
+[Dialpad]
+לוח חיוג
+[Account]
+חשבון
+[Settings]
+הגדרות
+[Visit website]
+עמוד בית
+[Exit]
+יציאה
+[Ringing Sound]
+קול צלצול
+[Browse...]
+עיון...
+[Default]
+ברירת מחדל
+[Auto answer]
+מענה אוטומטי
+[Disable local account]
+נטרל חשבון מקומי
+[OK]
+אישור
+[Save]
+שמור
+[Cancel]
+ביטול
+[SIP server]
+שרת SIP
+[SIP proxy]
+פרוקסי SIP
+[User]
+שם משתמש
+[Domain]
+מתחם
+[Password]
+סיסמה
+[Connecting...]
+מתחבר כעת...
+[Online]
+מקוון
+[Local]
+מקומי
+[Message]
+הודעה
+[Edit]
+ערוך
+[Delete]
+מחק
+[Add]
+הוסף
+[Bad Gateway]
+שער לא תקין
+[Request Timeout]
+תם זמן בקשה
+[Number]
+מספר
+[Name]
+שם
+[Contact]
+איש קשר
+[Incoming call]
+שיחה נכנסת
+[Answer]
+קבל
+[Decline]
+דחה
+[Calling]
+מתקשר כעת
+[Connecting]
+מתחבר כעת
+[Connected]
+מחובר
+[Auto]
+אוטומטי
+[Transport]
+מוביל
+[Incorrect password]
+מילת מעבר שגויה
+[Public address]
+כתובת ציבורית
+[Media encryption]
+הצפנת מדיה
+[Disabled]
+ביטול
+[Optional]
+רשות
+[Mandatory]
+חובה
+[STUN server]
+שרת STUN
+[Presence subscription]
+הצגת מצב נוכחות
+[Local port]
+פורט מקומי
+[Ringing]
+מצלצל
+[Call ended]
+השיחה הסתיימה
+[Declined]
+נדחתה
+[No address found]
+לא נמצאה כתובת
+[Request Terminated]
+בקשה הסתיימה
+[Away]
+לא נמצא
+[Publish presence]
+פרסום נוכחות
+[Session Progress]
+התקדמות הסשן
+[Camera]
+מצלמה
+[Video call]
+שיחת וידאו
+[Answer with video]
+מענה עם וידאו
+[View log file]
+הצג תרשים פעולות
+[Microphone]
+מיקרופון
+[Speaker]
+רמקול
+[Audio codecs]
+קודק שמע
+[Video codec]
+קודק וידאו
+[Check for updates]
+בדוק עבור עדכונים
+[Daily]
+כל יום
+[Weekly]
+כל שבוע
+[Monthly]
+כל חודש
+[Quarterly]
+כל שלושה חודשים
+[Never]
+אף פעם
+[Update available]
+קיים עדכון זמין
+[Do you want to update now?]
+האם ברצונך לעדכן את?
+[Force codec for incoming]
+כפה מקודד עבור נכנסוות
+[Available]
+זמינים
+[Enabled]
+מאופשרים
+[Disable H.264]
+נטרל H.264
+[Disable H.263+]
+נטרל H.263+
+[Invalid URI]
+כתובת שגויה
+[Offline]
+לא מחובר
+[Single call mode]
+מצב שיחה בודדת
+[Local Video]
+וידאו מקומי
+[Call Transfer]
+העברת שיחה
+[Transfer status]
+מצב העברה
+[final]
+גמר
+[Call transfered successfully, disconnecting call]
+שיחה הועברה בהצלחה, מנתק שיחה כעת
+[Hold]
+החזק
+[Transfer]
+העבר
+[Sound events]
+אירועי צליל
+[Bitrate]
+שיעור סיביות
+[Login]
+התחבר
+[Enable log file]
+אפשור קובץ תרשים פעילות
+[Calls]
+שיחות
+[Duration]
+משך
+[Info]
+מידע
+[display password]
+הצג סיסמה
+[From]
+מאת
+[To]
+אל
+[Ring device]
+התקן צליל
+[Service Unavailable]
+השירות לא זמין
+[Invalid Request URI]
+כתובת בקשה שגויה
+[Busy Here]
+אני עסוק/ה
+[Trying]
+מנסה כעת
+[Method Not Allowed]
+שיטה לא מותרת
+[Not Found]
+לא נמצא
+[Always on Top]
+תמיד עליון
+[Connect]
+התחבר
+[Last Call]
+שיחה אחרונה
+[Close All]
+סגור הכל
+[Copy]
+העתק
+[Select All]
+בחר הכל
+[Display name]
+שמך
+[Remember details]
+זכור פרטים
+[No]
+לא
+[All calls]
+כל השיחות
+[SIP header]
+תקורת SIP
+[Different user]
+משתמש שונה
+[Different domain]
+מתחם שונה
+[Different user or domain]
+משתמש או מתחם שונה
+[Different remote domain]
+מתחם מרוחק שונה
+[Deny incoming]
+אסור נכנסות
+[Allow IP rewrite]
+התר שכתוב IP
+[Directory of users]
+ספריית משתמשים
+[Call on remote hold]
+שיחה בהמתנה מרוחקת
+[Call on local hold]
+שיחה בהמתנה מקומית
+[Call on hold]
+שיחה בהמתנה
+[Call is active]
+שיחה הינה פעילה
+[Menu]
+תפריט
+[Edit account]
+ערוך חשבון
+[Add account...]
+הוסף חשבון...
+[Remove account]
+הסר חשבון
+[Make active]
+הפוך לפעיל
+[Are you sure you want to remove?]
+האם אתה בטוח כי ברצונך להסיר?
+[Call pickup]
+מענה לשיחה
+[Speaker level]
+רמת רמקול
+[Microphone level]
+רמת מיקרופון
+[Mute speaker]
+השתק רמקול
+[Mute microphone]
+השתק מיקרופון
+[Please fill out at least the required fields marked with *.]
+מלא לפחות את השדות המסומנים
+[Ask your SIP provider how to configure the account correctly.]
+שאל את מנהל החשבון שלך כיצד להגדיר את השלוחה
+[Random position]
+עמדה אקראית של תיבת שיחה נכנסת
+[Time]
+זְמַן
+[Donate]
+לִתְרוֹם
+[Enable local account]
+אפשר חשבון מקומי
+[Send crash report]
+[Account name]
+[]

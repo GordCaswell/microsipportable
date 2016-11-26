@@ -1,0 +1,298 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 1
+
+; utf8
+
+[Call]
+تماس
+[End call]
+پایان تماس
+[Contacts]
+دفترچه تلفن
+[Dialpad]
+شماره گیری
+[Account]
+حساب کاربری
+[Settings]
+تنظیمات
+[Visit website]
+بازدید از وب سایت
+[Exit]
+خروج
+[Ringing Sound]
+صدای زنگ
+[Browse...]
+مرور
+[Default]
+پیش فرض
+[Auto answer]
+پاسخ اتوماتیک
+[Disable local account]
+غیر فعال کردن اکانت محلی
+[OK]
+اوکی
+[Save]
+ذخیره
+[Cancel]
+انصراف
+[SIP server]
+سرور SIP
+[SIP proxy]
+پروکسی SIP
+[User]
+کاربر
+[Domain]
+دومین
+[Password]
+کلمه عبور
+[Connecting...]
+در حال اتصال ...
+[Online]
+آنلاین
+[Local]
+محلی
+[Message]
+پیغام
+[Edit]
+ویرایش
+[Delete]
+حذف
+[Add]
+اضافه کردن
+[Bad Gateway]
+گذرگاه اشتباه
+[Request Timeout]
+انقضای زمان درخواست
+[Number]
+تعداد
+[Name]
+نام
+[Contact]
+کانتکت
+[Incoming call]
+تماس وارده
+[Answer]
+پاسخ
+[Decline]
+کاهش
+[Calling]
+در حال تماس
+[Connecting]
+در حال اتصال
+[Connected]
+اتصال شده
+[Auto]
+اتوماتیک
+[Transport]
+ترابری
+[Incorrect password]
+رمز عبور نامعتبر
+[Public address]
+آدرس عمومی
+[Media encryption]
+رمزگذاری مدیا
+[Disabled]
+غیر فعال شد
+[Optional]
+اختیاری
+[Mandatory]
+اجباری
+[STUN server]
+سرور STUN
+[Presence subscription]
+اشتراک وضعیت
+[Local port]
+پورت محلی
+[Ringing]
+در حال زنگ خوردن
+[Call ended]
+پایان تماس
+[Declined]
+کاهش یافته
+[No address found]
+آدرس یافت نشد
+[Request Terminated]
+درخواست پایان یافته
+[Away]
+دور
+[Publish presence]
+انتشار وضعیت
+[Session Progress]
+پیشرفت نشست
+[Camera]
+دوربین
+[Video call]
+تماس ویدئویی
+[Answer with video]
+پتس
+[View log file]
+نمایش فایل لاگ
+[Microphone]
+میکروفون
+[Speaker]
+بلندگو
+[Audio codecs]
+کدک های صوتی
+[Video codec]
+کدک تصویر
+[Check for updates]
+چک کردن برای بروز رسانی
+[Daily]
+روزانه
+[Weekly]
+هفتگی
+[Monthly]
+ماهیانه
+[Quarterly]
+فصلی
+[Never]
+هرگز
+[Update available]
+نسخه به روز موجود است
+[Do you want to update now?]
+آیا میخواهید نرم افزار به روز شود؟
+[Force codec for incoming]
+اجبار کدک برای تماس ورودی
+[Available]
+در دسترس
+[Enabled]
+فعال شده
+[Disable H.264]
+غیر فعال کردن کدک H.264
+[Disable H.263+]
+غیر فعال کردن کدک H.263+
+[Invalid URI]
+آدرس نامعتبر
+[Offline]
+آفلاین
+[Single call mode]
+حالت تک تماس
+[Local Video]
+ویدئو محلی
+[Call Transfer]
+انتقال تماس
+[Transfer status]
+وضعیت انتقال
+[final]
+نهایی
+[Call transfered successfully, disconnecting call]
+انتقال تماس موفق، قطع تماس
+[Hold]
+نگه داشتن
+[Transfer]
+انتقال
+[Sound events]
+رویدادهای صوتی
+[Bitrate]
+نرخ انتقال بیت
+[Login]
+لاگین
+[Enable log file]
+اجازه لاگ کردن
+[Calls]
+تماسها
+[Duration]
+مدت
+[Info]
+اطلاعات
+[display password]
+نمایش رمز عبور
+[From]
+از
+[To]
+به
+[Ring device]
+ابزار زنگ
+[Service Unavailable]
+سرویس در دسترس نیست
+[Invalid Request URI]
+آدرس درخواستی نامعتبر
+[Busy Here]
+مشغول
+[Trying]
+درحال تلاش
+[Method Not Allowed]
+این متد اجازه ندارد
+[Not Found]
+یافت نشد
+[Always on Top]
+همیشه در بالا
+[Connect]
+اتصال
+[Last Call]
+آخرین تماس
+[Close All]
+بستن همه
+[Copy]
+کپی
+[Select All]
+انتخاب همه
+[Display name]
+نام شما
+[Remember details]
+یادآوری جزئیات
+[No]
+خیر
+[All calls]
+تمام تماس ها
+[SIP header]
+SIP هدر
+[Different user]
+کاربری دیگر
+[Different domain]
+دامنه ای دیگر
+[Different user or domain]
+کاربر یا دامنه متفاوت
+[Different remote domain]
+دامنه متفاوت
+[Deny incoming]
+انسداد ورودی
+[Allow IP rewrite]
+اجازه تغییر آی پی
+[Directory of users]
+پوشه کاربران
+[Call on remote hold]
+تماس در حال انتظار خارجی
+[Call on local hold]
+تماس در حال انتظار داخلی
+[Call on hold]
+تماس در حال انتظار
+[Call is active]
+تماس فعال است
+[Menu]
+منو
+[Edit account]
+ویرایش حساب
+[Add account...]
+افزودن حساب کاربری
+[Remove account]
+حذف حساب
+[Make active]
+فعالسازی
+[Are you sure you want to remove?]
+آیا می خواهید حذف نمایید؟
+[Call pickup]
+برداشتن تماس
+[Speaker level]
+صدای اسپیکر
+[Microphone level]
+صدای میکروفن
+[Mute speaker]
+قطع صدا
+[Mute microphone]
+قطع میکروفن
+[Please fill out at least the required fields marked with *.]
+لطفا با پر کردن حداقل زمینه های مورد نیاز با * مشخص شده اند.
+[Ask your SIP provider how to configure the account correctly.]
+ارائه دهنده SIP خود بپرسید که چگونه برای پیکربندی حساب به درستی.
+[Random position]
+موقعیت تصادفی از جعبه تماس های دریافتی
+[Time]
+زمان
+[Donate]
+اهدا
+[Enable local account]
+[Send crash report]
+[Account name]
+[]

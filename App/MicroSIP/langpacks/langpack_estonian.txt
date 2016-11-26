@@ -1,0 +1,301 @@
+﻿Language Pack
+Last-Modified-Using: http://www.microsip.org/translation
+RTL: 0
+
+; utf8
+
+[Call]
+Helista
+[End call]
+Lõpeta
+[Contacts]
+Kontaktid
+[Dialpad]
+Numbrilaud
+[Account]
+Konto
+[Settings]
+Seaded
+[Visit website]
+Külasta veebi
+[Exit]
+Välju
+[Ringing Sound]
+Helina fail
+[Browse...]
+Sirvi...
+[Default]
+Taasta algne
+[Auto answer]
+Automaatne vastamine
+[Disable local account]
+Keela kohalik konto
+[OK]
+Sobib
+[Save]
+Salvesta
+[Cancel]
+Loobu
+[SIP server]
+SIP server
+[SIP proxy]
+SIP proksi
+[User]
+Kasutajanimi
+[Domain]
+Domeen
+[Password]
+Parool
+[Connecting...]
+Ühendan...
+[Online]
+Saadaval
+[Local]
+Kohalik
+[Message]
+Sõnum
+[Edit]
+Redigeeri
+[Delete]
+Kustuta
+[Add]
+Lisa
+[Bad Gateway]
+Gateway viga
+[Request Timeout]
+Päringu aeg läbi
+[Number]
+Number
+[Name]
+Nimi
+[Contact]
+Kontakt
+[Incoming call]
+Sisenev kõne
+[Answer]
+Vasta
+[Decline]
+Keeldu
+[Calling]
+Helistan
+[Connecting]
+Ühendan
+[Connected]
+Ühendatud
+[Auto]
+Automaatne
+[Transport]
+Protokolli tüüp
+[Incorrect password]
+Vale salasõna
+[Public address]
+Avalik aadress
+[Media encryption]
+Side turvalisus
+[Disabled]
+Puudub
+[Optional]
+Valikuline
+[Mandatory]
+Kohustuslik
+[STUN server]
+STUN server
+[Presence subscription]
+Kohalolu registreering
+[Local port]
+Kohalik port
+[Ringing]
+Helisemine
+[Call ended]
+Kõne lõpp
+[Declined]
+Keeldutud
+[No address found]
+Aadressi pole leitud
+[Request Terminated]
+Päring lõpetatud
+[Away]
+Eemal
+[Publish presence]
+Teavita kohalolust
+[Session Progress]
+Seansi edenemine
+[Camera]
+Kaamera
+[Video call]
+Videokõne
+[Answer with video]
+Vasta videoga
+[View log file]
+Vaata logifaili
+[Microphone]
+Mikrofon
+[Speaker]
+Kõlar
+[Audio codecs]
+Audiokoodekid
+[Video codec]
+Videokoodek
+[Check for updates]
+Kontrolli uuendusi
+[Daily]
+Iga päev
+[Weekly]
+Nädalati
+[Monthly]
+Igakuiselt
+[Quarterly]
+Kvartaalselt
+[Never]
+Iialgi
+[Update available]
+Uuendus on saadaval
+[Do you want to update now?]
+Kas soovid praegu uuendada?
+[Force codec for incoming]
+Sissetulevale jõusta koodek
+[Available]
+Saadaval
+[Enabled]
+Võimaldatud
+[Disable H.264]
+Keela H.264
+[Disable H.263+]
+Keela H.263+
+[Invalid URI]
+Kehtetu URI
+[Offline]
+Võrgust väljas
+[Single call mode]
+Ainsa kõne moodus
+[Local Video]
+Kohalik video
+[Call Transfer]
+Kõne suunamine
+[Transfer status]
+Suunamise olukord
+[final]
+lõplik
+[Call transfered successfully, disconnecting call]
+Kõne on edukalt suunatud, ühendan lahti
+[Hold]
+Ootel
+[Transfer]
+Suunamine
+[Sound events]
+Heli seigad
+[Bitrate]
+Bitikiirus
+[Login]
+Logi sisse
+[Enable log file]
+Võimaldada logimine
+[Calls]
+Kõned
+[Duration]
+Kestvus
+[Info]
+Info
+[display password]
+näita parooli
+[From]
+Kust
+[To]
+Kuhu
+[Ring device]
+Helisemise seade
+[Service Unavailable]
+Teenus pole saadaval
+[Invalid Request URI]
+Kehtetu päringu URI
+[Busy Here]
+Olen hõivatud
+[Trying]
+Proovimas
+[Method Not Allowed]
+Meetod pole lubatud
+[Not Found]
+Pole leitud
+[Always on Top]
+Alati pealmine
+[Connect]
+Ühenda
+[Last Call]
+Viimane kõne
+[Close All]
+Sulge kõik
+[Copy]
+Kopeeri
+[Select All]
+Vali kõik
+[Display name]
+Su nimi
+[Remember details]
+Mäleta detaile
+[No]
+Ei
+[All calls]
+Kõik kõned
+[SIP header]
+SIP päis
+[Different user]
+Erinev kasutaja
+[Different domain]
+Erinev domeen
+[Different user or domain]
+Erinev kasutaja või domeen
+[Different remote domain]
+Erinev kaugdomeen
+[Deny incoming]
+Keeldu vastuvõtust
+[Allow IP rewrite]
+Luba IP ülekirjutada
+[Directory of users]
+Kasutajate nimistu
+[Call on remote hold]
+Kõne on kaugootel
+[Call on local hold]
+Kõne on kohalikul ootel
+[Call on hold]
+Kõne on ootel
+[Call is active]
+Aktiivne kõne
+[Menu]
+Menüü
+[Edit account]
+Muuda kontot
+[Add account...]
+Lisa konto...
+[Remove account]
+Kõrvalda konto
+[Make active]
+Muuda aktiiveks
+[Are you sure you want to remove?]
+Kas oled kindel, et soovid kõrvaldada?
+[Call pickup]
+Kõnele vastamine
+[Speaker level]
+Kõlari tase
+[Microphone level]
+Mikrofoni tase
+[Mute speaker]
+Vaigista kõlar
+[Mute microphone]
+Vaigista mikrofon
+[Please fill out at least the required fields marked with *.]
+Palun täida vähemalt * märgitud nõutavad väljad
+[Ask your SIP provider how to configure the account correctly.]
+Päri SIP-pakkujalt, kuidas õieti kontot konfigureerida
+[Random position]
+Vastusekasti suvaline asukoht
+[Time]
+Aeg
+[Donate]
+Annetama
+[Enable local account]
+Ava kohalik konto
+[Send crash report]
+Saada veateade
+[Account name]
+Konto nimi
+[]
