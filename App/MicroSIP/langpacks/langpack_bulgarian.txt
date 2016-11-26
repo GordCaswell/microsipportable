@@ -91,7 +91,7 @@ SIP прокси
 [Public address]
 Обществен адрес
 [Media encryption]
-Криптировка на канала
+Шифроване на канала
 [Disabled]
 Изключен
 [Optional]
@@ -145,7 +145,7 @@ STUN сървър
 [Monthly]
 Месечно
 [Quarterly]
-На три месеца
+На тримесечие
 [Never]
 Никога
 [Update available]
@@ -157,7 +157,7 @@ STUN сървър
 [Available]
 Достъпен
 [Enabled]
-Прекратен
+Включен
 [Disable H.264]
 Изключи H.264
 [Disable H.263+]
@@ -171,7 +171,7 @@ STUN сървър
 [Local Video]
 Местно видео
 [Call Transfer]
-Прехв. на повикване
+Прехв. разг.
 [Transfer status]
 Състояние на прехвърляне
 [final]
@@ -181,13 +181,13 @@ STUN сървър
 [Hold]
 Задържане
 [Transfer]
-Пренасочване
+Пренас.
 [Sound events]
 Звук DTMF
 [Bitrate]
 Качество
 [Login]
-Влез
+Потребител
 [Enable log file]
 Лог файл
 [Calls]
@@ -203,11 +203,11 @@ STUN сървър
 [To]
 Кого
 [Ring device]
-Устройството за звънене
+Звънене
 [Service Unavailable]
 Услугата не е налична
 [Invalid Request URI]
-Грешен номер
+Невалиден URL
 [Busy Here]
 Зает
 [Trying]
@@ -221,13 +221,13 @@ STUN сървър
 [Connect]
 Свързвам
 [Last Call]
-Посл. повикване
+Посл. пов.
 [Close All]
-Затвори вс.
+Затв. вс.
 [Copy]
-Копирам
+Копирай
 [Select All]
-Избери всичко
+Избери вс.
 [Display name]
 Вашето име
 [Remember details]
@@ -247,7 +247,7 @@ SIP header
 [Different remote domain]
 Различен отдалечен домейн
 [Deny incoming]
-Забранени вх.
+Забр. вх.
 [Allow IP rewrite]
 Позволява IP презапис
 [Directory of users]
@@ -263,7 +263,7 @@ SIP header
 [Menu]
 Меню
 [Edit account]
-Редакт. на акаунта
+Ред. акаунта
 [Add account...]
 Добави акаунт
 [Remove account]
@@ -287,7 +287,7 @@ SIP header
 [Ask your SIP provider how to configure the account correctly.]
 Попитайте вашия доставчик на SIP как да конфигурирате акаунта.
 [Random position]
-Случайна позиция на екрана за отговор
+Случ. позиция
 [Time]
 Час
 [Donate]

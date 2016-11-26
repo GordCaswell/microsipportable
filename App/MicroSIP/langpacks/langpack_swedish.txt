@@ -283,7 +283,7 @@ Tysta högtalare
 [Mute microphone]
 Tysta mikrofon
 [Please fill out at least the required fields marked with *.]
-Fyll i åtminstone de obligatoriska fält är markerade med *.
+Fyll åtminstone i de obligatoriska fälten markerade med *.
 [Ask your SIP provider how to configure the account correctly.]
 Fråga din SIP-leverantör hur du konfigurerar kontot korrekt.
 [Random position]
@@ -293,6 +293,9 @@ Tid
 [Donate]
 Donera
 [Enable local account]
+Aktivera lokalt konto
 [Send crash report]
+Skicka kraschrapport
 [Account name]
+Kontonamn
 []

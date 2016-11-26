@@ -295,5 +295,7 @@ Doar
 [Enable local account]
 Habilitar conta local
 [Send crash report]
+Enviar relatório de erro
 [Account name]
+Nome da Conta
 []

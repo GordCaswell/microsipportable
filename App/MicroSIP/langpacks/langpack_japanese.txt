@@ -105,7 +105,7 @@ STUN サーバ
 [Local port]
 ローカルポート
 [Ringing]
-応答を待っています
+呼出中
 [Call ended]
 通話終了
 [Declined]
@@ -113,7 +113,7 @@ STUN サーバ
 [No address found]
 アドレスが見つかりません
 [Request Terminated]
-要求は終了されました
+リクエスト終了
 [Away]
 離席中
 [Publish presence]
@@ -151,7 +151,7 @@ STUN サーバ
 [Update available]
 更新があります
 [Do you want to update now?]
-を更新しますか?
+すぐ更新しますか?
 [Force codec for incoming]
 コーデックを強制使用する
 [Available]
@@ -163,7 +163,7 @@ H.264 無効
 [Disable H.263+]
 H.263+ 無効
 [Invalid URI]
-アドレスが不正です
+URIが不正です
 [Offline]
 オフライン
 [Single call mode]
@@ -205,9 +205,9 @@ From
 [Ring device]
 呼出音再生
 [Service Unavailable]
-サービスは利用できません
+サービスは利用不可
 [Invalid Request URI]
-指定のアドレスは不正です
+指定のURIは不正です
 [Busy Here]
 使用中
 [Trying]
@@ -231,7 +231,7 @@ From
 [Display name]
 あなたの名前
 [Remember details]
-パースワード記憶
+詳細を記憶
 [No]
 いいえ
 [All calls]
@@ -253,9 +253,9 @@ IP上書きを許可
 [Directory of users]
 ユーザーのディレクトリ
 [Call on remote hold]
-保留解除
+相手が保留
 [Call on local hold]
-内線保留
+こちらが保留
 [Call on hold]
 保留
 [Call is active]
@@ -283,9 +283,9 @@ IP上書きを許可
 [Mute microphone]
 マイク消音
 [Please fill out at least the required fields marked with *.]
-必須フィールドは、*でマークされ、少なくともご記入ください。
+必須(*)のマークのついている部分を記入してください。
 [Ask your SIP provider how to configure the account correctly.]
-正しくアカウントを設定する方法をSIPプロバイダーを確認して下さい。
+正しくアカウントを設定する方法をSIPプロバイダーに確認して下さい。
 [Random position]
 解答ボックスのランダムな位置
 [Time]
@@ -293,6 +293,9 @@ IP上書きを許可
 [Donate]
 寄付します
 [Enable local account]
+ローカルアカウントを有効にする
 [Send crash report]
+クラッシュレポートを送信する
 [Account name]
+アカウント名
 []

@@ -293,6 +293,9 @@ Zeit
 [Donate]
 Spenden
 [Enable local account]
+Lokalen Account aktivieren
 [Send crash report]
+Absturzbericht senden
 [Account name]
+Accountname
 []

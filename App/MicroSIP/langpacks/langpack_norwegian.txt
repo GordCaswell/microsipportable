@@ -293,6 +293,9 @@ Tid
 [Donate]
 Donere
 [Enable local account]
+Aktiver lokal konto
 [Send crash report]
+Send krasjrapport
 [Account name]
+Kontonavn
 []

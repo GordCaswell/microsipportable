@@ -295,5 +295,7 @@ Schenken
 [Enable local account]
 Lokaal account inschakelen
 [Send crash report]
+Verstuur crash rapport
 [Account name]
+Accountnaam
 []

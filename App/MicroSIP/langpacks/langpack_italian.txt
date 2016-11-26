@@ -295,5 +295,7 @@ Donare
 [Enable local account]
 Abilita account locale
 [Send crash report]
+Invia crash report
 [Account name]
+Account
 []

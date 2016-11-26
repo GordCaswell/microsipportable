@@ -295,5 +295,7 @@ Darovat
 [Enable local account]
 Povolit místní účet
 [Send crash report]
+Zaslat report o chybě
 [Account name]
+Název účtu
 []
