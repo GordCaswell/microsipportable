@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 ზარი
-[End call]
+[End Call]
 ზარის გათიშვა
 [Contacts]
 კონტაქტები
@@ -16,7 +16,7 @@ RTL: 0
 ანგარიში
 [Settings]
 პარამეტრები
-[Visit website]
+[Visit Website]
 ნახეთ პროგრამის საიტი
 [Exit]
 გამოსვლა
@@ -26,9 +26,9 @@ RTL: 0
 დათვალიერება...
 [Default]
 დუმილის წესით
-[Auto answer]
+[Auto Answer]
 ავტო მოპასუხე
-[Disable local account]
+[Disable Local Account]
 ადგ. ანგარიშის გათიშვა
 [OK]
 კარგი
@@ -36,9 +36,9 @@ RTL: 0
 შენახვა
 [Cancel]
 გაუქმება
-[SIP server]
+[SIP Server]
 SIP სერვერი
-[SIP proxy]
+[SIP Proxy]
 SIP პროქსი
 [User]
 მომხმარებელი
@@ -70,7 +70,7 @@ SIP პროქსი
 სახელი
 [Contact]
 კონტაქტი
-[Incoming call]
+[Incoming Call]
 შემომავალი ზარი
 [Answer]
 ვუპასუხოთ
@@ -86,11 +86,11 @@ SIP პროქსი
 ავტო
 [Transport]
 ტრანსპორტი
-[Incorrect password]
+[Incorrect Password]
 არასწორი პაროლი
-[Public address]
+[Public Address]
 საჯარო მისამართი
-[Media encryption]
+[Media Encryption]
 მედიის დაშიფვრა
 [Disabled]
 გამორთული
@@ -98,15 +98,13 @@ SIP პროქსი
 ფაკულტატიური
 [Mandatory]
 აუცილებელი
-[STUN server]
+[STUN Server]
 STUN სერვერი
-[Presence subscription]
+[Presence Subscription]
 პრეზანსის გამოწერა
-[Local port]
-ადგილობრივი პორტი
 [Ringing]
 რეკავს
-[Call ended]
+[Call Ended]
 ზარი დასრულდა
 [Declined]
 უარყოფილია
@@ -116,27 +114,27 @@ STUN სერვერი
 მოთხოვნა დასრულდა
 [Away]
 გასულია
-[Publish presence]
+[Publish Presence]
 გაასაჯაროვე პრეზანსი
 [Session Progress]
 სესიის პროგრესი
 [Camera]
 ვებკამი
-[Video call]
+[Video Call]
 ვიდეო ზარი
-[Answer with video]
+[Answer with Video]
 უპასუხე ვიდეოთი
-[View log file]
+[View Log File]
 ოქმის ფაილის ნახვა
 [Microphone]
 მიკროფონი
 [Speaker]
 ხმამაღლამოლაპარაკე
-[Audio codecs]
+[Audio Codecs]
 აუდიო კოდეკები
-[Video codec]
+[Video Codec]
 ვიდეო კოდეკი
-[Check for updates]
+[Check for Updates]
 განახლებ. შემოწმება
 [Daily]
 ყოველდღიურად
@@ -148,11 +146,11 @@ STUN სერვერი
 ყოველკვარტლურად
 [Never]
 არასოდეს
-[Update available]
+[Update Available]
 განახლება ხელმისაწვდომია
 [Do you want to update now?]
 გნებავთ პროგრამის განახლება?
-[Force codec for incoming]
+[Force Codec for Incoming]
 შემომ. კოდეკის ფორსირება
 [Available]
 ხელმისაწვდომია
@@ -166,29 +164,25 @@ H.263+ გათიშვა
 არასწორი URI
 [Offline]
 ოფლაინი
-[Single call mode]
+[Single Call Mode]
 მარტო ერთი ზარის რეჟიმი
 [Local Video]
 ადგილობრივი ვიდეო
 [Call Transfer]
 ზარის გადატანა
-[Transfer status]
-გადატანის სტატუსი
 [final]
 საბოლოო
 [Call transfered successfully, disconnecting call]
 ზარის გადატანა წარმატებით მოხდა, ვთიშავთ ზარს
 [Hold]
 დაპაუზება
-[Transfer]
-ტრანსფერი
-[Sound events]
+[Sound Events]
 ხმის ივენთები
 [Bitrate]
 ბიტ.სიჩქარე
 [Login]
 მომხმ.სახელი
-[Enable log file]
+[Enable Log File]
 ოქმის ფაილის ჩართვა
 [Calls]
 ზარები
@@ -202,7 +196,7 @@ H.263+ გათიშვა
 ვისგან
 [To]
 ვის
-[Ring device]
+[Ring Device]
 დაირეკოს მოწყობილობაზე
 [Service Unavailable]
 სერვისი მიუწვდომელია
@@ -228,71 +222,78 @@ H.263+ გათიშვა
 კოპირება
 [Select All]
 ყველას არჩევა
-[Display name]
+[Display Name]
 ეკრანზე სახელი
-[Remember details]
+[Remember Details]
 დეტალების დამახსოვრება
 [No]
 არა
-[All calls]
+[All Calls]
 ველა ზარი
-[SIP header]
+[SIP Header]
 SIP სათაური
-[Different user]
+[Different User]
 სხვა მომხმარებელი
-[Different domain]
+[Different Domain]
 სხვა დომენი
-[Different user or domain]
+[Different User or Domain]
 სხვა მომხმარებელი ან დომენი
-[Different remote domain]
+[Different Remote Domain]
 სხვა შორი დომენი
-[Deny incoming]
+[Deny Incoming]
 შემომავლის დაიგნორირება
-[Allow IP rewrite]
+[Allow IP Rewrite]
 IP-ს გადაწერის დაშვება
-[Directory of users]
+[Directory of Users]
 მომხმარებლების დირექტორია
-[Call on remote hold]
+[Call on Remote Hold]
 ზარი შორეულ პაუზაზეა
-[Call on local hold]
+[Call on Local Hold]
 ზარი ადგილობრივ პაუზაზეა
-[Call on hold]
+[Call on Hold]
 ზარი დაპაუზებულია
-[Call is active]
+[Call is Active]
 ზარი აქტიურია
 [Menu]
 მენიუ
-[Edit account]
+[Edit Account]
 ანგარიშის რედაქტირება
-[Add account...]
+[Add Account...]
 ანგარიშის დამატება
-[Remove account]
+[Remove Account]
 ანგარიშის წაშლა
-[Make active]
+[Make Active]
 გააქტიურება
 [Are you sure you want to remove?]
 მართლა გსურთ წაშლა?
-[Call pickup]
+[Call Pickup]
 ზარის აღება
-[Speaker level]
+[Speaker Level]
 ხმამაღლამოლაპარაკის დონე
-[Microphone level]
+[Microphone Level]
 მიკროფონის დონე
-[Mute speaker]
+[Mute Speaker]
 ხმამაღლამოლაპარაკის გაჩუმება
-[Mute microphone]
+[Mute Microphone]
 მიკროფონის გაჩუმება
 [Please fill out at least the required fields marked with *.]
 გთხოვთ შეავსოთ სულ ცოტა * აღნიშნული ველები მაინც
 [Ask your SIP provider how to configure the account correctly.]
 ჰკითხეთ თქვენს SIP პროვაიდერს თუ როგორ უნდა დააკონფიგუროთ სწორად ანგარიში.
-[Random position]
+[Random Position]
 საპასუხო ყუთის შემთხვევითი პოზიცია
 [Time]
 დრო
+[Attended Transfer]
+[Disable VP8]
+VP8 გათიშვა
 [Donate]
 შემოწირულობა
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

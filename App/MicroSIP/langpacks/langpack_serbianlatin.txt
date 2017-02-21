@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Poziv
-[End call]
+[End Call]
 Završi razgovor
 [Contacts]
 Kontakti
@@ -16,7 +16,7 @@ Tastatura
 Nalog
 [Settings]
 Podešavanja
-[Visit website]
+[Visit Website]
 Poseti sajt
 [Exit]
 Izlaz
@@ -26,9 +26,9 @@ Zvuk zvona
 Pregledaj...
 [Default]
 Podrazumevano
-[Auto answer]
+[Auto Answer]
 Automatski Odgovori
-[Disable local account]
+[Disable Local Account]
 Isključi lokalni nalog
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Sačuvaj
 [Cancel]
 Poništi
-[SIP server]
+[SIP Server]
 SIP server
-[SIP proxy]
+[SIP Proxy]
 SIP proksi
 [User]
 Korisnik
@@ -70,7 +70,7 @@ Broj
 Ime
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Dolazni poziv
 [Answer]
 Odgovori
@@ -86,11 +86,11 @@ Povezano
 Auto
 [Transport]
 Preusmeri
-[Incorrect password]
+[Incorrect Password]
 Pogrešna lozinka
-[Public address]
+[Public Address]
 Javna adresa
-[Media encryption]
+[Media Encryption]
 Zaštita medija
 [Disabled]
 Isključeno
@@ -98,15 +98,13 @@ Isključeno
 Opciono
 [Mandatory]
 Obavezno
-[STUN server]
+[STUN Server]
 STUN server
-[Presence subscription]
+[Presence Subscription]
 nalog prisustva
-[Local port]
-Lokalni port
 [Ringing]
 Zvono
-[Call ended]
+[Call Ended]
 Završen Poziv
 [Declined]
 Odbijeno
@@ -116,27 +114,27 @@ Adresa nije pronadjena
 Zahtev prekinut
 [Away]
 Nije Prisutan
-[Publish presence]
+[Publish Presence]
 Prikaži prisustvo
 [Session Progress]
 Napredak sesije
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Video poziv
-[Answer with video]
+[Answer with Video]
 Odgovori Sa Videom
-[View log file]
+[View Log File]
 Vidi log fajl
 [Microphone]
 Mikrofon
 [Speaker]
 Zvučnik
-[Audio codecs]
+[Audio Codecs]
 Audio Kodeci
-[Video codec]
+[Video Codec]
 Video kodek
-[Check for updates]
+[Check for Updates]
 Provera Unapređenja
 [Daily]
 Dnevno
@@ -148,11 +146,11 @@ Mesečno
 Kvartalno
 [Never]
 Nikad
-[Update available]
+[Update Available]
 Dostupno ažuriranje
 [Do you want to update now?]
 Hoćete li da osvežite?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Prisilni kodek za dolzane
 [Available]
 Dostupno
@@ -166,29 +164,25 @@ Isključi H.263+
 Pogrešan URL
 [Offline]
 Van mreže
-[Single call mode]
+[Single Call Mode]
 Mod jednog poziva
 [Local Video]
 Lokalni video
 [Call Transfer]
 Prebacivanje Poziva
-[Transfer status]
-Status prebaicvanja
 [final]
 Krajnje
 [Call transfered successfully, disconnecting call]
 Uspešno Prebačen Poziv, Prekid Poziva
 [Hold]
 Zadrži
-[Transfer]
-Prebaci
-[Sound events]
+[Sound Events]
 Zvučna obaveštenja
 [Bitrate]
 Kvalitet zvuka
 [Login]
 Login
-[Enable log file]
+[Enable Log File]
 Uključi logovanje
 [Calls]
 Pozivi
@@ -202,7 +196,7 @@ Prikaži lozinku
 Od
 [To]
 Za
-[Ring device]
+[Ring Device]
 Uredjaj za zvonjenje
 [Service Unavailable]
 Servis nedostupan
@@ -228,71 +222,78 @@ Zatvori Sve
 Kopiraj
 [Select All]
 Izaberi sve
-[Display name]
+[Display Name]
 Vaše ime
-[Remember details]
+[Remember Details]
 Zapamti detalje
 [No]
 Ne
-[All calls]
+[All Calls]
 Svi Pozivi
-[SIP header]
+[SIP Header]
 SIP zaglavlje
-[Different user]
+[Different User]
 Drugi korisnik
-[Different domain]
+[Different Domain]
 Drugačiji Domen
-[Different user or domain]
+[Different User or Domain]
 Drugi korisnik ili domen
-[Different remote domain]
+[Different Remote Domain]
 Drugačiji Udaljeni Domen
-[Deny incoming]
+[Deny Incoming]
 Odbij Dolazne
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Dozvoli IP Prebrisavanje
-[Directory of users]
+[Directory of Users]
 Direktorijum korisnika
-[Call on remote hold]
+[Call on Remote Hold]
 Poziv Na Udaljenom Čekanju
-[Call on local hold]
+[Call on Local Hold]
 Poziv Na Lokalnom Čekanju
-[Call on hold]
+[Call on Hold]
 Poziv Na Čekanju
-[Call is active]
+[Call is Active]
 Aktivan Poziv
 [Menu]
 Izbor
-[Edit account]
+[Edit Account]
 Izmeni nalog
-[Add account...]
+[Add Account...]
 Dodaj Nalog
-[Remove account]
+[Remove Account]
 Ukloni Nalog
-[Make active]
+[Make Active]
 Aktiviraj
 [Are you sure you want to remove?]
 Potvrda ukidanja naloga
-[Call pickup]
+[Call Pickup]
 Preuzimanje poziva
-[Speaker level]
+[Speaker Level]
 Jačina zvučnika
-[Microphone level]
+[Microphone Level]
 Jačina mikrofona
-[Mute speaker]
+[Mute Speaker]
 Isključi zvučnik
-[Mute microphone]
+[Mute Microphone]
 Isključi mikrofon
 [Please fill out at least the required fields marked with *.]
 Молимо вас да попуните барем поља означена са *.
 [Ask your SIP provider how to configure the account correctly.]
 Питајте свог SIP провајдера како да правилно подесите налог.
-[Random position]
+[Random Position]
 Рандом положај кутије одговора
 [Time]
 Време
+[Attended Transfer]
+[Disable VP8]
+Isključi VP8
 [Donate]
 Pokloniti
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

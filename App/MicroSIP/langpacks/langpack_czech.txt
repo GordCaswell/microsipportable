@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Volat
-[End call]
+[End Call]
 Zavěsit
 [Contacts]
 Kontakty
@@ -16,7 +16,7 @@ Kontakty
 Účet
 [Settings]
 Nastavení
-[Visit website]
+[Visit Website]
 Navštívit web
 [Exit]
 Konec
@@ -26,9 +26,9 @@ Zvuk vyzvánění
 Procházet
 [Default]
 Defaultně
-[Auto answer]
+[Auto Answer]
 Automatická odpověď
-[Disable local account]
+[Disable Local Account]
 Zakázat místní účet
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Uložit
 [Cancel]
 Zrušit
-[SIP server]
+[SIP Server]
 SIP server
-[SIP proxy]
+[SIP Proxy]
 SIP proxy
 [User]
 Uživatel
@@ -70,7 +70,7 @@ Požadavek vypršel
 Jméno
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Příchozí hovor
 [Answer]
 Přijmout hovor
@@ -86,11 +86,11 @@ Připojeno
 Auto
 [Transport]
 Přenos. protokol
-[Incorrect password]
+[Incorrect Password]
 Špatné heslo
-[Public address]
+[Public Address]
 Veřejná adresa
-[Media encryption]
+[Media Encryption]
 Šifrování médií
 [Disabled]
 Nepovoleno
@@ -98,15 +98,13 @@ Nepovoleno
 Volitelné
 [Mandatory]
 Povinně
-[STUN server]
+[STUN Server]
 STUN server
-[Presence subscription]
+[Presence Subscription]
 Odběr prezence
-[Local port]
-Místní port
 [Ringing]
 Vyzváním
-[Call ended]
+[Call Ended]
 Hovor skončil
 [Declined]
 Zavěšeno
@@ -116,27 +114,27 @@ Adresa nenalezena
 Požadavek ukončen
 [Away]
 Pryč
-[Publish presence]
+[Publish Presence]
 Zvěřejnit přítomnost
 [Session Progress]
 Průběh sezení
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Videohovor
-[Answer with video]
+[Answer with Video]
 Přijmout s video
-[View log file]
+[View Log File]
 Zobrazit soubor záznamu
 [Microphone]
 Mikrofon
 [Speaker]
 Reproduktor
-[Audio codecs]
+[Audio Codecs]
 Audio kodeky
-[Video codec]
+[Video Codec]
 Video codec
-[Check for updates]
+[Check for Updates]
 Vyhledat aktualizace
 [Daily]
 Denně
@@ -148,11 +146,11 @@ Měsíčně
 Čtvrtletně
 [Never]
 Nikdy
-[Update available]
+[Update Available]
 Dostupná aktualizace
 [Do you want to update now?]
 Chcete aktualizovat?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Vynucený kodek pro příchozí
 [Available]
 Dostupné
@@ -166,29 +164,25 @@ Zakázat H.263+
 Neplatné URI
 [Offline]
 Odpojeno
-[Single call mode]
+[Single Call Mode]
 Mód jednoho hovoru
 [Local Video]
 Místní video
 [Call Transfer]
 Přepojení hovoru
-[Transfer status]
-Stav přenosu
 [final]
 poslední
 [Call transfered successfully, disconnecting call]
 Přepojení úspěšné, ukončení hovoru
 [Hold]
 Podržet
-[Transfer]
-Přenos
-[Sound events]
+[Sound Events]
 Události
 [Bitrate]
 Bitrate
 [Login]
 Přihlaš. jméno
-[Enable log file]
+[Enable Log File]
 Povolení log souboru
 [Calls]
 Hovory
@@ -202,7 +196,7 @@ zobrazit heslo
 Z
 [To]
 Komu
-[Ring device]
+[Ring Device]
 Vyzváněcí zařízení
 [Service Unavailable]
 Služby nedostupné
@@ -228,74 +222,81 @@ Zavřít vše
 Kopírovat
 [Select All]
 Vybrat vše
-[Display name]
+[Display Name]
 Zobrazované jméno
-[Remember details]
+[Remember Details]
 Zapamatovat podrobnosti
 [No]
 Ne
-[All calls]
+[All Calls]
 Všechny hovory
-[SIP header]
+[SIP Header]
 Hlavička SIP
-[Different user]
+[Different User]
 Rozdílný uživatel
-[Different domain]
+[Different Domain]
 Rozdílná doména
-[Different user or domain]
+[Different User or Domain]
 Rozdílný uživatel nebo doméná
-[Different remote domain]
+[Different Remote Domain]
 Rozdílná vzdálená doména
-[Deny incoming]
+[Deny Incoming]
 Odmítnout příchozí
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Povolit přepis IP
-[Directory of users]
+[Directory of Users]
 Seznam uživatelů
-[Call on remote hold]
+[Call on Remote Hold]
 Hovor vzdáleně pozdržen
-[Call on local hold]
+[Call on Local Hold]
 Hovor lokálně pozdržen
-[Call on hold]
+[Call on Hold]
 Hovor pozdržen
-[Call is active]
+[Call is Active]
 Hovor probíhá
 [Menu]
 Nabídka
-[Edit account]
+[Edit Account]
 Upravit nastavení účtu
-[Add account...]
+[Add Account...]
 Přidat účet...
-[Remove account]
+[Remove Account]
 Odebrat účet
-[Make active]
+[Make Active]
 Nastavit jako aktivní
 [Are you sure you want to remove?]
 Opravdu odebrat?
-[Call pickup]
+[Call Pickup]
 Přijmout hovor
-[Speaker level]
+[Speaker Level]
 Úroveň hlasitosti reproduktoru
-[Microphone level]
+[Microphone Level]
 Úroveň hlasitosti mikrofonu
-[Mute speaker]
+[Mute Speaker]
 Ztišit reprodukrot
-[Mute microphone]
+[Mute Microphone]
 Ztišit mikrofon
 [Please fill out at least the required fields marked with *.]
 Prosím, vyplňte alespoň povinné údaje označené *
 [Ask your SIP provider how to configure the account correctly.]
 Zeptejte se svého poskytovatele SIP, jak správně nakonfigurovat úče
-[Random position]
+[Random Position]
 Náhodná pozice pole pro odpověď
 [Time]
 Čas
+[Attended Transfer]
+[Disable VP8]
+Zakázat VP8
 [Donate]
 Darovat
-[Enable local account]
+[Enable Local Account]
 Povolit místní účet
-[Send crash report]
+[Send Crash Report]
 Zaslat report o chybě
-[Account name]
+[Account Name]
 Název účtu
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

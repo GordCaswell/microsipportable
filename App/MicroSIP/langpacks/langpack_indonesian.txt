@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Telepon
-[End call]
+[End Call]
 Akhiri panggilan
 [Contacts]
 Kontak
@@ -16,7 +16,7 @@ Tombol dial
 akun
 [Settings]
 setting
-[Visit website]
+[Visit Website]
 Kunjungi website
 [Exit]
 keluar
@@ -26,9 +26,9 @@ nada dering
 Browse...
 [Default]
 Default
-[Auto answer]
+[Auto Answer]
 jawab otomatis
-[Disable local account]
+[Disable Local Account]
 Nonaktifkan Akun Lokal
 [OK]
 ok
@@ -36,8 +36,8 @@ ok
 simpan
 [Cancel]
 Cancel
-[SIP server]
-[SIP proxy]
+[SIP Server]
+[SIP Proxy]
 [User]
 Pengguna
 [Domain]
@@ -68,7 +68,7 @@ nomor
 nama
 [Contact]
 Kontak
-[Incoming call]
+[Incoming Call]
 Panggilan masuk
 [Answer]
 Jawab
@@ -84,25 +84,23 @@ Connet
 Otomatis
 [Transport]
 Membawa
-[Incorrect password]
+[Incorrect Password]
 Password salah
-[Public address]
+[Public Address]
 alamat publik
-[Media encryption]
+[Media Encryption]
 enkripsi media
 [Disabled]
 Nonaktif
 [Optional]
 pilihan
 [Mandatory]
-[STUN server]
+[STUN Server]
 Server STUN
-[Presence subscription]
-[Local port]
-port lokal
+[Presence Subscription]
 [Ringing]
 berdering
-[Call ended]
+[Call Ended]
 Telepon berakhir
 [Declined]
 Ditolak
@@ -112,26 +110,26 @@ alamat tidak di temukan
 Permintaan diakhiri
 [Away]
 Away
-[Publish presence]
+[Publish Presence]
 tampilkan kehadiran
 [Session Progress]
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Panggilan video
-[Answer with video]
+[Answer with Video]
 Jawab dengan video
-[View log file]
+[View Log File]
 Lihat ringkasan file
 [Microphone]
 mikrophone
 [Speaker]
 pengeras suara
-[Audio codecs]
+[Audio Codecs]
 Audio codecs
-[Video codec]
+[Video Codec]
 Video codec
-[Check for updates]
+[Check for Updates]
 cek update
 [Daily]
 Harian
@@ -143,11 +141,11 @@ bulanan
 Kwartal
 [Never]
 tidak
-[Update available]
+[Update Available]
 Update tersedia
 [Do you want to update now?]
 Anda ingin memperbarui?
-[Force codec for incoming]
+[Force Codec for Incoming]
 [Available]
 Available
 [Enabled]
@@ -160,28 +158,24 @@ Nonaktifkan H.263+
 URI Tidak berlaku
 [Offline]
 offline
-[Single call mode]
+[Single Call Mode]
 mode telefon tunggal
 [Local Video]
 video lokal
 [Call Transfer]
 kirim telpon
-[Transfer status]
-status kiriman
 [final]
 selesai
 [Call transfered successfully, disconnecting call]
 Sukses kirim telepon, telepon diputus
 [Hold]
 Tahan
-[Transfer]
-mengirim
-[Sound events]
+[Sound Events]
 [Bitrate]
 Bitrate
 [Login]
 Masuk
-[Enable log file]
+[Enable Log File]
 [Calls]
 Telepon
 [Duration]
@@ -194,7 +188,7 @@ Tampilkan Password
 Dari
 [To]
 kepada
-[Ring device]
+[Ring Device]
 [Service Unavailable]
 Servise tidak tersedia
 [Invalid Request URI]
@@ -219,48 +213,55 @@ TutupSemua
 Salin
 [Select All]
 Pilih semua
-[Display name]
+[Display Name]
 nama kamu
-[Remember details]
+[Remember Details]
 ingat detail
 [No]
-[All calls]
+[All Calls]
 Semua Panggilan
-[SIP header]
-[Different user]
+[SIP Header]
+[Different User]
 Beda Use
-[Different domain]
+[Different Domain]
 Beda Domain
-[Different user or domain]
-[Different remote domain]
-[Deny incoming]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
 Tolak Panggilan
-[Allow IP rewrite]
-[Directory of users]
-[Call on remote hold]
-[Call on local hold]
-[Call on hold]
-[Call is active]
+[Allow IP Rewrite]
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
 [Menu]
-[Edit account]
-[Add account...]
-[Remove account]
-[Make active]
+[Edit Account]
+[Add Account...]
+[Remove Account]
+[Make Active]
 [Are you sure you want to remove?]
-[Call pickup]
-[Speaker level]
+[Call Pickup]
+[Speaker Level]
 Volume Speaker
-[Microphone level]
-[Mute speaker]
-[Mute microphone]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
 [Please fill out at least the required fields marked with *.]
 [Ask your SIP provider how to configure the account correctly.]
-[Random position]
+[Random Position]
 [Time]
 Waktu
+[Attended Transfer]
+[Disable VP8]
+Nonaktifkan VP8
 [Donate]
 Menyumbangkan
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

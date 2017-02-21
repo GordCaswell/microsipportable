@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Позив
-[End call]
+[End Call]
 Забрши позив
 [Contacts]
 Контакти
@@ -15,7 +15,7 @@ RTL: 0
 [Account]
 Рачун
 [Settings]
-[Visit website]
+[Visit Website]
 Посетить сайт
 [Exit]
 Излази
@@ -24,17 +24,17 @@ RTL: 0
 Претрага
 [Default]
 Стандардна
-[Auto answer]
+[Auto Answer]
 Аутоматски одговор
-[Disable local account]
+[Disable Local Account]
 Забрана локалног рачуна
 [OK]
 У реду
 [Save]
 [Cancel]
 Отказ
-[SIP server]
-[SIP proxy]
+[SIP Server]
+[SIP Proxy]
 [User]
 Пользователь
 [Domain]
@@ -64,7 +64,7 @@ RTL: 0
 Име
 [Contact]
 Контакт
-[Incoming call]
+[Incoming Call]
 Долазни позив
 [Answer]
 Одговор
@@ -79,11 +79,11 @@ RTL: 0
 [Auto]
 Аутоматски
 [Transport]
-[Incorrect password]
+[Incorrect Password]
 Неисправна лозинка
-[Public address]
+[Public Address]
 Jaвна адреса
-[Media encryption]
+[Media Encryption]
 Упознавање медије
 [Disabled]
 Забрањено
@@ -91,13 +91,11 @@ Jaвна адреса
 Oпционално
 [Mandatory]
 Обавезно
-[STUN server]
-[Presence subscription]
+[STUN Server]
+[Presence Subscription]
 Упис присуства
-[Local port]
-Локални port
 [Ringing]
-[Call ended]
+[Call Ended]
 Позив завршен
 [Declined]
 Одбјен
@@ -106,25 +104,25 @@ Oпционално
 [Request Terminated]
 [Away]
 Odsutan
-[Publish presence]
+[Publish Presence]
 Појави присуства
 [Session Progress]
 [Camera]
 Камера
-[Video call]
+[Video Call]
 Видеозвонок
-[Answer with video]
+[Answer with Video]
 Одговос са видеом
-[View log file]
+[View Log File]
 Посмотреть лог-файл
 [Microphone]
 Микрофон
 [Speaker]
-[Audio codecs]
+[Audio Codecs]
 Audio codecs
-[Video codec]
+[Video Codec]
 Видео кодек
-[Check for updates]
+[Check for Updates]
 Проверите да ли постоје исправке
 [Daily]
 Дневни
@@ -135,10 +133,10 @@ Audio codecs
 Тромесечно
 [Never]
 Никад
-[Update available]
+[Update Available]
 [Do you want to update now?]
 Желите ажурирати?
-[Force codec for incoming]
+[Force Codec for Incoming]
 [Available]
 Доступан
 [Enabled]
@@ -151,25 +149,23 @@ Audio codecs
 Неисправан URI
 [Offline]
 Није на вези
-[Single call mode]
+[Single Call Mode]
 [Local Video]
 Локални видео
 [Call Transfer]
 Преусмеривање позива
-[Transfer status]
 [final]
 Коначан
 [Call transfered successfully, disconnecting call]
 Успешно преусмеривање позива, прекид везе
 [Hold]
 држи
-[Transfer]
-[Sound events]
+[Sound Events]
 [Bitrate]
 Bitrate
 [Login]
 Улоговање
-[Enable log file]
+[Enable Log File]
 Омогући log file
 [Calls]
 Позиви
@@ -182,7 +178,7 @@ Bitrate
 [From]
 од
 [To]
-[Ring device]
+[Ring Device]
 [Service Unavailable]
 [Invalid Request URI]
 Неисправан URI захтев
@@ -204,58 +200,65 @@ Bitrate
 [Copy]
 Копирај
 [Select All]
-[Display name]
-[Remember details]
+[Display Name]
+[Remember Details]
 Запамти детаље
 [No]
 Не
-[All calls]
+[All Calls]
 Сваки позив
-[SIP header]
-[Different user]
+[SIP Header]
+[Different User]
 Други корисник
-[Different domain]
+[Different Domain]
 Други домејн
-[Different user or domain]
+[Different User or Domain]
 Други корисник или домејн
-[Different remote domain]
+[Different Remote Domain]
 Други страни домејн
-[Deny incoming]
+[Deny Incoming]
 Одбити позив
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Дозвољен препис IP-a
-[Directory of users]
+[Directory of Users]
 Именик
-[Call on remote hold]
+[Call on Remote Hold]
 Међумесни позив на чекању
-[Call on local hold]
+[Call on Local Hold]
 Локани позив на чекању
-[Call on hold]
+[Call on Hold]
 Позив на чекању
-[Call is active]
+[Call is Active]
 Позив је активан
 [Menu]
 Меню
-[Edit account]
-[Add account...]
+[Edit Account]
+[Add Account...]
 sss
-[Remove account]
-[Make active]
+[Remove Account]
+[Make Active]
 [Are you sure you want to remove?]
-[Call pickup]
-[Speaker level]
-[Microphone level]
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
 Уровень микрофона
-[Mute speaker]
-[Mute microphone]
+[Mute Speaker]
+[Mute Microphone]
 [Please fill out at least the required fields marked with *.]
 [Ask your SIP provider how to configure the account correctly.]
-[Random position]
+[Random Position]
 [Time]
 Время
+[Attended Transfer]
+[Disable VP8]
+Забрана VP8
 [Donate]
 Поклонити
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

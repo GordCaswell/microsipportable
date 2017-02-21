@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Bel
-[End call]
+[End Call]
 [Contacts]
 Kontakte
 [Dialpad]
@@ -14,23 +14,23 @@ Kontakte
 Rekening
 [Settings]
 Stellings
-[Visit website]
+[Visit Website]
 Besoek WebWerf
 [Exit]
 [Ringing Sound]
 Lui Geluid
 [Browse...]
 [Default]
-[Auto answer]
+[Auto Answer]
 outomaties antwoord
-[Disable local account]
+[Disable Local Account]
 [OK]
 Reg
 [Save]
 [Cancel]
 Kanseleer
-[SIP server]
-[SIP proxy]
+[SIP Server]
+[SIP Proxy]
 [User]
 Gebruiker
 [Domain]
@@ -54,7 +54,7 @@ Nommer
 Naam
 [Contact]
 Kontak
-[Incoming call]
+[Incoming Call]
 [Answer]
 antwoord
 [Decline]
@@ -67,40 +67,39 @@ Gekonnekteer
 outomaties
 [Transport]
 Vervoer
-[Incorrect password]
-[Public address]
-[Media encryption]
+[Incorrect Password]
+[Public Address]
+[Media Encryption]
 [Disabled]
 [Optional]
 Optioneel
 [Mandatory]
-[STUN server]
-[Presence subscription]
-[Local port]
+[STUN Server]
+[Presence Subscription]
 [Ringing]
 Lui
-[Call ended]
+[Call Ended]
 Oproep geëindig
 [Declined]
 [No address found]
 [Request Terminated]
 [Away]
 Weg
-[Publish presence]
+[Publish Presence]
 [Session Progress]
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Video Oproep
-[Answer with video]
+[Answer with Video]
 antwoord met video
-[View log file]
+[View Log File]
 [Microphone]
 [Speaker]
-[Audio codecs]
+[Audio Codecs]
 oudio kodeerders
-[Video codec]
-[Check for updates]
+[Video Codec]
+[Check for Updates]
 Soek vir opgradeerings middels
 [Daily]
 Daagliks
@@ -111,10 +110,10 @@ weekliks
 Kwartaaliks
 [Never]
 Nooit
-[Update available]
+[Update Available]
 New Weergawe beskikbaar
 [Do you want to update now?]
-[Force codec for incoming]
+[Force Codec for Incoming]
 [Available]
 Beskikbaar
 [Enabled]
@@ -123,20 +122,18 @@ Beskikbaar
 [Invalid URI]
 [Offline]
 Van Lyn Af
-[Single call mode]
+[Single Call Mode]
 [Local Video]
 [Call Transfer]
 Oproep oorplasing
-[Transfer status]
 [final]
 [Call transfered successfully, disconnecting call]
 Oproep oorplasing suksesvol, oproep afgeskakel
 [Hold]
-[Transfer]
-[Sound events]
+[Sound Events]
 [Bitrate]
 [Login]
-[Enable log file]
+[Enable Log File]
 [Calls]
 Oproepe
 [Duration]
@@ -145,7 +142,7 @@ Oproepe
 [From]
 [To]
 Na
-[Ring device]
+[Ring Device]
 Bel Toestel
 [Service Unavailable]
 [Invalid Request URI]
@@ -166,49 +163,55 @@ Eindig Alles
 [Copy]
 [Select All]
 Kies Almal
-[Display name]
+[Display Name]
 Jou naam
-[Remember details]
+[Remember Details]
 [No]
 Nee
-[All calls]
+[All Calls]
 alle oproepe
-[SIP header]
-[Different user]
-[Different domain]
-[Different user or domain]
-[Different remote domain]
-[Deny incoming]
-[Allow IP rewrite]
-[Directory of users]
-[Call on remote hold]
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+[Directory of Users]
+[Call on Remote Hold]
 Oproep op afgeleëde breek
-[Call on local hold]
+[Call on Local Hold]
 Oproep op plaaslike breek
-[Call on hold]
+[Call on Hold]
 Oproep op breek
-[Call is active]
+[Call is Active]
 Oproep is aktief
 [Menu]
-[Edit account]
-[Add account...]
-[Remove account]
-[Make active]
+[Edit Account]
+[Add Account...]
+[Remove Account]
+[Make Active]
 [Are you sure you want to remove?]
-[Call pickup]
+[Call Pickup]
 Oproep optel
-[Speaker level]
-[Microphone level]
-[Mute speaker]
-[Mute microphone]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
 [Please fill out at least the required fields marked with *.]
 [Ask your SIP provider how to configure the account correctly.]
 Vra jou SIP verskaffer hoe om die rekening reg op te stel.
-[Random position]
+[Random Position]
 [Time]
+[Attended Transfer]
+[Disable VP8]
 [Donate]
 Skenk
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

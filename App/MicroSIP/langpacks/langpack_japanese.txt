@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 発信
-[End call]
+[End Call]
 切る
 [Contacts]
 コンタクト
@@ -16,7 +16,7 @@ RTL: 0
 アカウント
 [Settings]
 設定
-[Visit website]
+[Visit Website]
 サイトへ
 [Exit]
 終了
@@ -26,9 +26,9 @@ RTL: 0
 参照...
 [Default]
 デフォルト
-[Auto answer]
+[Auto Answer]
 自動着信
-[Disable local account]
+[Disable Local Account]
 ローカル接続無効
 [OK]
 Ok
@@ -36,16 +36,16 @@ Ok
 保存
 [Cancel]
 キャンセル
-[SIP server]
+[SIP Server]
 SIP サーバ
-[SIP proxy]
+[SIP Proxy]
 SIP プロキシ
 [User]
 ユーザ名
 [Domain]
 ドメイン
 [Password]
-暗証番号
+パスワード
 [Connecting...]
 接続中...
 [Online]
@@ -70,7 +70,7 @@ SIP プロキシ
 名前
 [Contact]
 コンタクト
-[Incoming call]
+[Incoming Call]
 着信
 [Answer]
 応答
@@ -86,11 +86,11 @@ SIP プロキシ
 自動
 [Transport]
 転送
-[Incorrect password]
+[Incorrect Password]
 パスワードが違います
-[Public address]
+[Public Address]
 公開アドレス
-[Media encryption]
+[Media Encryption]
 音声／映像暗号化
 [Disabled]
 無効
@@ -98,15 +98,13 @@ SIP プロキシ
 接続先による
 [Mandatory]
 必須
-[STUN server]
+[STUN Server]
 STUN サーバ
-[Presence subscription]
+[Presence Subscription]
 在席確認登録
-[Local port]
-ローカルポート
 [Ringing]
 呼出中
-[Call ended]
+[Call Ended]
 通話終了
 [Declined]
 着信拒否済み
@@ -116,27 +114,27 @@ STUN サーバ
 リクエスト終了
 [Away]
 離席中
-[Publish presence]
+[Publish Presence]
 在席状況通知
 [Session Progress]
 通話中
 [Camera]
 カメラ
-[Video call]
+[Video Call]
 ビデオ通話
-[Answer with video]
+[Answer with Video]
 ビデオ通話で応答
-[View log file]
+[View Log File]
 ログファイル表示
 [Microphone]
 マイク
 [Speaker]
 スピーカー
-[Audio codecs]
+[Audio Codecs]
 音声コーデック
-[Video codec]
+[Video Codec]
 ビデオコーデック
-[Check for updates]
+[Check for Updates]
 更新の確認
 [Daily]
 毎日
@@ -148,11 +146,11 @@ STUN サーバ
 3ヶ月毎
 [Never]
 しない
-[Update available]
+[Update Available]
 更新があります
 [Do you want to update now?]
 すぐ更新しますか?
-[Force codec for incoming]
+[Force Codec for Incoming]
 コーデックを強制使用する
 [Available]
 通話可能
@@ -166,29 +164,25 @@ H.263+ 無効
 URIが不正です
 [Offline]
 オフライン
-[Single call mode]
+[Single Call Mode]
 シングルモード
 [Local Video]
 私の映像
 [Call Transfer]
 通話転送
-[Transfer status]
-転送状況
 [final]
 最終
 [Call transfered successfully, disconnecting call]
 転送しました。終了処理中です。
 [Hold]
 保留
-[Transfer]
-転送
-[Sound events]
+[Sound Events]
 トーン信号音再生
 [Bitrate]
 ビットレート
 [Login]
 ログイン
-[Enable log file]
+[Enable Log File]
 ログを保存する
 [Calls]
 履歴
@@ -202,7 +196,7 @@ URIが不正です
 From
 [To]
 ～
-[Ring device]
+[Ring Device]
 呼出音再生
 [Service Unavailable]
 サービスは利用不可
@@ -228,74 +222,81 @@ From
 コピー
 [Select All]
 すべて選択
-[Display name]
+[Display Name]
 あなたの名前
-[Remember details]
+[Remember Details]
 詳細を記憶
 [No]
 いいえ
-[All calls]
+[All Calls]
 全ての通話
-[SIP header]
+[SIP Header]
 SIPヘッダー
-[Different user]
+[Different User]
 別のユーザー
-[Different domain]
+[Different Domain]
 ドメイン名が異なります
-[Different user or domain]
+[Different User or Domain]
 ユーザーかドメインが異なります
-[Different remote domain]
+[Different Remote Domain]
 リモートドメインが違います
-[Deny incoming]
+[Deny Incoming]
 着信拒否
-[Allow IP rewrite]
+[Allow IP Rewrite]
 IP上書きを許可
-[Directory of users]
+[Directory of Users]
 ユーザーのディレクトリ
-[Call on remote hold]
+[Call on Remote Hold]
 相手が保留
-[Call on local hold]
+[Call on Local Hold]
 こちらが保留
-[Call on hold]
+[Call on Hold]
 保留
-[Call is active]
+[Call is Active]
 通話有効
 [Menu]
 メニュー
-[Edit account]
+[Edit Account]
 アカウント編集
-[Add account...]
+[Add Account...]
 アカウント追加
-[Remove account]
+[Remove Account]
 アカウント削除
-[Make active]
+[Make Active]
 有効化
 [Are you sure you want to remove?]
 本当に削除しますか？
-[Call pickup]
+[Call Pickup]
 コールピックアップ
-[Speaker level]
+[Speaker Level]
 音量
-[Microphone level]
+[Microphone Level]
 マイク音量
-[Mute speaker]
+[Mute Speaker]
 消音
-[Mute microphone]
+[Mute Microphone]
 マイク消音
 [Please fill out at least the required fields marked with *.]
 必須(*)のマークのついている部分を記入してください。
 [Ask your SIP provider how to configure the account correctly.]
 正しくアカウントを設定する方法をSIPプロバイダーに確認して下さい。
-[Random position]
+[Random Position]
 解答ボックスのランダムな位置
 [Time]
 時間
+[Attended Transfer]
+[Disable VP8]
+VP8 無効
 [Donate]
 寄付します
-[Enable local account]
+[Enable Local Account]
 ローカルアカウントを有効にする
-[Send crash report]
+[Send Crash Report]
 クラッシュレポートを送信する
-[Account name]
+[Account Name]
 アカウント名
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

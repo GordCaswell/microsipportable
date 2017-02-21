@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Thirrja
-[End call]
+[End Call]
 Mbaro thirrjen
 [Contacts]
 Kontaktet
@@ -16,7 +16,7 @@ Numratori
 Llogaria
 [Settings]
 Konfigurimet
-[Visit website]
+[Visit Website]
 Vizito webfaqen
 [Exit]
 Dil
@@ -26,9 +26,9 @@ Zëri cingërrues
 Shfleto...
 [Default]
 Parazgjedhur
-[Auto answer]
+[Auto Answer]
 Përgjigju automatikisht
-[Disable local account]
+[Disable Local Account]
 Paaftëso llogarinë lokale
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Ruaj
 [Cancel]
 Anulo
-[SIP server]
+[SIP Server]
 SIP serveri
-[SIP proxy]
+[SIP Proxy]
 SIP proxy
 [User]
 Përdoruesi
@@ -70,7 +70,7 @@ Numri
 Emri
 [Contact]
 Kontakto
-[Incoming call]
+[Incoming Call]
 Thirrja hyrëse
 [Answer]
 Përgjigju
@@ -86,11 +86,11 @@ I lidhur
 Auto
 [Transport]
 Transporti
-[Incorrect password]
+[Incorrect Password]
 Fjalëkalim i gabuar
-[Public address]
+[Public Address]
 Adresa publike
-[Media encryption]
+[Media Encryption]
 Shifrim i medias
 [Disabled]
 Paaftësuar
@@ -98,15 +98,13 @@ Paaftësuar
 Jo i detyrueshëm
 [Mandatory]
 Detyrueshme
-[STUN server]
+[STUN Server]
 STUN serveri
-[Presence subscription]
+[Presence Subscription]
 Abonim i pranisë
-[Local port]
-Porti Lokal
 [Ringing]
 Duke cingërruar
-[Call ended]
+[Call Ended]
 Thirrja mbaroi
 [Declined]
 Refuzuar
@@ -116,27 +114,27 @@ Adresa nuk u gjet
 Kërkesa perfundoi
 [Away]
 Larg
-[Publish presence]
+[Publish Presence]
 Publiko praninë
 [Session Progress]
 Përparimi i sesionit
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Video thirrja
-[Answer with video]
+[Answer with Video]
 Përgjigju me video
-[View log file]
+[View Log File]
 Shiko log fajllin
 [Microphone]
 Mikrofoni
 [Speaker]
 Alltoparlanti
-[Audio codecs]
+[Audio Codecs]
 Kodekët e zërit
-[Video codec]
+[Video Codec]
 Video codec-u
-[Check for updates]
+[Check for Updates]
 Kontrollo përditësimet
 [Daily]
 Ditor
@@ -148,11 +146,11 @@ Mujor
 Tremujor
 [Never]
 Asnjëherë
-[Update available]
+[Update Available]
 Përditësim i mundshëm
 [Do you want to update now?]
 A doni t'a përditësoni?
-[Force codec for incoming]
+[Force Codec for Incoming]
 [Available]
 Në dispozicion
 [Enabled]
@@ -165,29 +163,25 @@ Paaftëso H.263+
 URI jokorrekt
 [Offline]
 Jashtë linjës
-[Single call mode]
+[Single Call Mode]
 Modusi për thirrje të vetme
 [Local Video]
 Video lokale
 [Call Transfer]
 Transferim i thirrjes
-[Transfer status]
-Statusi i transferit
 [final]
 finale
 [Call transfered successfully, disconnecting call]
 Thirrja u transferua me sukses, duke shkëputur thirrjen
 [Hold]
 Mbaj
-[Transfer]
-Transfero
-[Sound events]
+[Sound Events]
 Tingujt
 [Bitrate]
 Bitrate
 [Login]
 Hyr
-[Enable log file]
+[Enable Log File]
 Lësho log fajllin
 [Calls]
 Thirrjet
@@ -201,7 +195,7 @@ shfaq fjalëkalimin
 Nga
 [To]
 Drejt
-[Ring device]
+[Ring Device]
 Cingërro pajisjen
 [Service Unavailable]
 Shërbimi
@@ -227,42 +221,49 @@ Mbyll të gjithat
 Kopjo
 [Select All]
 Zgjedh të gjitha
-[Display name]
+[Display Name]
 Emri yt
-[Remember details]
+[Remember Details]
 Kujto detajet
 [No]
-[All calls]
-[SIP header]
-[Different user]
-[Different domain]
-[Different user or domain]
-[Different remote domain]
-[Deny incoming]
-[Allow IP rewrite]
-[Directory of users]
-[Call on remote hold]
-[Call on local hold]
-[Call on hold]
-[Call is active]
+[All Calls]
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
 [Menu]
-[Edit account]
-[Add account...]
-[Remove account]
-[Make active]
+[Edit Account]
+[Add Account...]
+[Remove Account]
+[Make Active]
 [Are you sure you want to remove?]
-[Call pickup]
-[Speaker level]
-[Microphone level]
-[Mute speaker]
-[Mute microphone]
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
 [Please fill out at least the required fields marked with *.]
 [Ask your SIP provider how to configure the account correctly.]
-[Random position]
+[Random Position]
 [Time]
+[Attended Transfer]
+[Disable VP8]
+Paaftëso VP8
 [Donate]
 Dhuroj
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

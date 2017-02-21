@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Бирај
-[End call]
+[End Call]
 Крај
 [Contacts]
 Контакти
@@ -16,7 +16,7 @@ RTL: 0
 Сметка
 [Settings]
 Подесувања
-[Visit website]
+[Visit Website]
 Посети website
 [Exit]
 Излез
@@ -26,9 +26,9 @@ RTL: 0
 Прикажи
 [Default]
 Стандардно
-[Auto answer]
+[Auto Answer]
 Автоматски одговор
-[Disable local account]
+[Disable Local Account]
 Оневозможи локална сметка
 [OK]
 Потврди
@@ -36,9 +36,9 @@ RTL: 0
 Сними
 [Cancel]
 Откажи
-[SIP server]
+[SIP Server]
 SIP сервер
-[SIP proxy]
+[SIP Proxy]
 SIP proxy
 [User]
 Корисник
@@ -70,7 +70,7 @@ SIP proxy
 Име
 [Contact]
 Контакт
-[Incoming call]
+[Incoming Call]
 Влезен повик
 [Answer]
 Одговор
@@ -86,11 +86,11 @@ SIP proxy
 Автоматски
 [Transport]
 Транспорт
-[Incorrect password]
+[Incorrect Password]
 Погрешна лозинка
-[Public address]
+[Public Address]
 Јабна адреса
-[Media encryption]
+[Media Encryption]
 Медиумска енкрипција
 [Disabled]
 Оневозможено
@@ -98,15 +98,13 @@ SIP proxy
 Опционо
 [Mandatory]
 Задолжително
-[STUN server]
+[STUN Server]
 STUN сервер
-[Presence subscription]
+[Presence Subscription]
 Присутна претплата
-[Local port]
-Локална порта
 [Ringing]
 Ѕвони
-[Call ended]
+[Call Ended]
 Повикот заврши
 [Declined]
 Одбиено
@@ -116,27 +114,27 @@ STUN сервер
 Барањето е прекинато
 [Away]
 Отсутен
-[Publish presence]
+[Publish Presence]
 Јавна присутност
 [Session Progress]
 Напредок на Сесијата
 [Camera]
 Камера
-[Video call]
+[Video Call]
 Видео повик
-[Answer with video]
+[Answer with Video]
 Одговор со видео
-[View log file]
+[View Log File]
 Прегледај ја журнал датотеката
 [Microphone]
 Микрофон
 [Speaker]
 Звучник
-[Audio codecs]
+[Audio Codecs]
 Аудио кодови
-[Video codec]
+[Video Codec]
 Видео кодови
-[Check for updates]
+[Check for Updates]
 Провери
 [Daily]
 Дневни
@@ -148,11 +146,11 @@ STUN сервер
 Квартален
 [Never]
 Никогаш
-[Update available]
+[Update Available]
 Ново ажурирање на располагање
 [Do you want to update now?]
 Дали сакате да го ажурирате?
-[Force codec for incoming]
+[Force Codec for Incoming]
 [Available]
 На Располагање
 [Enabled]
@@ -165,29 +163,25 @@ STUN сервер
 Погрешен URl
 [Offline]
 Неактивен
-[Single call mode]
+[Single Call Mode]
 Единечен повик
 [Local Video]
 Локално Видео
 [Call Transfer]
 Префрлување на повик
-[Transfer status]
-Статус на префрлувањето
 [final]
 крајно
 [Call transfered successfully, disconnecting call]
 Повикот е успешно префрлен и изклучен
 [Hold]
 Држете
-[Transfer]
-Префрлување
-[Sound events]
+[Sound Events]
 DTMF локална репродукција
 [Bitrate]
 Bit рата
 [Login]
 Пријавете се
-[Enable log file]
+[Enable Log File]
 Овозможи журнал датотека
 [Calls]
 Повици
@@ -201,7 +195,7 @@ Bit рата
 Од
 [To]
 До
-[Ring device]
+[Ring Device]
 Уред што ѕвони
 [Service Unavailable]
 Сервисот не е достапен
@@ -219,42 +213,49 @@ Bit рата
 [Close All]
 [Copy]
 [Select All]
-[Display name]
-[Remember details]
+[Display Name]
+[Remember Details]
 [No]
-[All calls]
+[All Calls]
 Сите повици
-[SIP header]
-[Different user]
-[Different domain]
-[Different user or domain]
-[Different remote domain]
-[Deny incoming]
-[Allow IP rewrite]
-[Directory of users]
-[Call on remote hold]
-[Call on local hold]
-[Call on hold]
-[Call is active]
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
 [Menu]
-[Edit account]
-[Add account...]
+[Edit Account]
+[Add Account...]
 Додај сметка...
-[Remove account]
-[Make active]
+[Remove Account]
+[Make Active]
 [Are you sure you want to remove?]
-[Call pickup]
-[Speaker level]
-[Microphone level]
-[Mute speaker]
-[Mute microphone]
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
 [Please fill out at least the required fields marked with *.]
 [Ask your SIP provider how to configure the account correctly.]
-[Random position]
+[Random Position]
 [Time]
+[Attended Transfer]
+[Disable VP8]
+ОневозможиVP8
 [Donate]
 Донирајте
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

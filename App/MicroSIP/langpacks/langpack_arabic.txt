@@ -5,8 +5,8 @@ RTL: 1
 ; utf8
 
 [Call]
-اطلب الرقم
-[End call]
+002001112023191اطلب الرقم
+[End Call]
 انهى المكالمة
 [Contacts]
 ارقام
@@ -16,7 +16,7 @@ RTL: 1
 الحساب
 [Settings]
 التعديلات
-[Visit website]
+[Visit Website]
 زر موقع مايكروسيب
 [Exit]
 الخروج
@@ -26,9 +26,9 @@ RTL: 1
 تصفح
 [Default]
 m
-[Auto answer]
+[Auto Answer]
 إجابة أوتوماتيكية
-[Disable local account]
+[Disable Local Account]
 ثبط الحساب المحلى
 [OK]
 حسنا
@@ -36,14 +36,14 @@ m
 احفظ
 [Cancel]
 الغاء
-[SIP server]
+[SIP Server]
 خادم بروتوكول بدء الجلسة
-[SIP proxy]
+[SIP Proxy]
 بروكسي بروتوكول بدء الجلسة
 [User]
 مستخدم
 [Domain]
-نطاق
+0020
 [Password]
 كلمة مرور
 [Connecting...]
@@ -70,10 +70,10 @@ m
 اسم
 [Contact]
 رقم
-[Incoming call]
+[Incoming Call]
 الواردة
 [Answer]
-اجب
+القاهرة
 [Decline]
 رفض
 [Calling]
@@ -86,11 +86,11 @@ m
 آليا
 [Transport]
 وسيلة النقل
-[Incorrect password]
+[Incorrect Password]
 كلمة مرور خاطئة
-[Public address]
+[Public Address]
 العنوان العمومي
-[Media encryption]
+[Media Encryption]
 تشفير الميديا
 [Disabled]
 ثبط
@@ -98,15 +98,13 @@ m
 اختيارى
 [Mandatory]
 اجبارى
-[STUN server]
+[STUN Server]
 خادم الستن
-[Presence subscription]
+[Presence Subscription]
 اشتراك الحضور
-[Local port]
-المنفذ المحلى
 [Ringing]
 الرنين
-[Call ended]
+[Call Ended]
 إنتهى الإتصال
 [Declined]
 رفضت
@@ -116,27 +114,27 @@ m
 الغى الطلب
 [Away]
 غائب
-[Publish presence]
+[Publish Presence]
 إعلان الحضور
 [Session Progress]
 تقدم الجلسة
 [Camera]
 كاميرا
-[Video call]
+[Video Call]
 اتصال فيديو
-[Answer with video]
+[Answer with Video]
 اجب مع فيديو
-[View log file]
+[View Log File]
 مشاهدة ملف السجل
 [Microphone]
 اللاقط
 [Speaker]
 سماعة
-[Audio codecs]
+[Audio Codecs]
 كودك الصوت
-[Video codec]
+[Video Codec]
 برنامج ترميز الفيديو
-[Check for updates]
+[Check for Updates]
 مراجعة التحديثات
 [Daily]
 تأخير
@@ -148,11 +146,11 @@ m
 الفصلية
 [Never]
 ابدا
-[Update available]
+[Update Available]
 تحديثات متوفرة
 [Do you want to update now?]
 هل تريد تحديث؟
-[Force codec for incoming]
+[Force Codec for Incoming]
 m
 [Available]
 متواجد
@@ -166,29 +164,25 @@ m
 m
 [Offline]
 غير متصل
-[Single call mode]
+[Single Call Mode]
 وضعية الإتصال الواحد
 [Local Video]
 فيديوا محلى
 [Call Transfer]
 تحويل المكالمة
-[Transfer status]
-حالة التحويل
 [final]
 انتهى
 [Call transfered successfully, disconnecting call]
 حُولت المكالمة بنجاح, تفصل المكالمة
 [Hold]
 انتظار
-[Transfer]
-حول
-[Sound events]
+[Sound Events]
 أحداث الصوت
 [Bitrate]
 السرعة المطلوبة للمكالمة
 [Login]
 الدخول
-[Enable log file]
+[Enable Log File]
 فعّل ملف اللوق
 [Calls]
 الاتصالات
@@ -202,7 +196,7 @@ m
 من
 [To]
 الى
-[Ring device]
+[Ring Device]
 الجهاز يرن
 [Service Unavailable]
 الخدمة غير متوفرة
@@ -228,73 +222,80 @@ m
 نسخ
 [Select All]
 اختر الجميع
-[Display name]
-اسمك
-[Remember details]
+[Display Name]
+essam
+[Remember Details]
 تذكر التفاصيل
 [No]
 لا
-[All calls]
+[All Calls]
 كل الإتصالات
-[SIP header]
+[SIP Header]
 ترويسة بروتوكول بدء الجلسة
-[Different user]
+[Different User]
 مستخدم مختلف
-[Different domain]
+[Different Domain]
 نطاق مختلف
-[Different user or domain]
+[Different User or Domain]
 مستخدم الدليل
-[Different remote domain]
+[Different Remote Domain]
 نطاق مختلف بعيد
-[Deny incoming]
+[Deny Incoming]
 ارفض الوارده
-[Allow IP rewrite]
+[Allow IP Rewrite]
 إعادة كتابة الأيبي أدرس
-[Directory of users]
+[Directory of Users]
 مستخدمى الدليل
-[Call on remote hold]
+[Call on Remote Hold]
 المكالمة فى الانتظار البعيد
-[Call on local hold]
+[Call on Local Hold]
 المكالمة فى الانتظار المحلى
-[Call on hold]
+[Call on Hold]
 المكالمة فى الانتظار
-[Call is active]
+[Call is Active]
 الاتصال نشط
 [Menu]
 m
-[Edit account]
+[Edit Account]
 m
-[Add account...]
+[Add Account...]
 m
-[Remove account]
+[Remove Account]
 امسح الحساب
-[Make active]
+[Make Active]
 m
 [Are you sure you want to remove?]
 m
-[Call pickup]
+[Call Pickup]
 m
-[Speaker level]
+[Speaker Level]
 مستوى مكبر الصوت
-[Microphone level]
+[Microphone Level]
 m
-[Mute speaker]
+[Mute Speaker]
 كتم السماعات
-[Mute microphone]
+[Mute Microphone]
 m
 [Please fill out at least the required fields marked with *.]
 من فضلك قم بملئ المجالات المطلوبةو المرموز لها ب *
 [Ask your SIP provider how to configure the account correctly.]
 اطلب من مزود بروتوكول بدء جلسة كيفية ضبط الحساب بشكل صحيح
-[Random position]
+[Random Position]
 موقف عشوائي من مربع الإجابة
 [Time]
 مرة
+[Attended Transfer]
+[Disable VP8]
+ثبط VP8
 [Donate]
 تبرع
-[Enable local account]
+[Enable Local Account]
 تمكين حساب محلي
-[Send crash report]
-[Account name]
+[Send Crash Report]
+[Account Name]
 mustafa
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

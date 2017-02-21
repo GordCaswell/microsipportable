@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Виклик
-[End call]
+[End Call]
 Завершити
 [Contacts]
 Контакти
@@ -16,7 +16,7 @@ RTL: 0
 Аккаунт
 [Settings]
 Налаштування
-[Visit website]
+[Visit Website]
 Відвідати сайт
 [Exit]
 Вихід
@@ -26,9 +26,9 @@ RTL: 0
 Вибрати...
 [Default]
 За замовчуванням
-[Auto answer]
+[Auto Answer]
 Авто відповідь
-[Disable local account]
+[Disable Local Account]
 Вимкнути локальний аккаунт
 [OK]
 ОК
@@ -36,9 +36,9 @@ RTL: 0
 Зберегти
 [Cancel]
 Скасувати
-[SIP server]
+[SIP Server]
 SIP сервер
-[SIP proxy]
+[SIP Proxy]
 SIP проксі
 [User]
 Користувач
@@ -70,7 +70,7 @@ SIP проксі
 І'мя
 [Contact]
 Контакт
-[Incoming call]
+[Incoming Call]
 Вхідний виклик
 [Answer]
 Відповісти
@@ -86,11 +86,11 @@ SIP проксі
 Авто
 [Transport]
 Транспорт
-[Incorrect password]
+[Incorrect Password]
 Неправильний пароль
-[Public address]
+[Public Address]
 Публічна адреса
-[Media encryption]
+[Media Encryption]
 Шифрування медіа
 [Disabled]
 Вимкнено
@@ -98,15 +98,13 @@ SIP проксі
 Необов'язково
 [Mandatory]
 Обов'язково
-[STUN server]
+[STUN Server]
 STUN сервер
-[Presence subscription]
+[Presence Subscription]
 Підписка на присутність
-[Local port]
-Локальний порт
 [Ringing]
 Йде виклик
-[Call ended]
+[Call Ended]
 Дзвінок завершено
 [Declined]
 Виклик відхилено
@@ -116,27 +114,27 @@ STUN сервер
 Виклик відмінено
 [Away]
 Відійшов
-[Publish presence]
+[Publish Presence]
 Публікувати присутність
 [Session Progress]
 Сесія просувається
 [Camera]
 Камера
-[Video call]
+[Video Call]
 Відеовиклик
-[Answer with video]
+[Answer with Video]
 Відповісти з відео
-[View log file]
+[View Log File]
 Перегляд лог файлу
 [Microphone]
 Мікрофон
 [Speaker]
 Динаміки
-[Audio codecs]
+[Audio Codecs]
 Аудіо кодеки
-[Video codec]
+[Video Codec]
 Відео кодек
-[Check for updates]
+[Check for Updates]
 Перевіряти обновлення
 [Daily]
 Раз на день
@@ -148,11 +146,11 @@ STUN сервер
 Раз на квартал
 [Never]
 Ніколи
-[Update available]
+[Update Available]
 Доступно оновлення
 [Do you want to update now?]
 Ви хочете оновити?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Задавати кодек для вхідних
 [Available]
 Доступні
@@ -166,29 +164,25 @@ STUN сервер
 Неправильний номер
 [Offline]
 Офлайн
-[Single call mode]
+[Single Call Mode]
 Режим одиночного виклику
 [Local Video]
 Локальне відео
 [Call Transfer]
-Перенаправлення виклику
-[Transfer status]
-Стан перенаправлення
+Передача виклику
 [final]
 останій
 [Call transfered successfully, disconnecting call]
 Віклик вдало перенаправлено, відключення
 [Hold]
 Утримання
-[Transfer]
-Перенаправлення
-[Sound events]
+[Sound Events]
 Звукові події
 [Bitrate]
 Бітрейт
 [Login]
 Логін
-[Enable log file]
+[Enable Log File]
 Ввімкнути лог файл
 [Calls]
 Виклики
@@ -202,7 +196,7 @@ STUN сервер
 Від
 [To]
 Кому
-[Ring device]
+[Ring Device]
 Пристрій для виклику
 [Service Unavailable]
 Сервіс недоступний
@@ -228,74 +222,86 @@ STUN сервер
 Копіювати
 [Select All]
 Вибрати все
-[Display name]
+[Display Name]
 Ваше і'мя
-[Remember details]
+[Remember Details]
 Запам'ятати пароль
 [No]
 Ні
-[All calls]
+[All Calls]
 Всі виклики
-[SIP header]
+[SIP Header]
 SIP заголовок
-[Different user]
+[Different User]
 Інший користувач
-[Different domain]
+[Different Domain]
 Інший домен
-[Different user or domain]
+[Different User or Domain]
 Інший користувач або домен
-[Different remote domain]
+[Different Remote Domain]
 Інший віддалений домен
-[Deny incoming]
+[Deny Incoming]
 Заборонити вхідні
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Дозволити перезапис IP
-[Directory of users]
+[Directory of Users]
 Каталог користувачів
-[Call on remote hold]
+[Call on Remote Hold]
 Виклик на віддаленому утриманні
-[Call on local hold]
+[Call on Local Hold]
 Виклик на локальному утриманні
-[Call on hold]
+[Call on Hold]
 Виклик на утриманні
-[Call is active]
+[Call is Active]
 Виклик активний
 [Menu]
 Меню
-[Edit account]
+[Edit Account]
 Змінити аккаунт
-[Add account...]
+[Add Account...]
 Додати аккаунт
-[Remove account]
+[Remove Account]
 Видалити аккаунт
-[Make active]
+[Make Active]
 Зробити активним
 [Are you sure you want to remove?]
 Ви дійстно бажаєте видалити?
-[Call pickup]
+[Call Pickup]
 Перехоплення виклику
-[Speaker level]
+[Speaker Level]
 Рівень динаміків
-[Microphone level]
+[Microphone Level]
 Рівень мікрофону
-[Mute speaker]
+[Mute Speaker]
 Вимкнути динаміки
-[Mute microphone]
+[Mute Microphone]
 Вимкнути мікрофон
 [Please fill out at least the required fields marked with *.]
 Будь ласка, заповніть принаймні усі обов'язкові поля, відмічені *.
 [Ask your SIP provider how to configure the account correctly.]
 Дізнайтеся у вашого SIP-провайдера як правильно налаштувати аккаунт.
-[Random position]
+[Random Position]
 Випадкова позиція
 [Time]
 Час
+[Attended Transfer]
+Передача виклику з супроводом
+[Disable VP8]
+Вимкнути VP8
 [Donate]
 Пожертвувати
-[Enable local account]
+[Enable Local Account]
 Ввімкнути локальний аккаунт
-[Send crash report]
+[Send Crash Report]
 Відсилати звіт про падіння
-[Account name]
+[Account Name]
 Им'я аккаунта
+[Invite to Conference]
+Запросити до конференції
+[Merge]
+Об'єднати
+[Separate]
+Відокремити
+[Disconnect]
+Роз'єднати
 []

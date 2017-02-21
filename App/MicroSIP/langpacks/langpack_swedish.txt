@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Ring
-[End call]
+[End Call]
 Koppla ned
 [Contacts]
 Kontakter
@@ -16,7 +16,7 @@ Knappsats
 Konto
 [Settings]
 Inställningar
-[Visit website]
+[Visit Website]
 Besök hemsida
 [Exit]
 Avsluta
@@ -26,9 +26,9 @@ Ringsignal
 Bläddra
 [Default]
 Standard
-[Auto answer]
+[Auto Answer]
 Svara automatiskt
-[Disable local account]
+[Disable Local Account]
 Deaktivera lokalt konto
 [OK]
 Ok
@@ -36,9 +36,9 @@ Ok
 Spara
 [Cancel]
 Avbryt
-[SIP server]
+[SIP Server]
 SIP server
-[SIP proxy]
+[SIP Proxy]
 SIP proxy
 [User]
 Användarnamn
@@ -70,7 +70,7 @@ Nummer
 Namn
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Inkommande samtal
 [Answer]
 Svara
@@ -86,11 +86,11 @@ Ansluten
 Automatisk
 [Transport]
 Protokoll
-[Incorrect password]
+[Incorrect Password]
 Ogiltigt lösenord
-[Public address]
+[Public Address]
 Publik address
-[Media encryption]
+[Media Encryption]
 Datakryptering
 [Disabled]
 Använd ej
@@ -98,15 +98,13 @@ Använd ej
 Använd om möjligt
 [Mandatory]
 Användning obligatorisk
-[STUN server]
+[STUN Server]
 STUN server
-[Presence subscription]
+[Presence Subscription]
 Inhämta närvarostatus
-[Local port]
-Lokal port
 [Ringing]
 Det ringer
-[Call ended]
+[Call Ended]
 Samtalet avslutat
 [Declined]
 Nekad
@@ -116,27 +114,27 @@ Numret finns ej
 Uppringning avbröts
 [Away]
 Frånvarande
-[Publish presence]
+[Publish Presence]
 Publicera närvaro
 [Session Progress]
 Session framsteg
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Videosamtal
-[Answer with video]
+[Answer with Video]
 Svara med video
-[View log file]
+[View Log File]
 Visa logg
 [Microphone]
 Mikrofon
 [Speaker]
 Högtalare
-[Audio codecs]
+[Audio Codecs]
 Ljudkodningsformat
-[Video codec]
+[Video Codec]
 Videokodningsformat
-[Check for updates]
+[Check for Updates]
 Sök efter uppdateringar
 [Daily]
 Dagligen
@@ -148,11 +146,11 @@ Månadsvis
 Kvartalsvis
 [Never]
 Aldrig
-[Update available]
+[Update Available]
 Det finns en uppdatering
 [Do you want to update now?]
 Vill du uppdatera?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Tvinga codec för inkommande
 [Available]
 Tillgängliga
@@ -166,29 +164,25 @@ Deaktivera H.263+
 Ogiltig URI
 [Offline]
 Ej redo
-[Single call mode]
+[Single Call Mode]
 Ensamtalsläge
 [Local Video]
 Lokal video
 [Call Transfer]
 Överför samtal
-[Transfer status]
-Överföringsstatus
 [final]
 slutlig
 [Call transfered successfully, disconnecting call]
 Samtalet överfört, kopplar ur
 [Hold]
 Parkera
-[Transfer]
-Koppla över
-[Sound events]
+[Sound Events]
 Lokal tonsignalering
 [Bitrate]
 Bithastighet
 [Login]
 Logga in
-[Enable log file]
+[Enable Log File]
 Aktivera loggning till fil
 [Calls]
 Samtal
@@ -202,7 +196,7 @@ visa lösenord
 Från
 [To]
 Till
-[Ring device]
+[Ring Device]
 Ringsignalering
 [Service Unavailable]
 Tjänsten otillgänglig
@@ -228,74 +222,81 @@ Stäng alla
 Kopiera
 [Select All]
 Markera allt
-[Display name]
+[Display Name]
 Ditt namn
-[Remember details]
+[Remember Details]
 Komihåg detaljer
 [No]
 Nej
-[All calls]
+[All Calls]
 Alla samtal
-[SIP header]
+[SIP Header]
 SIP huvud
-[Different user]
+[Different User]
 Annan användare
-[Different domain]
+[Different Domain]
 Annan domän
-[Different user or domain]
+[Different User or Domain]
 Annan användare eller domän
-[Different remote domain]
+[Different Remote Domain]
 Annan fjärrdomän
-[Deny incoming]
+[Deny Incoming]
 Blockera inkommande
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Tillåt IP omskrivning
-[Directory of users]
+[Directory of Users]
 Katalog över användare
-[Call on remote hold]
+[Call on Remote Hold]
 Samtal fjärr-parkerat
-[Call on local hold]
+[Call on Local Hold]
 Samtal parkerat lokalt
-[Call on hold]
+[Call on Hold]
 Samtal parkerat
-[Call is active]
+[Call is Active]
 Samtal aktivt
 [Menu]
 Meny
-[Edit account]
+[Edit Account]
 Redigera konto
-[Add account...]
+[Add Account...]
 Lägg till konto...
-[Remove account]
+[Remove Account]
 Ta bort konto
-[Make active]
+[Make Active]
 Aktivera
 [Are you sure you want to remove?]
 Vill du verkligen ta bort?
-[Call pickup]
+[Call Pickup]
 Svara
-[Speaker level]
+[Speaker Level]
 Högtalarnivå
-[Microphone level]
+[Microphone Level]
 Mikrofon nivå
-[Mute speaker]
+[Mute Speaker]
 Tysta högtalare
-[Mute microphone]
+[Mute Microphone]
 Tysta mikrofon
 [Please fill out at least the required fields marked with *.]
 Fyll åtminstone i de obligatoriska fälten markerade med *.
 [Ask your SIP provider how to configure the account correctly.]
 Fråga din SIP-leverantör hur du konfigurerar kontot korrekt.
-[Random position]
+[Random Position]
 Slumpmässig position av svaret rutan
 [Time]
 Tid
+[Attended Transfer]
+[Disable VP8]
+Deaktivera VP8
 [Donate]
 Donera
-[Enable local account]
+[Enable Local Account]
 Aktivera lokalt konto
-[Send crash report]
+[Send Crash Report]
 Skicka kraschrapport
-[Account name]
+[Account Name]
 Kontonamn
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

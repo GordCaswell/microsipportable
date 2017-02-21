@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Helista
-[End call]
+[End Call]
 Lõpeta
 [Contacts]
 Kontaktid
@@ -16,7 +16,7 @@ Numbrilaud
 Konto
 [Settings]
 Seaded
-[Visit website]
+[Visit Website]
 Külasta veebi
 [Exit]
 Välju
@@ -26,9 +26,9 @@ Helina fail
 Sirvi...
 [Default]
 Taasta algne
-[Auto answer]
+[Auto Answer]
 Automaatne vastamine
-[Disable local account]
+[Disable Local Account]
 Keela kohalik konto
 [OK]
 Sobib
@@ -36,9 +36,9 @@ Sobib
 Salvesta
 [Cancel]
 Loobu
-[SIP server]
+[SIP Server]
 SIP server
-[SIP proxy]
+[SIP Proxy]
 SIP proksi
 [User]
 Kasutajanimi
@@ -70,7 +70,7 @@ Number
 Nimi
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Sisenev kõne
 [Answer]
 Vasta
@@ -86,11 +86,11 @@ Helistan
 Automaatne
 [Transport]
 Protokolli tüüp
-[Incorrect password]
+[Incorrect Password]
 Vale salasõna
-[Public address]
+[Public Address]
 Avalik aadress
-[Media encryption]
+[Media Encryption]
 Side turvalisus
 [Disabled]
 Puudub
@@ -98,15 +98,13 @@ Puudub
 Valikuline
 [Mandatory]
 Kohustuslik
-[STUN server]
+[STUN Server]
 STUN server
-[Presence subscription]
+[Presence Subscription]
 Kohalolu registreering
-[Local port]
-Kohalik port
 [Ringing]
 Helisemine
-[Call ended]
+[Call Ended]
 Kõne lõpp
 [Declined]
 Keeldutud
@@ -116,27 +114,27 @@ Aadressi pole leitud
 Päring lõpetatud
 [Away]
 Eemal
-[Publish presence]
+[Publish Presence]
 Teavita kohalolust
 [Session Progress]
 Seansi edenemine
 [Camera]
 Kaamera
-[Video call]
+[Video Call]
 Videokõne
-[Answer with video]
+[Answer with Video]
 Vasta videoga
-[View log file]
+[View Log File]
 Vaata logifaili
 [Microphone]
 Mikrofon
 [Speaker]
 Kõlar
-[Audio codecs]
+[Audio Codecs]
 Audiokoodekid
-[Video codec]
+[Video Codec]
 Videokoodek
-[Check for updates]
+[Check for Updates]
 Kontrolli uuendusi
 [Daily]
 Iga päev
@@ -148,11 +146,11 @@ Igakuiselt
 Kvartaalselt
 [Never]
 Iialgi
-[Update available]
+[Update Available]
 Uuendus on saadaval
 [Do you want to update now?]
 Kas soovid praegu uuendada?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Sissetulevale jõusta koodek
 [Available]
 Saadaval
@@ -166,29 +164,25 @@ Keela H.263+
 Kehtetu URI
 [Offline]
 Võrgust väljas
-[Single call mode]
+[Single Call Mode]
 Ainsa kõne moodus
 [Local Video]
 Kohalik video
 [Call Transfer]
 Kõne suunamine
-[Transfer status]
-Suunamise olukord
 [final]
 lõplik
 [Call transfered successfully, disconnecting call]
 Kõne on edukalt suunatud, ühendan lahti
 [Hold]
 Ootel
-[Transfer]
-Suunamine
-[Sound events]
+[Sound Events]
 Heli seigad
 [Bitrate]
 Bitikiirus
 [Login]
 Logi sisse
-[Enable log file]
+[Enable Log File]
 Võimaldada logimine
 [Calls]
 Kõned
@@ -202,7 +196,7 @@ näita parooli
 Kust
 [To]
 Kuhu
-[Ring device]
+[Ring Device]
 Helisemise seade
 [Service Unavailable]
 Teenus pole saadaval
@@ -228,74 +222,86 @@ Sulge kõik
 Kopeeri
 [Select All]
 Vali kõik
-[Display name]
+[Display Name]
 Su nimi
-[Remember details]
+[Remember Details]
 Mäleta detaile
 [No]
 Ei
-[All calls]
+[All Calls]
 Kõik kõned
-[SIP header]
+[SIP Header]
 SIP päis
-[Different user]
+[Different User]
 Erinev kasutaja
-[Different domain]
+[Different Domain]
 Erinev domeen
-[Different user or domain]
+[Different User or Domain]
 Erinev kasutaja või domeen
-[Different remote domain]
+[Different Remote Domain]
 Erinev kaugdomeen
-[Deny incoming]
+[Deny Incoming]
 Keeldu vastuvõtust
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Luba IP ülekirjutada
-[Directory of users]
+[Directory of Users]
 Kasutajate nimistu
-[Call on remote hold]
+[Call on Remote Hold]
 Kõne on kaugootel
-[Call on local hold]
+[Call on Local Hold]
 Kõne on kohalikul ootel
-[Call on hold]
+[Call on Hold]
 Kõne on ootel
-[Call is active]
+[Call is Active]
 Aktiivne kõne
 [Menu]
 Menüü
-[Edit account]
+[Edit Account]
 Muuda kontot
-[Add account...]
+[Add Account...]
 Lisa konto...
-[Remove account]
+[Remove Account]
 Kõrvalda konto
-[Make active]
+[Make Active]
 Muuda aktiiveks
 [Are you sure you want to remove?]
 Kas oled kindel, et soovid kõrvaldada?
-[Call pickup]
+[Call Pickup]
 Kõnele vastamine
-[Speaker level]
+[Speaker Level]
 Kõlari tase
-[Microphone level]
+[Microphone Level]
 Mikrofoni tase
-[Mute speaker]
+[Mute Speaker]
 Vaigista kõlar
-[Mute microphone]
+[Mute Microphone]
 Vaigista mikrofon
 [Please fill out at least the required fields marked with *.]
 Palun täida vähemalt * märgitud nõutavad väljad
 [Ask your SIP provider how to configure the account correctly.]
 Päri SIP-pakkujalt, kuidas õieti kontot konfigureerida
-[Random position]
+[Random Position]
 Vastusekasti suvaline asukoht
 [Time]
 Aeg
+[Attended Transfer]
+Kaasnev edastus
+[Disable VP8]
+Keela VP8
 [Donate]
 Annetama
-[Enable local account]
+[Enable Local Account]
 Ava kohalik konto
-[Send crash report]
+[Send Crash Report]
 Saada veateade
-[Account name]
+[Account Name]
 Konto nimi
+[Invite to Conference]
+Kutsu konverentsile
+[Merge]
+Mesti
+[Separate]
+Eralda
+[Disconnect]
+Ühenda lahti
 []

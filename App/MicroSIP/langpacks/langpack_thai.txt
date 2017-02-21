@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 เรียก
-[End call]
+[End Call]
 วางสาย
 [Contacts]
 ผู้ติดต่อ
@@ -16,7 +16,7 @@ RTL: 0
 บัญชี
 [Settings]
 ตั้งค่า
-[Visit website]
+[Visit Website]
 เยี่ยมชมเว็บไซต์
 [Exit]
 ออก
@@ -26,17 +26,17 @@ RTL: 0
 เลือกไฟล์
 [Default]
 ค่าเริ่มต้น
-[Auto answer]
+[Auto Answer]
 ตอบรับอัตโนมัติ
-[Disable local account]
+[Disable Local Account]
 [OK]
 ตกลง
 [Save]
 บันทึก
 [Cancel]
 ยกเลิก
-[SIP server]
-[SIP proxy]
+[SIP Server]
+[SIP Proxy]
 [User]
 ผู้ใช้
 [Domain]
@@ -66,7 +66,7 @@ RTL: 0
 ชื่อ
 [Contact]
 ติดต่อ
-[Incoming call]
+[Incoming Call]
 สายเข้า
 [Answer]
 ตอบรับ
@@ -80,23 +80,21 @@ RTL: 0
 [Auto]
 อัตโนมัติ
 [Transport]
-[Incorrect password]
+[Incorrect Password]
 รหัสผ่านไม่ถูกต้อง
-[Public address]
-[Media encryption]
+[Public Address]
+[Media Encryption]
 การเข้ารหัสมีเดีย
 [Disabled]
 [Optional]
 ตัวเลือก
 [Mandatory]
 บังคับ
-[STUN server]
-[Presence subscription]
-[Local port]
-port ภายใน
+[STUN Server]
+[Presence Subscription]
 [Ringing]
 เรียกเข้า
-[Call ended]
+[Call Ended]
 วางสาย
 [Declined]
 [No address found]
@@ -104,25 +102,25 @@ port ภายใน
 [Request Terminated]
 [Away]
 ไม่อยู่
-[Publish presence]
+[Publish Presence]
 [Session Progress]
 [Camera]
 กล้อง
-[Video call]
+[Video Call]
 วิดีโอคอล
-[Answer with video]
+[Answer with Video]
 ตอบรับด้วยวีดีโอ
-[View log file]
+[View Log File]
 ดู log file
 [Microphone]
 ไมโครโฟน
 [Speaker]
 ลำโพง
-[Audio codecs]
+[Audio Codecs]
 รหัสสัญญาณเสียง
-[Video codec]
+[Video Codec]
 รหัสสัญญาณภาพ
-[Check for updates]
+[Check for Updates]
 ตรวจสอบ Updates
 [Daily]
 ทุกวัน
@@ -134,10 +132,10 @@ port ภายใน
 ทุก 3 เดือน
 [Never]
 ไม่เคย
-[Update available]
+[Update Available]
 [Do you want to update now?]
 คุณต้องการอัพเดท หรือไม่?
-[Force codec for incoming]
+[Force Codec for Incoming]
 [Available]
 ว่าง
 [Enabled]
@@ -149,27 +147,23 @@ port ภายใน
 [Invalid URI]
 [Offline]
 ออฟไลน์
-[Single call mode]
+[Single Call Mode]
 โหมดใช้งานสายเดียว
 [Local Video]
 [Call Transfer]
 โอนสาย
-[Transfer status]
-สถานะโอนสาย
 [final]
 สุดท้าย
 [Call transfered successfully, disconnecting call]
 โอนสายเรียบร้อย, วางสาย
 [Hold]
 พักสาย
-[Transfer]
-โอนสาย
-[Sound events]
+[Sound Events]
 [Bitrate]
 ความเร็ว
 [Login]
 เข้าระบบ
-[Enable log file]
+[Enable Log File]
 เปิดล็อคไฟล์
 [Calls]
 เรียก
@@ -183,7 +177,7 @@ port ภายใน
 จาก
 [To]
 ถึง
-[Ring device]
+[Ring Device]
 อุปกรณ์เสียง
 [Service Unavailable]
 [Invalid Request URI]
@@ -206,63 +200,70 @@ port ภายใน
 สำเนา
 [Select All]
 เลือกทั้งหมด
-[Display name]
+[Display Name]
 ชื่อคุณ
-[Remember details]
+[Remember Details]
 จำรายละเอียด
 [No]
 ไม่
-[All calls]
+[All Calls]
 เบอร์โทรทั้งหมด
-[SIP header]
-[Different user]
+[SIP Header]
+[Different User]
 ผู้ใช้งานที่ต่างกัน
-[Different domain]
+[Different Domain]
 โดเมนที่ต่างกัน
-[Different user or domain]
+[Different User or Domain]
 ผู้ใช้งานหรือโดเมนที่ต่างกัน
-[Different remote domain]
+[Different Remote Domain]
 รีโมทโดเมนที่ต่างกัน
-[Deny incoming]
+[Deny Incoming]
 ปฏิเสธสายโทรเข้า
-[Allow IP rewrite]
+[Allow IP Rewrite]
 เรียกใช้ IP เดิม
-[Directory of users]
+[Directory of Users]
 ไดเรกทอรีของผู้ใช้
-[Call on remote hold]
-[Call on local hold]
-[Call on hold]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
 พักสาย
-[Call is active]
+[Call is Active]
 [Menu]
 เมนู
-[Edit account]
+[Edit Account]
 แก้ไขบัญชี
-[Add account...]
+[Add Account...]
 เพิ่มบัญชี
-[Remove account]
+[Remove Account]
 ลบบัญชีออก
-[Make active]
+[Make Active]
 ใช้งาน
 [Are you sure you want to remove?]
 คุณแน่ใจว่าต้องการลบ?
-[Call pickup]
+[Call Pickup]
 สายเรียกเข้า
-[Speaker level]
+[Speaker Level]
 ระดับเสียงลำโพง
-[Microphone level]
+[Microphone Level]
 ระดับเสียงไมโครโฟน
-[Mute speaker]
+[Mute Speaker]
 ปิดเสียงลำโพง
-[Mute microphone]
+[Mute Microphone]
 ปิดเสียงไมโครโฟน
 [Please fill out at least the required fields marked with *.]
 [Ask your SIP provider how to configure the account correctly.]
-[Random position]
+[Random Position]
 [Time]
+[Attended Transfer]
+[Disable VP8]
+ปิดใช้ VP8
 [Donate]
 บริจาค
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

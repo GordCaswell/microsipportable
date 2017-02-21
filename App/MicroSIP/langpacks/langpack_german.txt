@@ -6,17 +6,17 @@ RTL: 0
 
 [Call]
 Anrufen
-[End call]
+[End Call]
 Anruf beenden
 [Contacts]
 Kontakte
 [Dialpad]
-Wähltasten
+Tastatur
 [Account]
-Benutzerkonto
+Konto
 [Settings]
 Einstellungen
-[Visit website]
+[Visit Website]
 Website besuchen
 [Exit]
 Programm schließen
@@ -26,26 +26,26 @@ Klingelton
 Durchsuchen...
 [Default]
 Standard
-[Auto answer]
+[Auto Answer]
 Autom. antworten
-[Disable local account]
-Lokales Account deaktivieren
+[Disable Local Account]
+Lokales Konto deaktivieren
 [OK]
 OK
 [Save]
 Speichern
 [Cancel]
 Abbrechen
-[SIP server]
+[SIP Server]
 SIP-Server
-[SIP proxy]
+[SIP Proxy]
 SIP-Proxy
 [User]
 Benutzername
 [Domain]
-Domäne
+Domain
 [Password]
-Kennwort
+Passwort
 [Connecting...]
 Verbindung herstellen...
 [Online]
@@ -61,16 +61,16 @@ Löschen
 [Add]
 Hinzufügen
 [Bad Gateway]
-Fehlerhaftes Zugang
+Ungültiger Zugang
 [Request Timeout]
-Anfrage Zeitüberschreitung
+Zeitüberschreitung bei der Anfrage
 [Number]
 Nummer
 [Name]
 Name
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Eingehender Anruf
 [Answer]
 Antworten
@@ -86,11 +86,11 @@ Verbunden
 Auto
 [Transport]
 Netzwerkprotokoll
-[Incorrect password]
-Fehlerhaftes Kennwort
-[Public address]
+[Incorrect Password]
+Ungültiges Passwort
+[Public Address]
 Öffentliche Adresse
-[Media encryption]
+[Media Encryption]
 Medienverschlüsselung
 [Disabled]
 Deaktiviert
@@ -98,15 +98,13 @@ Deaktiviert
 Optional
 [Mandatory]
 Verpflichtend
-[STUN server]
+[STUN Server]
 STUN-Server
-[Presence subscription]
+[Presence Subscription]
 Status anzeigen
-[Local port]
-Lokaler Anschluss (Port)
 [Ringing]
 Eingehender Anruf
-[Call ended]
+[Call Ended]
 Anruf beendet
 [Declined]
 Abgelehnt
@@ -116,28 +114,28 @@ Keine Adresse gefunden
 Anfrage abgebrochen
 [Away]
 Abwesend
-[Publish presence]
+[Publish Presence]
 Verfügbarkeit anzeigen
 [Session Progress]
 Rufaufbau
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Videoanruf
-[Answer with video]
+[Answer with Video]
 Mit Video antworten
-[View log file]
+[View Log File]
 Protokolldatei ansehen
 [Microphone]
 Mikrofon
 [Speaker]
 Lautsprecher
-[Audio codecs]
+[Audio Codecs]
 Audiocodecs
-[Video codec]
+[Video Codec]
 Video Codec
-[Check for updates]
-Auf Aktualisierungen prüfen
+[Check for Updates]
+Nach Updates suchen
 [Daily]
 Täglich
 [Weekly]
@@ -148,11 +146,11 @@ Monatlich
 Quartalsweise
 [Never]
 Niemals
-[Update available]
-Aktualisierung verfügbar
+[Update Available]
+Update verfügbar
 [Do you want to update now?]
-Wollen Sie aktualisieren?
-[Force codec for incoming]
+Wollen Sie updaten?
+[Force Codec for Incoming]
 Codec für Gesprächseingang erzwingen
 [Available]
 Verfügbar
@@ -166,43 +164,39 @@ H.263+ deaktivieren
 Ungültige URl
 [Offline]
 Offline
-[Single call mode]
+[Single Call Mode]
 "Nur Anruf"-Modus
 [Local Video]
 Lokales Video
 [Call Transfer]
 Anrufweiterleitung
-[Transfer status]
-Übertragungsstatus
 [final]
 letzte
 [Call transfered successfully, disconnecting call]
 Weiterleitung erfolgreich, beende Verbindung
 [Hold]
 Halten
-[Transfer]
-Übertragung
-[Sound events]
-lokale DTMF Wiedergabe
+[Sound Events]
+Lokale DTMF Wiedergabe
 [Bitrate]
 Bitrate
 [Login]
 Anmelden als
-[Enable log file]
+[Enable Log File]
 Protokolldatei aktivieren
 [Calls]
 Anrufe
 [Duration]
 Dauer
 [Info]
-Information
+Info
 [display password]
 Passwort anzeigen
 [From]
 Von
 [To]
 An
-[Ring device]
+[Ring Device]
 Wiedergabegerät
 [Service Unavailable]
 Dienst nicht verfügbar
@@ -228,74 +222,86 @@ Alle schließen
 Kopieren
 [Select All]
 Alles wählen
-[Display name]
+[Display Name]
 Anzeigename
-[Remember details]
+[Remember Details]
 Einstellungen merken
 [No]
 Nein
-[All calls]
+[All Calls]
 Alle Anrufe
-[SIP header]
+[SIP Header]
 SIP-Header
-[Different user]
+[Different User]
 Anderer Benutzer
-[Different domain]
-Andere Domäne
-[Different user or domain]
-Andere(r) Benutzer oder Domäne
-[Different remote domain]
-Fremddomäne
-[Deny incoming]
+[Different Domain]
+Andere Domain
+[Different User or Domain]
+Andere Benutzer oder Domain
+[Different Remote Domain]
+Fremddomain
+[Deny Incoming]
 Eingehenden Anruf blocken
-[Allow IP rewrite]
+[Allow IP Rewrite]
 IP-Rückmeldung erlauben
-[Directory of users]
+[Directory of Users]
 Benutzerverzeichnis
-[Call on remote hold]
+[Call on Remote Hold]
 Anruf bei Provider halten
-[Call on local hold]
+[Call on Local Hold]
 Anruf lokal halten
-[Call on hold]
+[Call on Hold]
 Anruf halten
-[Call is active]
-Telefonverbindung aktiv
+[Call is Active]
+Verbindung aktiv
 [Menu]
 Menü
-[Edit account]
-Account bearbeiten
-[Add account...]
-Account hinzufügen...
-[Remove account]
-Account löschen
-[Make active]
+[Edit Account]
+Konto bearbeiten
+[Add Account...]
+Konto hinzufügen...
+[Remove Account]
+Konto löschen
+[Make Active]
 Aktivieren
 [Are you sure you want to remove?]
 Wirklich entfernen?
-[Call pickup]
+[Call Pickup]
 Anruf beantworten
-[Speaker level]
+[Speaker Level]
 Lautstärke
-[Microphone level]
+[Microphone Level]
 Mikrofonlautstärke
-[Mute speaker]
+[Mute Speaker]
 Lautsprecher stumm schalten
-[Mute microphone]
+[Mute Microphone]
 Mikrofon stumm schalten
 [Please fill out at least the required fields marked with *.]
 Bitte füllen Sie die mit * gekennzeichneten Felder aus.
 [Ask your SIP provider how to configure the account correctly.]
-Fragen Sie Ihren SIP-Provider, wie Ihr Account korrekt konfiguriert werden muss.
-[Random position]
+Ihren SIP-Provider fragen, wie Ihr Account korrekt konfiguriert werden muss.
+[Random Position]
 Zufällige Position der Antwortbox
 [Time]
 Zeit
+[Attended Transfer]
+Telefongespräch vermitteln
+[Disable VP8]
+VP8 deaktivieren
 [Donate]
 Spenden
-[Enable local account]
-Lokalen Account aktivieren
-[Send crash report]
+[Enable Local Account]
+Lokalen Konto aktivieren
+[Send Crash Report]
 Absturzbericht senden
-[Account name]
-Accountname
+[Account Name]
+Kontoname
+[Invite to Conference]
+Zu Konferenz einladen
+[Merge]
+Zusammenführen
+[Separate]
+Trennen
+[Disconnect]
+Verbindung trennen
 []

@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Soita
-[End call]
+[End Call]
 Katkaise puhelu
 [Contacts]
 Yhteystiedot
@@ -16,7 +16,7 @@ Näppäimistö
 Käyttäjätili
 [Settings]
 Asetukset
-[Visit website]
+[Visit Website]
 Verkkosivusto
 [Exit]
 Lopeta
@@ -26,9 +26,9 @@ Soittoääni
 Selaa...
 [Default]
 Oletus
-[Auto answer]
+[Auto Answer]
 Automaattivastaus
-[Disable local account]
+[Disable Local Account]
 Ei paikallisia käyttäjätilejä
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Tallenna
 [Cancel]
 Peruuta
-[SIP server]
+[SIP Server]
 SIP-palvelin
-[SIP proxy]
+[SIP Proxy]
 SIP-välityspalvelin
 [User]
 Käyttäjätunnus
@@ -70,7 +70,7 @@ Numero
 Nimi
 [Contact]
 Yhteystieto
-[Incoming call]
+[Incoming Call]
 Saapuva puhelu
 [Answer]
 Vastaa
@@ -86,11 +86,11 @@ Yhdistetty
 Automaattinen
 [Transport]
 Siirtoprotokolla
-[Incorrect password]
+[Incorrect Password]
 Salasana väärin
-[Public address]
+[Public Address]
 Julkinen osoite
-[Media encryption]
+[Media Encryption]
 Salaus
 [Disabled]
 Ei käytössä
@@ -98,15 +98,13 @@ Ei käytössä
 Valinnainen
 [Mandatory]
 Pakotettu
-[STUN server]
+[STUN Server]
 STUN-palvelin
-[Presence subscription]
+[Presence Subscription]
 Tilatiedon tilaus
-[Local port]
-Paikallinen portti
 [Ringing]
 Soittaa
-[Call ended]
+[Call Ended]
 Puhelu loppui
 [Declined]
 Sallittu
@@ -116,27 +114,27 @@ Osoitetta ei löytynyt
 Pyyntö katkaistu
 [Away]
 Poissa
-[Publish presence]
+[Publish Presence]
 Tilatiedon julkaisu
 [Session Progress]
 Istunnon tila
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Videopuhelu
-[Answer with video]
+[Answer with Video]
 Vastaa videon kanssa
-[View log file]
+[View Log File]
 Näytä loki
 [Microphone]
 Mikrofoni
 [Speaker]
 Kaiutin
-[Audio codecs]
+[Audio Codecs]
 Äänen pakkaus
-[Video codec]
+[Video Codec]
 Videon pakkaus
-[Check for updates]
+[Check for Updates]
 Tarkista päivitykset
 [Daily]
 Päivittäin
@@ -148,11 +146,11 @@ Kuukauden välein
 3 kuukauden välein
 [Never]
 Ei koskaan
-[Update available]
+[Update Available]
 Päivitys saatavilla
 [Do you want to update now?]
 Haluatko päivittää ohjelman?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Pakota pakkaus saapuviin
 [Available]
 Saatavilla
@@ -166,29 +164,25 @@ H.263+ pois päältä
 Virheellinen URI
 [Offline]
 Ei saatavilla
-[Single call mode]
+[Single Call Mode]
 Yksinkertaistettu soittoikkuna
 [Local Video]
 Paikallinen video
 [Call Transfer]
 Puhelun siirto
-[Transfer status]
-Siirron tila
 [final]
 lopullinen
 [Call transfered successfully, disconnecting call]
 Puhelun siirto onnistui, puhelua katkaistaan
 [Hold]
 Pidossa
-[Transfer]
-Siirto
-[Sound events]
+[Sound Events]
 Näppäinäänet
 [Bitrate]
 Bittitaajuus
 [Login]
 Käyttäjänimi
-[Enable log file]
+[Enable Log File]
 Lokiin kirjaaminen käytössä
 [Calls]
 Puhelut
@@ -202,7 +196,7 @@ näytä salasana
 Keneltä
 [To]
 Kenelle
-[Ring device]
+[Ring Device]
 Soittoäänen toistolaite
 [Service Unavailable]
 Palvelu ei saatavilla
@@ -228,72 +222,79 @@ Sulje kaikki
 Kopioi
 [Select All]
 Valitse kaikki
-[Display name]
+[Display Name]
 Näyttönimi
-[Remember details]
+[Remember Details]
 Muista yksityiskohdat
 [No]
 Ei käytössä
-[All calls]
+[All Calls]
 Kaikki puhelut
-[SIP header]
+[SIP Header]
 SIP-otsikkotunnisteen mukainen
-[Different user]
+[Different User]
 Vieras käyttäjä
-[Different domain]
+[Different Domain]
 Vieras toimialue
-[Different user or domain]
+[Different User or Domain]
 Vieras käyttäjä tai toimialue
-[Different remote domain]
+[Different Remote Domain]
 Vieras etätoimialue
-[Deny incoming]
+[Deny Incoming]
 Estä saapuvat
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Salli IP-osoitteen ylikirjoitus
-[Directory of users]
+[Directory of Users]
 Käyttäjähakemisto
-[Call on remote hold]
+[Call on Remote Hold]
 Puhelu kauko pitoon
-[Call on local hold]
+[Call on Local Hold]
 Puhelu paikallisista pitoon
-[Call on hold]
+[Call on Hold]
 Puhelu on pidossa
-[Call is active]
+[Call is Active]
 Puhelu on käynnissä
 [Menu]
 Valikko
-[Edit account]
+[Edit Account]
 Muokkaa käyttäjätiliä
-[Add account...]
+[Add Account...]
 Lisää tili...
-[Remove account]
+[Remove Account]
 Poista käyttäjätili
-[Make active]
+[Make Active]
 Tee aktiiviseksi
 [Are you sure you want to remove?]
 Haluatko varmasti poistaa?
-[Call pickup]
+[Call Pickup]
 Puhelun poimiminen
-[Speaker level]
+[Speaker Level]
 Kaiuttimen voimakkuus
-[Microphone level]
+[Microphone Level]
 Mikrofonin taso
-[Mute speaker]
+[Mute Speaker]
 Mykistä kaiutin
-[Mute microphone]
+[Mute Microphone]
 Mykistä mikrofoni
 [Please fill out at least the required fields marked with *.]
 Täytäthän ainakin tähdellä (*) merkityt kentät.
 [Ask your SIP provider how to configure the account correctly.]
 Kysy tarvittaessa neuvoa SIP-palveluntarjoajaltasi.
-[Random position]
+[Random Position]
 Satunnainen vastausikkunan sijainti
 [Time]
 Aika
+[Attended Transfer]
+[Disable VP8]
+VP8 pois päältä
 [Donate]
 Lahjoittaa
-[Enable local account]
+[Enable Local Account]
 Käytä paikallista käyttäjätiliä
-[Send crash report]
-[Account name]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

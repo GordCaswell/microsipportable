@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Hívás
-[End call]
+[End Call]
 Befejezés
 [Contacts]
 Kapcsolatok
@@ -16,7 +16,7 @@ Tárcsázó
 Előfizetés
 [Settings]
 Beállítások
-[Visit website]
+[Visit Website]
 Honlapja
 [Exit]
 Kilépés
@@ -26,9 +26,9 @@ Csengőhang
 Tallózás
 [Default]
 Alaphelyzet
-[Auto answer]
+[Auto Answer]
 Automatikus válasz
-[Disable local account]
+[Disable Local Account]
 Helyi előfizetés kikapcsolása
 [OK]
 Rendben
@@ -36,9 +36,9 @@ Rendben
 Mentés
 [Cancel]
 Mégsem
-[SIP server]
+[SIP Server]
 SIP szerver
-[SIP proxy]
+[SIP Proxy]
 SIP proxy
 [User]
 Felhasználónév
@@ -70,7 +70,7 @@ Telefonszám
 Név
 [Contact]
 Kapcsolat
-[Incoming call]
+[Incoming Call]
 Bejövő hívás
 [Answer]
 Válaszol
@@ -86,11 +86,11 @@ Kapcsolódva
 Automatikus
 [Transport]
 Átvitel
-[Incorrect password]
+[Incorrect Password]
 Hibás jelszó
-[Public address]
+[Public Address]
 Nyilvános cím
-[Media encryption]
+[Media Encryption]
 Média titkosítás
 [Disabled]
 Kikapcsolva
@@ -98,15 +98,13 @@ Kikapcsolva
 Opcionális
 [Mandatory]
 Kötelező
-[STUN server]
+[STUN Server]
 STUN szerver
-[Presence subscription]
+[Presence Subscription]
 Elérhetőség jelzése
-[Local port]
-Helyi Port
 [Ringing]
 Csengés
-[Call ended]
+[Call Ended]
 Hívás vége
 [Declined]
 Elutasítva
@@ -116,27 +114,27 @@ Cím nem található
 Kérés lezárva
 [Away]
 Vendég
-[Publish presence]
+[Publish Presence]
 Jelenlét közzététel
 [Session Progress]
 Haladás
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Video hívás
-[Answer with video]
+[Answer with Video]
 Válasz videoval
-[View log file]
+[View Log File]
 Naplófájl nézés
 [Microphone]
 Hangbeállítás: mikrofon
 [Speaker]
 Hangbeállítás:hangszóró
-[Audio codecs]
+[Audio Codecs]
 Hang kodek
-[Video codec]
+[Video Codec]
 Video kodek
-[Check for updates]
+[Check for Updates]
 Frissítés ellenőrzése
 [Daily]
 Naponta
@@ -148,11 +146,11 @@ Havonta
 Negyedévenként
 [Never]
 Soha
-[Update available]
+[Update Available]
 Frissítés elérhető
 [Do you want to update now?]
 Akarod frissíteni a programot?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Force codec bejövő
 [Available]
 Rendelkezésre áll
@@ -166,29 +164,25 @@ H.263+ tiltása
 Érvénytelen URI
 [Offline]
 Kapcsolat nélkül
-[Single call mode]
+[Single Call Mode]
 Egy hívás mód
 [Local Video]
 Helyi video
 [Call Transfer]
 Hívás átadása
-[Transfer status]
-Átadás állapot
 [final]
 Utolsó
 [Call transfered successfully, disconnecting call]
 Hívás megtörtént, hívás bontása
 [Hold]
 Tartás
-[Transfer]
-Átvitel
-[Sound events]
+[Sound Events]
 DTMF helyi lejátszás
 [Bitrate]
 Bitráta
 [Login]
 Bejelentkezés
-[Enable log file]
+[Enable Log File]
 Naplózás engedélyezés
 [Calls]
 Hívások
@@ -202,7 +196,7 @@ Jelszó megjelenítése
 Faladó
 [To]
 Címzett
-[Ring device]
+[Ring Device]
 Hangbeállítás: csengetés
 [Service Unavailable]
 Szolgáltatás nem elérhető
@@ -228,71 +222,78 @@ Mindent bezár
 Másolás
 [Select All]
 Mindent kijelöl
-[Display name]
+[Display Name]
 Az Ön neve
-[Remember details]
+[Remember Details]
 Adatok megjegyzése
 [No]
 Nem
-[All calls]
+[All Calls]
 Összes hívás
-[SIP header]
+[SIP Header]
 SIP fejléc
-[Different user]
+[Different User]
 Más felhasználó
-[Different domain]
+[Different Domain]
 Másik domain
-[Different user or domain]
+[Different User or Domain]
 Más felhasználó vagy domain
-[Different remote domain]
+[Different Remote Domain]
 Másik távoli domain
-[Deny incoming]
+[Deny Incoming]
 Bejövő tiltása
-[Allow IP rewrite]
+[Allow IP Rewrite]
 IP átírányítás engedélyezése
-[Directory of users]
+[Directory of Users]
 Felhasználók listája
-[Call on remote hold]
+[Call on Remote Hold]
 Hívás távoli tartásban
-[Call on local hold]
+[Call on Local Hold]
 Hívás helyileg tartásban
-[Call on hold]
+[Call on Hold]
 Hívás tartásban
-[Call is active]
+[Call is Active]
 Hívás aktív
 [Menu]
 Menü
-[Edit account]
+[Edit Account]
 Fiók szerkesztése
-[Add account...]
+[Add Account...]
 Fiók hozzáadása...
-[Remove account]
+[Remove Account]
 Fiók eltávolítása
-[Make active]
+[Make Active]
 Hogy az aktív
 [Are you sure you want to remove?]
 Biztos, hogy el akarja távolítani?
-[Call pickup]
+[Call Pickup]
 Hívásfelvenni
-[Speaker level]
+[Speaker Level]
 Hangszóró szintű
-[Microphone level]
+[Microphone Level]
 Mikrofon szint
-[Mute speaker]
+[Mute Speaker]
 Néma hangszóró
-[Mute microphone]
+[Mute Microphone]
 Néma mikrofon
 [Please fill out at least the required fields marked with *.]
 Kérjük, töltse ki legalább a kötelező mezőket * -gal jelölt.
 [Ask your SIP provider how to configure the account correctly.]
 Kérdezze meg a SIP-szolgáltatót, hogyan kell beállítani a fiókot helyesen.
-[Random position]
+[Random Position]
 Véletlen helyzete bejövő hívás doboz
 [Time]
 Idő
+[Attended Transfer]
+[Disable VP8]
+VP8 tiltása
 [Donate]
 Adományoz
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

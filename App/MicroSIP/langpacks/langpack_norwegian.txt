@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Ring
-[End call]
+[End Call]
 Slutt
 [Contacts]
 Kontakter
@@ -16,7 +16,7 @@ Tastatur
 Konto
 [Settings]
 Innstillinger
-[Visit website]
+[Visit Website]
 Besøk websted
 [Exit]
 Avslutt
@@ -26,9 +26,9 @@ Ringelyd
 Bla gjennom...
 [Default]
 Standard
-[Auto answer]
+[Auto Answer]
 Autosvar
-[Disable local account]
+[Disable Local Account]
 Deaktiver lokalkonto
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Lagre
 [Cancel]
 Avbryt
-[SIP server]
+[SIP Server]
 SIP tjener
-[SIP proxy]
+[SIP Proxy]
 SIP proxy
 [User]
 Bruker
@@ -70,7 +70,7 @@ Nummer
 Navn
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Innkommende samtale
 [Answer]
 Svar
@@ -86,11 +86,11 @@ Sammenkoblet
 Auto
 [Transport]
 Transport
-[Incorrect password]
+[Incorrect Password]
 Feil passord
-[Public address]
+[Public Address]
 Offentlig adresse
-[Media encryption]
+[Media Encryption]
 Mediakryptering
 [Disabled]
 Deaktivert
@@ -98,15 +98,13 @@ Deaktivert
 Valgfritt
 [Mandatory]
 Obligatorisk
-[STUN server]
+[STUN Server]
 STUN tjener
-[Presence subscription]
+[Presence Subscription]
 Tilstedeværelsesabonnement
-[Local port]
-Lokal port
 [Ringing]
 Ringer
-[Call ended]
+[Call Ended]
 Samtale avsluttet
 [Declined]
 Avvist
@@ -116,27 +114,27 @@ Ingen adresse funnet
 Forespørsel avsluttet
 [Away]
 Borte
-[Publish presence]
+[Publish Presence]
 Publiser tilstedeværelse
 [Session Progress]
 Sesjonfremdrift
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Videosamtale
-[Answer with video]
+[Answer with Video]
 Svar med video
-[View log file]
+[View Log File]
 Se loggfil
 [Microphone]
 Mikrofon
 [Speaker]
 Høytaler
-[Audio codecs]
+[Audio Codecs]
 Audiokodekser
-[Video codec]
+[Video Codec]
 Videokodeks
-[Check for updates]
+[Check for Updates]
 Se etter oppdateringer
 [Daily]
 Daglig
@@ -148,11 +146,11 @@ Månedlig
 Kvartalsvis
 [Never]
 Aldri
-[Update available]
+[Update Available]
 Oppdatering tilgjengelig
 [Do you want to update now?]
 Vil du oppdatere?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Tving kodek for innkommende
 [Available]
 Tilgjengelig
@@ -166,29 +164,25 @@ Deaktiver H.263+
 Ugyldig URI
 [Offline]
 Frakoblet
-[Single call mode]
+[Single Call Mode]
 Enkel samtalemodus
 [Local Video]
 Lokal video
 [Call Transfer]
 Samtaleoverføring
-[Transfer status]
-Overføringsstatus
 [final]
 endelig
 [Call transfered successfully, disconnecting call]
 Vellykket overføring av samtale, kobler fra
 [Hold]
 Vent
-[Transfer]
-Overfør
-[Sound events]
+[Sound Events]
 DTMF lokal avspilling
 [Bitrate]
 Bitrate
 [Login]
 Identitet
-[Enable log file]
+[Enable Log File]
 Aktiver logg fil
 [Calls]
 Samtaler
@@ -202,7 +196,7 @@ Vis passord
 Fra
 [To]
 Til
-[Ring device]
+[Ring Device]
 Ringeenhet
 [Service Unavailable]
 Tjeneste utilgjengelig
@@ -228,74 +222,81 @@ Lukk alle
 Kopier
 [Select All]
 Velg alle
-[Display name]
+[Display Name]
 Ditt navn
-[Remember details]
+[Remember Details]
 Husk detaljer
 [No]
 Nei
-[All calls]
+[All Calls]
 Alle samtaler
-[SIP header]
+[SIP Header]
 SIP header
-[Different user]
+[Different User]
 Annen bruker
-[Different domain]
+[Different Domain]
 Annet domene
-[Different user or domain]
+[Different User or Domain]
 Annen bruker eller domene
-[Different remote domain]
+[Different Remote Domain]
 Annet eksternt domene
-[Deny incoming]
+[Deny Incoming]
 Blokkér innkommende
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Tillat IP omskriving
-[Directory of users]
+[Directory of Users]
 Katalog med brukere
-[Call on remote hold]
+[Call on Remote Hold]
 Samtale på ekstern vent
-[Call on local hold]
+[Call on Local Hold]
 Samtale på lokal vent
-[Call on hold]
+[Call on Hold]
 Samtale er på vent
-[Call is active]
+[Call is Active]
 Samtale er aktiv
 [Menu]
 Meny
-[Edit account]
+[Edit Account]
 Rediger konto
-[Add account...]
+[Add Account...]
 Legg til konto...
-[Remove account]
+[Remove Account]
 Fjern konto
-[Make active]
+[Make Active]
 Gjør aktiv
 [Are you sure you want to remove?]
 Er du sikker på at du vil fjerne?
-[Call pickup]
+[Call Pickup]
 Hent samtale
-[Speaker level]
+[Speaker Level]
 Høyttalernivå
-[Microphone level]
+[Microphone Level]
 Mikrofonnivå
-[Mute speaker]
+[Mute Speaker]
 Demp høyttaler
-[Mute microphone]
+[Mute Microphone]
 Demp mikrofon
 [Please fill out at least the required fields marked with *.]
 Vennligst fyll ut felter merket med *.
 [Ask your SIP provider how to configure the account correctly.]
 Be din SIP-leverandør om hjelp til konfigurering.
-[Random position]
+[Random Position]
 Tilfeldig plassering av svar-dialog
 [Time]
 Tid
+[Attended Transfer]
+[Disable VP8]
+Deaktiver VP8
 [Donate]
 Donere
-[Enable local account]
+[Enable Local Account]
 Aktiver lokal konto
-[Send crash report]
+[Send Crash Report]
 Send krasjrapport
-[Account name]
+[Account Name]
 Kontonavn
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

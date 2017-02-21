@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Позвъни
-[End call]
+[End Call]
 Край
 [Contacts]
 Указател
@@ -16,7 +16,7 @@ RTL: 0
 Акаунт
 [Settings]
 Настройки
-[Visit website]
+[Visit Website]
 Посети страницата
 [Exit]
 Изход
@@ -26,9 +26,9 @@ RTL: 0
 Избор...
 [Default]
 Стандартни
-[Auto answer]
+[Auto Answer]
 Авт. отговор
-[Disable local account]
+[Disable Local Account]
 Изкл. локалния акаунт
 [OK]
 ОК
@@ -36,9 +36,9 @@ RTL: 0
 Запази
 [Cancel]
 Отказ
-[SIP server]
+[SIP Server]
 SIP сървър
-[SIP proxy]
+[SIP Proxy]
 SIP прокси
 [User]
 Потребител
@@ -70,7 +70,7 @@ SIP прокси
 Име
 [Contact]
 Контакт
-[Incoming call]
+[Incoming Call]
 Вх. повикване
 [Answer]
 Отговори
@@ -86,11 +86,11 @@ SIP прокси
 Авто
 [Transport]
 Транспорт
-[Incorrect password]
+[Incorrect Password]
 Грешна парола
-[Public address]
+[Public Address]
 Обществен адрес
-[Media encryption]
+[Media Encryption]
 Шифроване на канала
 [Disabled]
 Изключен
@@ -98,15 +98,13 @@ SIP прокси
 По избор
 [Mandatory]
 Задължително
-[STUN server]
+[STUN Server]
 STUN сървър
-[Presence subscription]
+[Presence Subscription]
 Следене на състоянието
-[Local port]
-Локален порт
 [Ringing]
 Звъни
-[Call ended]
+[Call Ended]
 Прекр. повикване
 [Declined]
 Отказано
@@ -116,27 +114,27 @@ STUN сървър
 Повикването бе прекатено
 [Away]
 Отсъства
-[Publish presence]
+[Publish Presence]
 Публикувай състоянието
 [Session Progress]
 Напредък
 [Camera]
 Камера
-[Video call]
+[Video Call]
 Видео повикване
-[Answer with video]
+[Answer with Video]
 Отговори с видео
-[View log file]
+[View Log File]
 Разгледай log файла
 [Microphone]
 Микрофон
 [Speaker]
 Говорител
-[Audio codecs]
+[Audio Codecs]
 Звукови кодеци
-[Video codec]
+[Video Codec]
 Видео кодеци
-[Check for updates]
+[Check for Updates]
 Провери за обновления
 [Daily]
 Дневно
@@ -148,11 +146,11 @@ STUN сървър
 На тримесечие
 [Never]
 Никога
-[Update available]
+[Update Available]
 Налично е обновление
 [Do you want to update now?]
 Желаете ли да обновите?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Задължитен кодек за входящ
 [Available]
 Достъпен
@@ -166,29 +164,25 @@ STUN сървър
 Невалиден URI
 [Offline]
 Извън линия
-[Single call mode]
+[Single Call Mode]
 Режим "един разговор"
 [Local Video]
 Местно видео
 [Call Transfer]
 Прехв. разг.
-[Transfer status]
-Състояние на прехвърляне
 [final]
 финален
 [Call transfered successfully, disconnecting call]
 Повикването е прехвърлено успешно, прекратяване
 [Hold]
 Задържане
-[Transfer]
-Пренас.
-[Sound events]
+[Sound Events]
 Звук DTMF
 [Bitrate]
 Качество
 [Login]
 Потребител
-[Enable log file]
+[Enable Log File]
 Лог файл
 [Calls]
 Обаждания
@@ -202,7 +196,7 @@ STUN сървър
 От
 [To]
 Кого
-[Ring device]
+[Ring Device]
 Звънене
 [Service Unavailable]
 Услугата не е налична
@@ -228,74 +222,81 @@ STUN сървър
 Копирай
 [Select All]
 Избери вс.
-[Display name]
+[Display Name]
 Вашето име
-[Remember details]
+[Remember Details]
 Запомни детайлите
 [No]
 Не
-[All calls]
+[All Calls]
 Вс. разговори
-[SIP header]
+[SIP Header]
 SIP header
-[Different user]
+[Different User]
 Различен потр.
-[Different domain]
+[Different Domain]
 Различен домейн
-[Different user or domain]
+[Different User or Domain]
 Различен потр. или домейн
-[Different remote domain]
+[Different Remote Domain]
 Различен отдалечен домейн
-[Deny incoming]
+[Deny Incoming]
 Забр. вх.
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Позволява IP презапис
-[Directory of users]
+[Directory of Users]
 Тел. указател
-[Call on remote hold]
+[Call on Remote Hold]
 Отдалечено задържан
-[Call on local hold]
+[Call on Local Hold]
 Локално задържан
-[Call on hold]
+[Call on Hold]
 Задържане
-[Call is active]
+[Call is Active]
 Активен
 [Menu]
 Меню
-[Edit account]
+[Edit Account]
 Ред. акаунта
-[Add account...]
+[Add Account...]
 Добави акаунт
-[Remove account]
+[Remove Account]
 Премахни акаунта
-[Make active]
+[Make Active]
 Направи го активен
 [Are you sure you want to remove?]
 Сигурен ли си, че искате да го премахнете?
-[Call pickup]
+[Call Pickup]
 Приеми
-[Speaker level]
+[Speaker Level]
 Ниво на говорителя
-[Microphone level]
+[Microphone Level]
 Ниво на микрофона
-[Mute speaker]
+[Mute Speaker]
 Загл. на говорителя
-[Mute microphone]
+[Mute Microphone]
 Загл. на микрофона
 [Please fill out at least the required fields marked with *.]
 Моля, попълнете поне задължителните полета, отбелязани със *.
 [Ask your SIP provider how to configure the account correctly.]
 Попитайте вашия доставчик на SIP как да конфигурирате акаунта.
-[Random position]
+[Random Position]
 Случ. позиция
 [Time]
 Час
+[Attended Transfer]
+[Disable VP8]
+Изключи VP8
 [Donate]
 Дарете
-[Enable local account]
+[Enable Local Account]
 Локален режим
-[Send crash report]
+[Send Crash Report]
 Изпрати доклад при срив
-[Account name]
+[Account Name]
 Име на акаунта
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

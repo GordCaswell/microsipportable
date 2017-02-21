@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Κλήση
-[End call]
+[End Call]
 Τερματισμός
 [Contacts]
 Επαφές
@@ -16,7 +16,7 @@ RTL: 0
 Λογαριασμός
 [Settings]
 Ρυθμίσεις
-[Visit website]
+[Visit Website]
 Επίσκεψη στην ιστοσελίδα
 [Exit]
 Έξοδος
@@ -26,9 +26,9 @@ RTL: 0
 Εύρεση...
 [Default]
 Προεπιλογή
-[Auto answer]
+[Auto Answer]
 Αυτόματη απάντηση
-[Disable local account]
+[Disable Local Account]
 Απενεργοποίηση τοπικού λογαριασμού
 [OK]
 Εντάξει
@@ -36,9 +36,9 @@ RTL: 0
 Αποθήκευση
 [Cancel]
 Άκυρο
-[SIP server]
+[SIP Server]
 Διακομιστής SIP
-[SIP proxy]
+[SIP Proxy]
 Διαμεσολαβητής SIP
 [User]
 Χρήστης
@@ -70,7 +70,7 @@ Kωδικός πρόσβασης
 Όνομα
 [Contact]
 Επαφή
-[Incoming call]
+[Incoming Call]
 Εισερχόμενη κλήση
 [Answer]
 Απάντηση
@@ -86,11 +86,11 @@ Kωδικός πρόσβασης
 Αυτόματα
 [Transport]
 Μεταφορά
-[Incorrect password]
+[Incorrect Password]
 Εσφαλμένος κωδικός πρόσβασης
-[Public address]
+[Public Address]
 Δημόσια διεύθυνση
-[Media encryption]
+[Media Encryption]
 Κρυπτ/ση πολυμέσων
 [Disabled]
 Απενεργοποιημένη
@@ -98,15 +98,13 @@ Kωδικός πρόσβασης
 Προαιρετικά
 [Mandatory]
 Υποχρεωτικά
-[STUN server]
+[STUN Server]
 Διακομιστής STUN
-[Presence subscription]
+[Presence Subscription]
 Συνδρομή παρουσίας
-[Local port]
-Τοπική θύρα
 [Ringing]
 Κουδούνισμα
-[Call ended]
+[Call Ended]
 Η κλήση τερματίστηκε
 [Declined]
 Απορρίφθηκε
@@ -116,27 +114,27 @@ Kωδικός πρόσβασης
 Το αίτημα τερματίστηκε
 [Away]
 Απουσιάζω
-[Publish presence]
+[Publish Presence]
 Αναφορά παρουσίας
 [Session Progress]
 Πρόοδος περιόδου λειτουργίας
 [Camera]
 Κάμερα
-[Video call]
+[Video Call]
 Βιντεοκλήση
-[Answer with video]
+[Answer with Video]
 Απάντηση με βίντεο
-[View log file]
+[View Log File]
 Προβολή αρχείου καταγραφής
 [Microphone]
 Μικρόφωνο
 [Speaker]
 Ηχείο
-[Audio codecs]
+[Audio Codecs]
 Κωδικοποιητές ήχου
-[Video codec]
+[Video Codec]
 Κωδικοποιητής βίντεο
-[Check for updates]
+[Check for Updates]
 Έλεγχος για ενημερώσεις
 [Daily]
 Καθημερινά
@@ -148,11 +146,11 @@ Kωδικός πρόσβασης
 Κάθε τρίμηνο
 [Never]
 Ποτέ
-[Update available]
+[Update Available]
 Διαθέσιμη ενημερωμένη έκδοση
 [Do you want to update now?]
 Θέλετε να ενημερώσετε;
-[Force codec for incoming]
+[Force Codec for Incoming]
 Εξαναγκασμός κωδικοποίησης εισερχομένων
 [Available]
 Διαθέσιμοι
@@ -166,29 +164,25 @@ Kωδικός πρόσβασης
 Μη έγκυρο URI
 [Offline]
 Εκτός σύνδεσης
-[Single call mode]
+[Single Call Mode]
 Ενιαίος τρόπος κλήσης
 [Local Video]
 Τοπικό βίντεο
 [Call Transfer]
 Μεταφορά κλήσης
-[Transfer status]
-Κατάσταση μεταφοράς
 [final]
 τελικό
 [Call transfered successfully, disconnecting call]
 Η κλήση μεταφέρθηκε επιτυχώς. Αποσύνδεση κλήσης
 [Hold]
 Αναμονή
-[Transfer]
-Μεταφορά
-[Sound events]
+[Sound Events]
 Αναπαραγωγή τοπικά DTMF
 [Bitrate]
 Ρυθμός bit
 [Login]
 Σύνδεση
-[Enable log file]
+[Enable Log File]
 Ενεργοποίηση αρχείου καταγραφής
 [Calls]
 Κλήσεις
@@ -202,7 +196,7 @@ Kωδικός πρόσβασης
 Από
 [To]
 Σε
-[Ring device]
+[Ring Device]
 Συσκευή κουδουνιού
 [Service Unavailable]
 Η υπηρεσία δεν είναι διαθέσιμη
@@ -228,74 +222,81 @@ Kωδικός πρόσβασης
 Αντιγραφή
 [Select All]
 Επιλογή όλων
-[Display name]
+[Display Name]
 Το όνομά σου
-[Remember details]
+[Remember Details]
 Απομνημόνευση λεπτομεριών
 [No]
 Όχι
-[All calls]
+[All Calls]
 Όλες οι κλήσεις
-[SIP header]
+[SIP Header]
 Κεφαλίδα SIP
-[Different user]
+[Different User]
 Διαφορετικός χρήστης
-[Different domain]
+[Different Domain]
 Διαφορετικός τομέας
-[Different user or domain]
+[Different User or Domain]
 Διαφορετικός χρήστης ή τομέας
-[Different remote domain]
+[Different Remote Domain]
 Διαφορετικός απομακρυσμένος τομέας
-[Deny incoming]
+[Deny Incoming]
 Φραγή εισερχομένων
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Επιτρέπεται η επανεγγραφή IP
-[Directory of users]
+[Directory of Users]
 Λίστα χρηστών
-[Call on remote hold]
+[Call on Remote Hold]
 Κλήση από απομακρυσμένη αναμονή
-[Call on local hold]
+[Call on Local Hold]
 Κλήση από τοπική αναμονή
-[Call on hold]
+[Call on Hold]
 Κλήση σε αναμονή
-[Call is active]
+[Call is Active]
 Η κλήση είναι ενεργή
 [Menu]
 Μενού
-[Edit account]
+[Edit Account]
 Επεξεργασία λογαριασμού
-[Add account...]
+[Add Account...]
 Προσθήκη λογαριασμού...
-[Remove account]
+[Remove Account]
 Αφαίρεση λογαριασμού
-[Make active]
+[Make Active]
 Ενεργοποίηση
 [Are you sure you want to remove?]
 Είστε σίγουροι ότι θέλετε να αφαιρεθεί;
-[Call pickup]
+[Call Pickup]
 Αποδοχή κλήσης
-[Speaker level]
+[Speaker Level]
 Ένταση ηχείου
-[Microphone level]
+[Microphone Level]
 Ένταση μικροφώνου
-[Mute speaker]
+[Mute Speaker]
 Σίγαση ηχείου
-[Mute microphone]
+[Mute Microphone]
 Σίγαση μικροφώνου
 [Please fill out at least the required fields marked with *.]
 Συμπληρώστε τουλάχιστον τα υποχρεωτικά πεδία που είναι σημειωμένα με *.
 [Ask your SIP provider how to configure the account correctly.]
 Ρωτήστε τον πάροχο SIP τηλεφωνίας σας σχετικά με τη σωστή ρύθμιση του λογαριασμού χρήστη.
-[Random position]
+[Random Position]
 Τυχαία θέση της εισερχόμενης κλήσης κουτί
 [Time]
 Χρόνος
+[Attended Transfer]
+[Disable VP8]
+Απενεργοποίηση VP8
 [Donate]
 Δωρεά
-[Enable local account]
+[Enable Local Account]
 Ενεργοποίηση τοπικού λογαριασμού
-[Send crash report]
+[Send Crash Report]
 Αποστολή αναφοράς προβλήματος
-[Account name]
+[Account Name]
 Όνομα λογαριασμού
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

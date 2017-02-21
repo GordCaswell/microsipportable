@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Ring
-[End call]
+[End Call]
 Afslut opkald
 [Contacts]
 Kontakter
@@ -16,7 +16,7 @@ Tastatur
 Konto
 [Settings]
 Indstillinger
-[Visit website]
+[Visit Website]
 Besøg hjemmeside
 [Exit]
 Afslut MicroSIP
@@ -26,9 +26,9 @@ Ringelyd
 Gennemse...
 [Default]
 Standard
-[Auto answer]
+[Auto Answer]
 Besvar automatisk
-[Disable local account]
+[Disable Local Account]
 Deaktiver lokal konto
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Gem
 [Cancel]
 Annuller
-[SIP server]
+[SIP Server]
 SIP-server
-[SIP proxy]
+[SIP Proxy]
 SIP-proxy
 [User]
 Bruger
@@ -70,7 +70,7 @@ Nummer
 Navn
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Indkommende opkald
 [Answer]
 Tag telefonen
@@ -86,11 +86,11 @@ Forbundet
 Automatisk
 [Transport]
 Transport
-[Incorrect password]
+[Incorrect Password]
 Ukorrekt adgangskode
-[Public address]
+[Public Address]
 Offentlig adresse
-[Media encryption]
+[Media Encryption]
 Mediekryptering
 [Disabled]
 Deaktiveret
@@ -98,15 +98,13 @@ Deaktiveret
 Valgfri
 [Mandatory]
 Påkrævet
-[STUN server]
+[STUN Server]
 STUN-server
-[Presence subscription]
+[Presence Subscription]
 Vis min tilstedeværelse
-[Local port]
-Lokal port
 [Ringing]
 Ringer
-[Call ended]
+[Call Ended]
 Opkald afsluttet
 [Declined]
 Afvist
@@ -116,27 +114,27 @@ Ingen adresse fundet
 Forespørgsel afbrudt
 [Away]
 Væk
-[Publish presence]
+[Publish Presence]
 Offentliggør min tilstedeværelse
 [Session Progress]
 Etablerer forbindelse
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Videopkald
-[Answer with video]
+[Answer with Video]
 Svar med video
-[View log file]
+[View Log File]
 Vis logfil
 [Microphone]
 Mikrofon
 [Speaker]
 Højttaler
-[Audio codecs]
+[Audio Codecs]
 Lyd-codec
-[Video codec]
+[Video Codec]
 Video-codec
-[Check for updates]
+[Check for Updates]
 Kontrollér for opdateringer
 [Daily]
 Daglig
@@ -148,11 +146,11 @@ Månedlig
 Kvartalsvis
 [Never]
 Aldrig
-[Update available]
+[Update Available]
 Opdatering tilgængelig
 [Do you want to update now?]
 Ønsker du at opdatere?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Kræv codec for indgående opkald
 [Available]
 Til stede
@@ -166,29 +164,25 @@ Deaktiver H.263+
 Ugyldig adresse ("Invalid URI")
 [Offline]
 Offline
-[Single call mode]
+[Single Call Mode]
 Enkeltkald-tilstand
 [Local Video]
 Lokal video
 [Call Transfer]
 Opkaldsoverførsel
-[Transfer status]
-Overførselsstatus
 [final]
 endelig
 [Call transfered successfully, disconnecting call]
 Opkald overført korrekt, afbryder opkald
 [Hold]
 Parkér
-[Transfer]
-Overfør opkald
-[Sound events]
+[Sound Events]
 Lydhændelser
 [Bitrate]
 Bithastighed
 [Login]
 Login
-[Enable log file]
+[Enable Log File]
 Vis logfil
 [Calls]
 Opkald
@@ -202,7 +196,7 @@ Vis adgangskode
 Fra
 [To]
 Til
-[Ring device]
+[Ring Device]
 Ringeenhed
 [Service Unavailable]
 Tjeneste ikke tilgængelig
@@ -228,72 +222,79 @@ Luk alle
 Kopier
 [Select All]
 Vælg alt/alle
-[Display name]
+[Display Name]
 Dit navn
-[Remember details]
+[Remember Details]
 Husk detaljer
 [No]
 Nej
-[All calls]
+[All Calls]
 Alle opkald
-[SIP header]
+[SIP Header]
 SIP-header
-[Different user]
+[Different User]
 Anden bruger
-[Different domain]
+[Different Domain]
 Andet domæne
-[Different user or domain]
+[Different User or Domain]
 Anden bruger eller domæne
-[Different remote domain]
+[Different Remote Domain]
 Andet fjerndomæne
-[Deny incoming]
+[Deny Incoming]
 Afvis indkommende opkald
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Tillad "IP rewrite"
-[Directory of users]
+[Directory of Users]
 Kontaktpersonliste
-[Call on remote hold]
+[Call on Remote Hold]
 Opkald fjernbetjent parkeret
-[Call on local hold]
+[Call on Local Hold]
 Opkald lokalt parkeret
-[Call on hold]
+[Call on Hold]
 Opkald parkeret
-[Call is active]
+[Call is Active]
 Opkald i gang
 [Menu]
 Menu
-[Edit account]
+[Edit Account]
 Redigér konto
-[Add account...]
+[Add Account...]
 Tilføj konto...
-[Remove account]
+[Remove Account]
 Slet konto
-[Make active]
+[Make Active]
 Gør aktiv
 [Are you sure you want to remove?]
 Er du sikker på at du vil slette?
-[Call pickup]
+[Call Pickup]
 Ring pickup
-[Speaker level]
+[Speaker Level]
 Højtaler lydstyrke
-[Microphone level]
+[Microphone Level]
 Mikrofon lydstyke
-[Mute speaker]
+[Mute Speaker]
 Mute højtaler
-[Mute microphone]
+[Mute Microphone]
 Mute mikrofon
 [Please fill out at least the required fields marked with *.]
 Udfyld please least de krævede filter, Markeret med *.
 [Ask your SIP provider how to configure the account correctly.]
 Spørg din SIP-udbyder, hvordan du konfigurerer kontoen korrekt.
-[Random position]
+[Random Position]
 Tilfældig position af indgående opkald box
 [Time]
 Tid
+[Attended Transfer]
+[Disable VP8]
+Deaktiver VP8
 [Donate]
 Doner
-[Enable local account]
+[Enable Local Account]
 Aktivere lokal konto
-[Send crash report]
-[Account name]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

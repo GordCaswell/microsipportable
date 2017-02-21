@@ -6,7 +6,7 @@ RTL: 1
 
 [Call]
 חיוג
-[End call]
+[End Call]
 סיים שיחה
 [Contacts]
 אנשי קשר
@@ -16,7 +16,7 @@ RTL: 1
 חשבון
 [Settings]
 הגדרות
-[Visit website]
+[Visit Website]
 עמוד בית
 [Exit]
 יציאה
@@ -26,9 +26,9 @@ RTL: 1
 עיון...
 [Default]
 ברירת מחדל
-[Auto answer]
+[Auto Answer]
 מענה אוטומטי
-[Disable local account]
+[Disable Local Account]
 נטרל חשבון מקומי
 [OK]
 אישור
@@ -36,9 +36,9 @@ RTL: 1
 שמור
 [Cancel]
 ביטול
-[SIP server]
+[SIP Server]
 שרת SIP
-[SIP proxy]
+[SIP Proxy]
 פרוקסי SIP
 [User]
 שם משתמש
@@ -70,7 +70,7 @@ RTL: 1
 שם
 [Contact]
 איש קשר
-[Incoming call]
+[Incoming Call]
 שיחה נכנסת
 [Answer]
 קבל
@@ -86,11 +86,11 @@ RTL: 1
 אוטומטי
 [Transport]
 מוביל
-[Incorrect password]
+[Incorrect Password]
 מילת מעבר שגויה
-[Public address]
+[Public Address]
 כתובת ציבורית
-[Media encryption]
+[Media Encryption]
 הצפנת מדיה
 [Disabled]
 ביטול
@@ -98,15 +98,13 @@ RTL: 1
 רשות
 [Mandatory]
 חובה
-[STUN server]
+[STUN Server]
 שרת STUN
-[Presence subscription]
+[Presence Subscription]
 הצגת מצב נוכחות
-[Local port]
-פורט מקומי
 [Ringing]
 מצלצל
-[Call ended]
+[Call Ended]
 השיחה הסתיימה
 [Declined]
 נדחתה
@@ -116,27 +114,27 @@ RTL: 1
 בקשה הסתיימה
 [Away]
 לא נמצא
-[Publish presence]
+[Publish Presence]
 פרסום נוכחות
 [Session Progress]
 התקדמות הסשן
 [Camera]
 מצלמה
-[Video call]
+[Video Call]
 שיחת וידאו
-[Answer with video]
+[Answer with Video]
 מענה עם וידאו
-[View log file]
+[View Log File]
 הצג תרשים פעולות
 [Microphone]
 מיקרופון
 [Speaker]
 רמקול
-[Audio codecs]
+[Audio Codecs]
 קודק שמע
-[Video codec]
+[Video Codec]
 קודק וידאו
-[Check for updates]
+[Check for Updates]
 בדוק עבור עדכונים
 [Daily]
 כל יום
@@ -148,11 +146,11 @@ RTL: 1
 כל שלושה חודשים
 [Never]
 אף פעם
-[Update available]
+[Update Available]
 קיים עדכון זמין
 [Do you want to update now?]
 האם ברצונך לעדכן את?
-[Force codec for incoming]
+[Force Codec for Incoming]
 כפה מקודד עבור נכנסוות
 [Available]
 זמינים
@@ -166,29 +164,25 @@ RTL: 1
 כתובת שגויה
 [Offline]
 לא מחובר
-[Single call mode]
+[Single Call Mode]
 מצב שיחה בודדת
 [Local Video]
 וידאו מקומי
 [Call Transfer]
 העברת שיחה
-[Transfer status]
-מצב העברה
 [final]
 גמר
 [Call transfered successfully, disconnecting call]
 שיחה הועברה בהצלחה, מנתק שיחה כעת
 [Hold]
 החזק
-[Transfer]
-העבר
-[Sound events]
+[Sound Events]
 אירועי צליל
 [Bitrate]
 שיעור סיביות
 [Login]
 התחבר
-[Enable log file]
+[Enable Log File]
 אפשור קובץ תרשים פעילות
 [Calls]
 שיחות
@@ -202,7 +196,7 @@ RTL: 1
 מאת
 [To]
 אל
-[Ring device]
+[Ring Device]
 התקן צליל
 [Service Unavailable]
 השירות לא זמין
@@ -228,72 +222,86 @@ RTL: 1
 העתק
 [Select All]
 בחר הכל
-[Display name]
+[Display Name]
 שמך
-[Remember details]
+[Remember Details]
 זכור פרטים
 [No]
 לא
-[All calls]
+[All Calls]
 כל השיחות
-[SIP header]
+[SIP Header]
 תקורת SIP
-[Different user]
+[Different User]
 משתמש שונה
-[Different domain]
+[Different Domain]
 מתחם שונה
-[Different user or domain]
+[Different User or Domain]
 משתמש או מתחם שונה
-[Different remote domain]
+[Different Remote Domain]
 מתחם מרוחק שונה
-[Deny incoming]
+[Deny Incoming]
 אסור נכנסות
-[Allow IP rewrite]
+[Allow IP Rewrite]
 התר שכתוב IP
-[Directory of users]
+[Directory of Users]
 ספריית משתמשים
-[Call on remote hold]
+[Call on Remote Hold]
 שיחה בהמתנה מרוחקת
-[Call on local hold]
+[Call on Local Hold]
 שיחה בהמתנה מקומית
-[Call on hold]
+[Call on Hold]
 שיחה בהמתנה
-[Call is active]
+[Call is Active]
 שיחה הינה פעילה
 [Menu]
 תפריט
-[Edit account]
+[Edit Account]
 ערוך חשבון
-[Add account...]
+[Add Account...]
 הוסף חשבון...
-[Remove account]
+[Remove Account]
 הסר חשבון
-[Make active]
+[Make Active]
 הפוך לפעיל
 [Are you sure you want to remove?]
 האם אתה בטוח כי ברצונך להסיר?
-[Call pickup]
+[Call Pickup]
 מענה לשיחה
-[Speaker level]
+[Speaker Level]
 רמת רמקול
-[Microphone level]
+[Microphone Level]
 רמת מיקרופון
-[Mute speaker]
+[Mute Speaker]
 השתק רמקול
-[Mute microphone]
+[Mute Microphone]
 השתק מיקרופון
 [Please fill out at least the required fields marked with *.]
-מלא לפחות את השדות המסומנים
+מלא לפחות את השדות המסומנים ב*
 [Ask your SIP provider how to configure the account correctly.]
 שאל את מנהל החשבון שלך כיצד להגדיר את השלוחה
-[Random position]
+[Random Position]
 עמדה אקראית של תיבת שיחה נכנסת
 [Time]
 זְמַן
+[Attended Transfer]
+העברת שיחה עם ליווי
+[Disable VP8]
+נטרל VP8
 [Donate]
 לִתְרוֹם
-[Enable local account]
+[Enable Local Account]
 אפשר חשבון מקומי
-[Send crash report]
-[Account name]
+[Send Crash Report]
+שלח דוח קריסה
+[Account Name]
+שם החשבון
+[Invite to Conference]
+זמן לכנס
+[Merge]
+מיזוג
+[Separate]
+פיצול
+[Disconnect]
+נתק
 []

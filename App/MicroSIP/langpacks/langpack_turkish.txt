@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Ara
-[End call]
+[End Call]
 Bitir
 [Contacts]
 Kişiler
@@ -16,7 +16,7 @@ Tuşlar
 Hesap
 [Settings]
 Ayarlar
-[Visit website]
+[Visit Website]
 Websitesini ziyaret et
 [Exit]
 Çıkış
@@ -26,9 +26,9 @@ Zil Sesi
 Göz at...
 [Default]
 Varsayılan
-[Auto answer]
+[Auto Answer]
 Otomatik yanıtla
-[Disable local account]
+[Disable Local Account]
 Yerel hesabı etkisizleştir
 [OK]
 Tamam
@@ -36,9 +36,9 @@ Tamam
 Kaydet
 [Cancel]
 İptal
-[SIP server]
+[SIP Server]
 SIP sunucu
-[SIP proxy]
+[SIP Proxy]
 SIP vekil sunucu
 [User]
 Kullanıcı
@@ -70,7 +70,7 @@ Numara
 Ad
 [Contact]
 Kişi
-[Incoming call]
+[Incoming Call]
 Gelen arama
 [Answer]
 Yanıtla
@@ -86,11 +86,11 @@ Bağlandı
 Kendiliğinden
 [Transport]
 Nakil
-[Incorrect password]
+[Incorrect Password]
 Yanlış parola
-[Public address]
+[Public Address]
 Genel adres
-[Media encryption]
+[Media Encryption]
 Ortam şifrelemesi
 [Disabled]
 Etkin değil
@@ -98,15 +98,13 @@ Etkin değil
 İsteğe bağlı
 [Mandatory]
 Zorunlu
-[STUN server]
+[STUN Server]
 STUN sunucu
-[Presence subscription]
+[Presence Subscription]
 Varlık aboneliği
-[Local port]
-Yerel port
 [Ringing]
 Çalıyor
-[Call ended]
+[Call Ended]
 Arama sonlandı
 [Declined]
 Reddedildi
@@ -116,27 +114,27 @@ Adres bulunamadı
 İsteğe Son Verildi
 [Away]
 Uzakta
-[Publish presence]
+[Publish Presence]
 Varlığı yayımla
 [Session Progress]
 Oturum Süreci
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Görüntülü ara
-[Answer with video]
+[Answer with Video]
 Görüntülü yanıtla
-[View log file]
+[View Log File]
 Kayıt dosyasını görüntüle
 [Microphone]
 Mikrofon
 [Speaker]
 Hoparlör
-[Audio codecs]
+[Audio Codecs]
 Ses çözücüleri
-[Video codec]
+[Video Codec]
 Görüntü çözücü
-[Check for updates]
+[Check for Updates]
 Güncelleştirmeleri denetle
 [Daily]
 Günlük
@@ -148,11 +146,11 @@ Aylık
 Üç ayda bir
 [Never]
 Asla
-[Update available]
+[Update Available]
 Güncelleştirme mevcut
 [Do you want to update now?]
 Güncelleştirmek ister misiniz?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Gelen arama için çözücüyü zorla
 [Available]
 Uygun
@@ -166,29 +164,25 @@ H.263+'yı etkisizleştir
 Geçersiz URI
 [Offline]
 Çevrim dışı
-[Single call mode]
+[Single Call Mode]
 Tekil arama modu
 [Local Video]
 Yerel Görüntü
 [Call Transfer]
 Arama Aktarma
-[Transfer status]
-Aktarma durumu
 [final]
 Son
 [Call transfered successfully, disconnecting call]
 Arama başarıyla aktarıldı, arama kesiliyor
 [Hold]
 Beklet
-[Transfer]
-Aktar
-[Sound events]
+[Sound Events]
 Sesleri çal
 [Bitrate]
 Bit oranı
 [Login]
 Oturum aç
-[Enable log file]
+[Enable Log File]
 Kayıt dosyasını etkinleştir
 [Calls]
 Aramalar
@@ -202,7 +196,7 @@ Parolayı göster
 Kimden
 [To]
 Kime
-[Ring device]
+[Ring Device]
 Zil aygıtı
 [Service Unavailable]
 Hizmet Mevcut Değil
@@ -228,72 +222,79 @@ Hepsini Kapat
 Kopyala
 [Select All]
 Hepsini Seç
-[Display name]
+[Display Name]
 Görünen Ad
-[Remember details]
+[Remember Details]
 Ayrıntıları hatırla
 [No]
 Hayır
-[All calls]
+[All Calls]
 Tüm aramalar
-[SIP header]
+[SIP Header]
 SIP başlığı
-[Different user]
+[Different User]
 Farklı kullanıcı
-[Different domain]
+[Different Domain]
 Farklı etki alanı
-[Different user or domain]
+[Different User or Domain]
 Farklı kullanıcı veya etki alanı
-[Different remote domain]
+[Different Remote Domain]
 Farklı uzak etki alanı
-[Deny incoming]
+[Deny Incoming]
 Gelen aramaları reddet
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Değiştirilmiş IP'i kabullen
-[Directory of users]
+[Directory of Users]
 Kullanıcılar dizini
-[Call on remote hold]
+[Call on Remote Hold]
 Arama uzak beklemede
-[Call on local hold]
+[Call on Local Hold]
 Arama yerel beklemede
-[Call on hold]
+[Call on Hold]
 Arama beklemede
-[Call is active]
+[Call is Active]
 Arama etkin
 [Menu]
 Menü
-[Edit account]
+[Edit Account]
 Hesabı düzenle
-[Add account...]
+[Add Account...]
 Hesap ekle...
-[Remove account]
+[Remove Account]
 Hesabı kaldır
-[Make active]
+[Make Active]
 Etkinleştir
 [Are you sure you want to remove?]
 Kaldırmak istediğinizden emin misiniz?
-[Call pickup]
+[Call Pickup]
 Çağrı topla
-[Speaker level]
+[Speaker Level]
 Hoparlör seviyesi
-[Microphone level]
+[Microphone Level]
 Mikrofon seviyesi
-[Mute speaker]
+[Mute Speaker]
 Hoparlörü sustur
-[Mute microphone]
+[Mute Microphone]
 Mikrofonu sustur
 [Please fill out at least the required fields marked with *.]
 Lütfen * ile işaretli alanları doldurun.
 [Ask your SIP provider how to configure the account correctly.]
 Hesap ayarlarını doğru yapmak için SIP servis sağlayıcınıza ulaşın
-[Random position]
+[Random Position]
 Konumu değişken cevaplama kutusu
 [Time]
 Zaman
+[Attended Transfer]
+[Disable VP8]
+VP8'ü etkisizleştir
 [Donate]
 Bağış yapın
-[Enable local account]
+[Enable Local Account]
 Yerel hesabı etkinleştir
-[Send crash report]
-[Account name]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

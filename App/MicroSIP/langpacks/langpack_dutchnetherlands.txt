@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Bellen
-[End call]
+[End Call]
 Beëindigen
 [Contacts]
 Contacten
@@ -16,7 +16,7 @@ Toetsenblok
 Account
 [Settings]
 Instellingen
-[Visit website]
+[Visit Website]
 Bezoek website
 [Exit]
 Afsluiten
@@ -26,9 +26,9 @@ Belgeluid
 Bladeren...
 [Default]
 Standaard
-[Auto answer]
+[Auto Answer]
 Automatisch beantwoorden
-[Disable local account]
+[Disable Local Account]
 Schakel lokaal account uit
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Opslaan
 [Cancel]
 Annuleren
-[SIP server]
+[SIP Server]
 SIP server
-[SIP proxy]
+[SIP Proxy]
 SIP proxy
 [User]
 Gebruiker
@@ -70,7 +70,7 @@ Nummer
 Naam
 [Contact]
 Contact
-[Incoming call]
+[Incoming Call]
 Inkomende oproep
 [Answer]
 Beantwoorden
@@ -86,11 +86,11 @@ Verbonden
 Automatisch
 [Transport]
 Transport
-[Incorrect password]
+[Incorrect Password]
 Onjuist wachtwoord
-[Public address]
+[Public Address]
 Publiek-adres
-[Media encryption]
+[Media Encryption]
 Media versleuteling
 [Disabled]
 Uitgeschakeld
@@ -98,15 +98,13 @@ Uitgeschakeld
 Optioneel
 [Mandatory]
 Verplicht
-[STUN server]
+[STUN Server]
 STUN server
-[Presence subscription]
+[Presence Subscription]
 Presence-abonnement
-[Local port]
-Lokale poort
 [Ringing]
 Gaat over
-[Call ended]
+[Call Ended]
 Gesprek beëindigd
 [Declined]
 Afgewezen
@@ -116,27 +114,27 @@ Geen adres gevonden
 Verzoek beëindigd
 [Away]
 Afwezig
-[Publish presence]
+[Publish Presence]
 Publiceer aanwezigheid
 [Session Progress]
 Sessievoortgang
 [Camera]
 Videobron
-[Video call]
+[Video Call]
 Video gesprek
-[Answer with video]
+[Answer with Video]
 Beantwoorden met video
-[View log file]
+[View Log File]
 Bekijk logbestand
 [Microphone]
 Microfoon
 [Speaker]
 Luidspreker
-[Audio codecs]
+[Audio Codecs]
 Audio codecs
-[Video codec]
+[Video Codec]
 Video codec
-[Check for updates]
+[Check for Updates]
 Controleer op updates
 [Daily]
 Dagelijks
@@ -148,11 +146,11 @@ Maandelijks
 Per kwartaal
 [Never]
 Nooit
-[Update available]
+[Update Available]
 Update beschikbaar
 [Do you want to update now?]
 Wilt u bijwerken?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Forceer codec voor inkomend
 [Available]
 Beschikbaar
@@ -166,29 +164,25 @@ Schakel H.263+ uit
 Ongeldige URI
 [Offline]
 Offline
-[Single call mode]
+[Single Call Mode]
 Enkel belmodus
 [Local Video]
 Lokale video
 [Call Transfer]
 Oproep doorschakelen
-[Transfer status]
-Doorschakelstatus
 [final]
 Einde
 [Call transfered successfully, disconnecting call]
 Oproep succesvol doorgschakeld, er wordt opgehangen
 [Hold]
 In de wacht
-[Transfer]
-Doorschakelen
-[Sound events]
+[Sound Events]
 DTMF lokaal afspelen
 [Bitrate]
 Bitrate
 [Login]
 Login
-[Enable log file]
+[Enable Log File]
 Logbestand inschakelen
 [Calls]
 Gesprekken
@@ -202,7 +196,7 @@ Wachtwoord tonen
 Van
 [To]
 Naar
-[Ring device]
+[Ring Device]
 Beltoon apparaat
 [Service Unavailable]
 Service niet beschikbaar
@@ -228,74 +222,81 @@ Alles Sluiten
 Kopiëren
 [Select All]
 Selecteer Alles
-[Display name]
+[Display Name]
 Weergavenaam
-[Remember details]
+[Remember Details]
 Sla details op
 [No]
 Nee
-[All calls]
+[All Calls]
 Alle gesprekken
-[SIP header]
+[SIP Header]
 SIP header
-[Different user]
+[Different User]
 Andere gebruiker
-[Different domain]
+[Different Domain]
 Ander domein
-[Different user or domain]
+[Different User or Domain]
 Andere gebruiker of domein
-[Different remote domain]
+[Different Remote Domain]
 Ander domein op afstand
-[Deny incoming]
+[Deny Incoming]
 Inkomend weigeren
-[Allow IP rewrite]
+[Allow IP Rewrite]
 IP herschrijven toestaan
-[Directory of users]
+[Directory of Users]
 Lijst van gebruikers
-[Call on remote hold]
+[Call on Remote Hold]
 Gesprek in de wacht
-[Call on local hold]
+[Call on Local Hold]
 In de wacht
-[Call on hold]
+[Call on Hold]
 Gesprek in wacht
-[Call is active]
+[Call is Active]
 Gesprek is actief
 [Menu]
 Menu
-[Edit account]
+[Edit Account]
 Account wijzigen
-[Add account...]
+[Add Account...]
 Account toevoegen...
-[Remove account]
+[Remove Account]
 Account verwijderen
-[Make active]
+[Make Active]
 Activeren
 [Are you sure you want to remove?]
 Verwijderen, weet u het zeker?
-[Call pickup]
+[Call Pickup]
 Gesprek uit de wacht
-[Speaker level]
+[Speaker Level]
 Luidsprekerniveau
-[Microphone level]
+[Microphone Level]
 Microphone niveau
-[Mute speaker]
+[Mute Speaker]
 Luidspreker dempen
-[Mute microphone]
+[Mute Microphone]
 Microfoon dempen
 [Please fill out at least the required fields marked with *.]
 Vul tenminste de velden in die gemarkeerd zijn met een *.
 [Ask your SIP provider how to configure the account correctly.]
 Vraag je SIP provider hoe je jouw account configureert.
-[Random position]
+[Random Position]
 Willekeurige plaats van antwoordbox
 [Time]
 Tijd
+[Attended Transfer]
+[Disable VP8]
+Schakel VP8 uit
 [Donate]
 Schenken
-[Enable local account]
+[Enable Local Account]
 Lokaal account inschakelen
-[Send crash report]
+[Send Crash Report]
 Verstuur crash rapport
-[Account name]
+[Account Name]
 Accountnaam
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

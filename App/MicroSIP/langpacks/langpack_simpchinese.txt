@@ -6,17 +6,17 @@ RTL: 0
 
 [Call]
 呼叫
-[End call]
+[End Call]
 结束
 [Contacts]
 联系人
 [Dialpad]
-拔号面板
+拨号盘
 [Account]
 帐号
 [Settings]
 设置
-[Visit website]
+[Visit Website]
 访问网站
 [Exit]
 退出
@@ -26,9 +26,9 @@ RTL: 0
 浏览
 [Default]
 默认
-[Auto answer]
+[Auto Answer]
 自动应答
-[Disable local account]
+[Disable Local Account]
 禁用本地帐号
 [OK]
 确认
@@ -36,14 +36,14 @@ RTL: 0
 保存
 [Cancel]
 取消
-[SIP server]
-SIP服务器
-[SIP proxy]
-SIP代理
+[SIP Server]
+SIP 服务器
+[SIP Proxy]
+SIP 代理
 [User]
 用户
 [Domain]
-主机
+域名
 [Password]
 密码
 [Connecting...]
@@ -70,7 +70,7 @@ SIP代理
 名称
 [Contact]
 联系人
-[Incoming call]
+[Incoming Call]
 电话呼入
 [Answer]
 应答
@@ -86,11 +86,11 @@ SIP代理
 自动
 [Transport]
 透传
-[Incorrect password]
+[Incorrect Password]
 密码错误
-[Public address]
+[Public Address]
 公共地址
-[Media encryption]
+[Media Encryption]
 加密媒体
 [Disabled]
 禁用
@@ -98,15 +98,13 @@ SIP代理
 可选
 [Mandatory]
 受委托
-[STUN server]
-STUN服务器
-[Presence subscription]
-信息订阅
-[Local port]
-本地端口
+[STUN Server]
+STUN 服务器
+[Presence Subscription]
+在线订阅
 [Ringing]
 响铃中
-[Call ended]
+[Call Ended]
 呼叫结束
 [Declined]
 拒绝
@@ -116,28 +114,28 @@ STUN服务器
 请求中断
 [Away]
 离开
-[Publish presence]
-公共信息
+[Publish Presence]
+发布状态
 [Session Progress]
-进程进度
+会话进度
 [Camera]
 摄像头
-[Video call]
+[Video Call]
 视频呼叫
-[Answer with video]
+[Answer with Video]
 视频应答
-[View log file]
+[View Log File]
 查看日志文件
 [Microphone]
 麦克风
 [Speaker]
-喇叭
-[Audio codecs]
+扬声器
+[Audio Codecs]
 音频编码
-[Video codec]
+[Video Codec]
 视频编码
-[Check for updates]
-检查列新
+[Check for Updates]
+检查更新
 [Daily]
 每日
 [Weekly]
@@ -148,47 +146,43 @@ STUN服务器
 每季
 [Never]
 从不
-[Update available]
-有升级可用
+[Update Available]
+有更新可用
 [Do you want to update now?]
-是否升级?
-[Force codec for incoming]
-强制呼入的编码方式
+是否现在升级?
+[Force Codec for Incoming]
+强制呼入的编码
 [Available]
 可用
 [Enabled]
 启用
 [Disable H.264]
-禁用H.264
+禁用 H.264
 [Disable H.263+]
-禁用H.263+
+禁用 H.263+
 [Invalid URI]
-非法URI
+非法 URI
 [Offline]
 离线
-[Single call mode]
+[Single Call Mode]
 单呼叫模式
 [Local Video]
 本地视频
 [Call Transfer]
 呼叫转移
-[Transfer status]
-转移状态
 [final]
 最后
 [Call transfered successfully, disconnecting call]
 呼叫转移成功，断开当前呼叫
 [Hold]
 保持
-[Transfer]
-转移
-[Sound events]
-DTMF本地回放
+[Sound Events]
+声音事件
 [Bitrate]
 速率
 [Login]
 登录名
-[Enable log file]
+[Enable Log File]
 启用日志文件
 [Calls]
 呼叫记录
@@ -202,14 +196,14 @@ DTMF本地回放
 来自
 [To]
 到
-[Ring device]
+[Ring Device]
 响铃设备
 [Service Unavailable]
 服务不可用
 [Invalid Request URI]
-无效的URI请求
+无效的 URI 请求
 [Busy Here]
-这里忙
+忙碌
 [Trying]
 尝试
 [Method Not Allowed]
@@ -228,71 +222,86 @@ DTMF本地回放
 复制
 [Select All]
 选择所有
-[Display name]
-你的名字
-[Remember details]
+[Display Name]
+显示名称
+[Remember Details]
 记住密码
 [No]
 否
-[All calls]
+[All Calls]
 所有呼叫
-[SIP header]
-SIP报头
-[Different user]
+[SIP Header]
+SIP 报头
+[Different User]
 不同用户
-[Different domain]
-不同
-[Different user or domain]
+[Different Domain]
+不同域
+[Different User or Domain]
 不同的用户或组
-[Different remote domain]
-不同的运程域
-[Deny incoming]
+[Different Remote Domain]
+不同的远程域
+[Deny Incoming]
 拒绝来电
-[Allow IP rewrite]
-允许IP重写
-[Directory of users]
+[Allow IP Rewrite]
+允许 IP 重写
+[Directory of Users]
 用户目录
-[Call on remote hold]
-ds
-[Call on local hold]
+[Call on Remote Hold]
+保持远程呼叫
+[Call on Local Hold]
 保持本地呼叫
-[Call on hold]
+[Call on Hold]
 保持在线
-[Call is active]
+[Call is Active]
 呼叫已激活
 [Menu]
 菜单
-[Edit account]
+[Edit Account]
 编辑账户
-[Add account...]
+[Add Account...]
 添加账户...
-[Remove account]
+[Remove Account]
 移除账户
-[Make active]
+[Make Active]
 激活
 [Are you sure you want to remove?]
 确定要移除吗？
-[Call pickup]
+[Call Pickup]
 接入
-[Speaker level]
-扬声器音量级别
-[Microphone level]
-麦克风音量级别
-[Mute speaker]
+[Speaker Level]
+扬声器音量大小
+[Microphone Level]
+麦克风音量大小
+[Mute Speaker]
 扬声器静音
-[Mute microphone]
+[Mute Microphone]
 麦克风静音
 [Please fill out at least the required fields marked with *.]
-请填写至少必填字段标有*。
+标有*的字段为必填项。
 [Ask your SIP provider how to configure the account correctly.]
-询问你的
-[Random position]
-来电箱的随机位置
+请询问你的 SIP 供应商如何正确设置账号
+[Random Position]
+随机位置
 [Time]
 时间
+[Attended Transfer]
+座席呼转
+[Disable VP8]
+禁用 VP8
 [Donate]
-捐
-[Enable local account]
-[Send crash report]
-[Account name]
+捐助
+[Enable Local Account]
+开启本地账号
+[Send Crash Report]
+发送崩溃报告
+[Account Name]
+账号名
+[Invite to Conference]
+邀请参加会议
+[Merge]
+合并
+[Separate]
+分离
+[Disconnect]
+断开
 []

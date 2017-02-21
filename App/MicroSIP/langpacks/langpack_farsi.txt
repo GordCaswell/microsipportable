@@ -6,7 +6,7 @@ RTL: 1
 
 [Call]
 تماس
-[End call]
+[End Call]
 پایان تماس
 [Contacts]
 دفترچه تلفن
@@ -16,7 +16,7 @@ RTL: 1
 حساب کاربری
 [Settings]
 تنظیمات
-[Visit website]
+[Visit Website]
 بازدید از وب سایت
 [Exit]
 خروج
@@ -26,9 +26,9 @@ RTL: 1
 مرور
 [Default]
 پیش فرض
-[Auto answer]
+[Auto Answer]
 پاسخ اتوماتیک
-[Disable local account]
+[Disable Local Account]
 غیر فعال کردن اکانت محلی
 [OK]
 اوکی
@@ -36,9 +36,9 @@ RTL: 1
 ذخیره
 [Cancel]
 انصراف
-[SIP server]
+[SIP Server]
 سرور SIP
-[SIP proxy]
+[SIP Proxy]
 پروکسی SIP
 [User]
 کاربر
@@ -70,7 +70,7 @@ RTL: 1
 نام
 [Contact]
 کانتکت
-[Incoming call]
+[Incoming Call]
 تماس وارده
 [Answer]
 پاسخ
@@ -86,11 +86,11 @@ RTL: 1
 اتوماتیک
 [Transport]
 ترابری
-[Incorrect password]
+[Incorrect Password]
 رمز عبور نامعتبر
-[Public address]
+[Public Address]
 آدرس عمومی
-[Media encryption]
+[Media Encryption]
 رمزگذاری مدیا
 [Disabled]
 غیر فعال شد
@@ -98,15 +98,13 @@ RTL: 1
 اختیاری
 [Mandatory]
 اجباری
-[STUN server]
+[STUN Server]
 سرور STUN
-[Presence subscription]
+[Presence Subscription]
 اشتراک وضعیت
-[Local port]
-پورت محلی
 [Ringing]
 در حال زنگ خوردن
-[Call ended]
+[Call Ended]
 پایان تماس
 [Declined]
 کاهش یافته
@@ -116,27 +114,27 @@ RTL: 1
 درخواست پایان یافته
 [Away]
 دور
-[Publish presence]
+[Publish Presence]
 انتشار وضعیت
 [Session Progress]
 پیشرفت نشست
 [Camera]
 دوربین
-[Video call]
+[Video Call]
 تماس ویدئویی
-[Answer with video]
+[Answer with Video]
 پتس
-[View log file]
+[View Log File]
 نمایش فایل لاگ
 [Microphone]
 میکروفون
 [Speaker]
 بلندگو
-[Audio codecs]
+[Audio Codecs]
 کدک های صوتی
-[Video codec]
+[Video Codec]
 کدک تصویر
-[Check for updates]
+[Check for Updates]
 چک کردن برای بروز رسانی
 [Daily]
 روزانه
@@ -148,11 +146,11 @@ RTL: 1
 فصلی
 [Never]
 هرگز
-[Update available]
+[Update Available]
 نسخه به روز موجود است
 [Do you want to update now?]
 آیا میخواهید نرم افزار به روز شود؟
-[Force codec for incoming]
+[Force Codec for Incoming]
 اجبار کدک برای تماس ورودی
 [Available]
 در دسترس
@@ -166,29 +164,25 @@ RTL: 1
 آدرس نامعتبر
 [Offline]
 آفلاین
-[Single call mode]
+[Single Call Mode]
 حالت تک تماس
 [Local Video]
 ویدئو محلی
 [Call Transfer]
 انتقال تماس
-[Transfer status]
-وضعیت انتقال
 [final]
 نهایی
 [Call transfered successfully, disconnecting call]
 انتقال تماس موفق، قطع تماس
 [Hold]
 نگه داشتن
-[Transfer]
-انتقال
-[Sound events]
+[Sound Events]
 رویدادهای صوتی
 [Bitrate]
 نرخ انتقال بیت
 [Login]
 لاگین
-[Enable log file]
+[Enable Log File]
 اجازه لاگ کردن
 [Calls]
 تماسها
@@ -202,7 +196,7 @@ RTL: 1
 از
 [To]
 به
-[Ring device]
+[Ring Device]
 ابزار زنگ
 [Service Unavailable]
 سرویس در دسترس نیست
@@ -228,71 +222,78 @@ RTL: 1
 کپی
 [Select All]
 انتخاب همه
-[Display name]
+[Display Name]
 نام شما
-[Remember details]
+[Remember Details]
 یادآوری جزئیات
 [No]
 خیر
-[All calls]
+[All Calls]
 تمام تماس ها
-[SIP header]
+[SIP Header]
 SIP هدر
-[Different user]
+[Different User]
 کاربری دیگر
-[Different domain]
+[Different Domain]
 دامنه ای دیگر
-[Different user or domain]
+[Different User or Domain]
 کاربر یا دامنه متفاوت
-[Different remote domain]
+[Different Remote Domain]
 دامنه متفاوت
-[Deny incoming]
+[Deny Incoming]
 انسداد ورودی
-[Allow IP rewrite]
+[Allow IP Rewrite]
 اجازه تغییر آی پی
-[Directory of users]
+[Directory of Users]
 پوشه کاربران
-[Call on remote hold]
+[Call on Remote Hold]
 تماس در حال انتظار خارجی
-[Call on local hold]
+[Call on Local Hold]
 تماس در حال انتظار داخلی
-[Call on hold]
+[Call on Hold]
 تماس در حال انتظار
-[Call is active]
+[Call is Active]
 تماس فعال است
 [Menu]
 منو
-[Edit account]
+[Edit Account]
 ویرایش حساب
-[Add account...]
+[Add Account...]
 افزودن حساب کاربری
-[Remove account]
+[Remove Account]
 حذف حساب
-[Make active]
+[Make Active]
 فعالسازی
 [Are you sure you want to remove?]
 آیا می خواهید حذف نمایید؟
-[Call pickup]
+[Call Pickup]
 برداشتن تماس
-[Speaker level]
+[Speaker Level]
 صدای اسپیکر
-[Microphone level]
+[Microphone Level]
 صدای میکروفن
-[Mute speaker]
+[Mute Speaker]
 قطع صدا
-[Mute microphone]
+[Mute Microphone]
 قطع میکروفن
 [Please fill out at least the required fields marked with *.]
 لطفا با پر کردن حداقل زمینه های مورد نیاز با * مشخص شده اند.
 [Ask your SIP provider how to configure the account correctly.]
 ارائه دهنده SIP خود بپرسید که چگونه برای پیکربندی حساب به درستی.
-[Random position]
+[Random Position]
 موقعیت تصادفی از جعبه تماس های دریافتی
 [Time]
 زمان
+[Attended Transfer]
+[Disable VP8]
+غیر فعال کردن کدک VP8
 [Donate]
 اهدا
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

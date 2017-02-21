@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Volať
-[End call]
+[End Call]
 Koniec hovoru
 [Contacts]
 Kontakty
@@ -16,7 +16,7 @@ Klávesnica
 Konto
 [Settings]
 Nastavenia
-[Visit website]
+[Visit Website]
 Navštíviť webovú lokalitu
 [Exit]
 Zavrieť
@@ -26,9 +26,9 @@ Zvuk zvonenia
 Prechádzať ...
 [Default]
 Prednadstavené zariadenie
-[Auto answer]
+[Auto Answer]
 Automatická odpoveď
-[Disable local account]
+[Disable Local Account]
 Vypnúť lokálny účet
 [OK]
 Potvrdiť
@@ -36,9 +36,9 @@ Potvrdiť
 Uložiť
 [Cancel]
 Zrušiť
-[SIP server]
+[SIP Server]
 Server SIP
-[SIP proxy]
+[SIP Proxy]
 Proxy SIP
 [User]
 Požívateľ
@@ -70,7 +70,7 @@ Nesprávna brána
 Meno
 [Contact]
 Kontakt
-[Incoming call]
+[Incoming Call]
 Prichádzajúci hovor
 [Answer]
 Zdvihnúť
@@ -86,11 +86,11 @@ Pripojené
 Automaticky
 [Transport]
 Prenos
-[Incorrect password]
+[Incorrect Password]
 Nesprávne heslo
-[Public address]
+[Public Address]
 Verejná adresa
-[Media encryption]
+[Media Encryption]
 Šifrovanie
 [Disabled]
 Vypnuté
@@ -98,15 +98,13 @@ Vypnuté
 Voliteľné
 [Mandatory]
 Povinné
-[STUN server]
+[STUN Server]
 Server STUN
-[Presence subscription]
+[Presence Subscription]
 Odoberať stav prítomnosti
-[Local port]
-Lokálny port
 [Ringing]
 Zvonenie
-[Call ended]
+[Call Ended]
 Hovor skončený
 [Declined]
 Odmietnuté
@@ -116,27 +114,27 @@ Adresa nenájdená
 Požiadavka ukončená
 [Away]
 Neprítomný
-[Publish presence]
+[Publish Presence]
 Zverejňovať stav prítomnosti
 [Session Progress]
 Priebeh relácie
 [Camera]
 Kamera
-[Video call]
+[Video Call]
 Videohovor
-[Answer with video]
+[Answer with Video]
 Odpovedať videom
-[View log file]
+[View Log File]
 Zobraziť súbor denníka
 [Microphone]
 Mikrofón
 [Speaker]
 Reproduktor
-[Audio codecs]
+[Audio Codecs]
 Zvukové kodeky
-[Video codec]
+[Video Codec]
 Videokodek
-[Check for updates]
+[Check for Updates]
 Vyhľadať aktualizáciu
 [Daily]
 Denne
@@ -148,11 +146,11 @@ Mesačne
 Štvrťročne
 [Never]
 Nikdy
-[Update available]
+[Update Available]
 K dispozícii je aktualizácia
 [Do you want to update now?]
 Chcete aktualizovať?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Vynútený kodec pre prichádzajúci
 [Available]
 Dostupné
@@ -166,29 +164,25 @@ Vypnúť H.263+
 Nesprávne URI
 [Offline]
 Odpojené
-[Single call mode]
+[Single Call Mode]
 Režim jedného hovoru
 [Local Video]
 Lokálne video
 [Call Transfer]
 Prepojenie hovoru
-[Transfer status]
-Stav prenosu
 [final]
 posledný
 [Call transfered successfully, disconnecting call]
 Hovor bol úspešne presmerovaný, odpojenie hovoru
 [Hold]
 Podržať
-[Transfer]
-Prepnúť
-[Sound events]
+[Sound Events]
 Zvuky
 [Bitrate]
 Bitová rýchlosť
 [Login]
 Meno
-[Enable log file]
+[Enable Log File]
 Zapnúť súbor denníka
 [Calls]
 História
@@ -202,7 +196,7 @@ zobraziť heslo
 Od
 [To]
 Pre
-[Ring device]
+[Ring Device]
 Vyzváňanie
 [Service Unavailable]
 Služba nedostupná
@@ -228,71 +222,78 @@ Zavrieť
 Kopírovať
 [Select All]
 Vybrať všetko
-[Display name]
+[Display Name]
 Vaše meno
-[Remember details]
+[Remember Details]
 Zapamätať detaily
 [No]
 Nie
-[All calls]
+[All Calls]
 Všetky hovory
-[SIP header]
+[SIP Header]
 Hlavička SIP
-[Different user]
+[Different User]
 Iný používateľ
-[Different domain]
+[Different Domain]
 Iná doména
-[Different user or domain]
+[Different User or Domain]
 Iný používateľ alebo doména
-[Different remote domain]
+[Different Remote Domain]
 Iná vzdialená doména
-[Deny incoming]
+[Deny Incoming]
 Odmietnuť hovor
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Povoliť prepis IP
-[Directory of users]
+[Directory of Users]
 Zoznam používateľov
-[Call on remote hold]
+[Call on Remote Hold]
 Hovor je vzdialene pozdržaný
-[Call on local hold]
+[Call on Local Hold]
 Hovor je lokálne pozdržaný
-[Call on hold]
+[Call on Hold]
 Hovor je pozdržaný
-[Call is active]
+[Call is Active]
 Hovor je aktívny
 [Menu]
 Menu
-[Edit account]
+[Edit Account]
 Upraviť konto
-[Add account...]
+[Add Account...]
 Pridať konto
-[Remove account]
+[Remove Account]
 Odstrániť účet
-[Make active]
+[Make Active]
 Nastaviť ako aktívny
 [Are you sure you want to remove?]
 Ste si istý že chcete odstrániť ?
-[Call pickup]
+[Call Pickup]
 Prijať hovor
-[Speaker level]
+[Speaker Level]
 Úroveň reproduktora
-[Microphone level]
+[Microphone Level]
 Úroveň mikrofónu
-[Mute speaker]
+[Mute Speaker]
 Vypnúť reproduktor
-[Mute microphone]
+[Mute Microphone]
 Vypnúť mikrofón
 [Please fill out at least the required fields marked with *.]
 Prosím, vyplňte aspoň požadované polia označené *.
 [Ask your SIP provider how to configure the account correctly.]
 Opýtajte sa svojho poskytovateľa SIP, ako správne nakonfigurovať účet.
-[Random position]
+[Random Position]
 Náhodné pozície odpovedí krabica
 [Time]
 Čas
+[Attended Transfer]
+[Disable VP8]
+Vypnúť VP8
 [Donate]
 Darovať
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

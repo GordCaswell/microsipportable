@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Залгах
-[End call]
+[End Call]
 Дуудлага дуусгах
 [Contacts]
 Контакт
@@ -15,7 +15,7 @@ RTL: 0
 [Account]
 Дугаар
 [Settings]
-[Visit website]
+[Visit Website]
 [Exit]
 Гарах
 [Ringing Sound]
@@ -23,16 +23,16 @@ RTL: 0
 Файл сонгох...
 [Default]
 Үндсэн
-[Auto answer]
+[Auto Answer]
 Автоматаар хариулах
-[Disable local account]
+[Disable Local Account]
 Дотоод дансыг хаах
 [OK]
 [Save]
 [Cancel]
 Цуцлах
-[SIP server]
-[SIP proxy]
+[SIP Server]
+[SIP Proxy]
 [User]
 [Domain]
 Домэйн
@@ -55,7 +55,7 @@ RTL: 0
 [Name]
 [Contact]
 Контакт
-[Incoming call]
+[Incoming Call]
 [Answer]
 Хариулах
 [Decline]
@@ -69,18 +69,17 @@ RTL: 0
 [Auto]
 Авто
 [Transport]
-[Incorrect password]
-[Public address]
-[Media encryption]
+[Incorrect Password]
+[Public Address]
+[Media Encryption]
 [Disabled]
 Хаасан
 [Optional]
 [Mandatory]
-[STUN server]
-[Presence subscription]
-[Local port]
+[STUN Server]
+[Presence Subscription]
 [Ringing]
-[Call ended]
+[Call Ended]
 Дуудлага дууслаа
 [Declined]
 Цуцалсан
@@ -88,20 +87,20 @@ RTL: 0
 [Request Terminated]
 [Away]
 Эзгүй
-[Publish presence]
+[Publish Presence]
 [Session Progress]
 [Camera]
 Камер
-[Video call]
-[Answer with video]
+[Video Call]
+[Answer with Video]
 Видеогоор хариулах
-[View log file]
+[View Log File]
 [Microphone]
 [Speaker]
-[Audio codecs]
+[Audio Codecs]
 Аудио кодек
-[Video codec]
-[Check for updates]
+[Video Codec]
+[Check for Updates]
 Шинэчлэлтийг шалгах
 [Daily]
 Өдөр бүр
@@ -109,10 +108,10 @@ RTL: 0
 [Monthly]
 [Quarterly]
 [Never]
-[Update available]
+[Update Available]
 [Do you want to update now?]
 Та шинэчлэх үү?
-[Force codec for incoming]
+[Force Codec for Incoming]
 [Available]
 Чөлөөтэй
 [Enabled]
@@ -123,22 +122,20 @@ H.264 хаах
 H.263+ хаах
 [Invalid URI]
 [Offline]
-[Single call mode]
+[Single Call Mode]
 [Local Video]
 [Call Transfer]
 Дуудлага шилжүүлэх
-[Transfer status]
 [final]
 эцсийн
 [Call transfered successfully, disconnecting call]
 Дуудлагыг шилжүүллээ. Холболтыг тасалж байна
 [Hold]
-[Transfer]
-[Sound events]
+[Sound Events]
 [Bitrate]
 Bitrate
 [Login]
-[Enable log file]
+[Enable Log File]
 Лог файлыг идэвхижүүлэх
 [Calls]
 Дуудлага
@@ -149,7 +146,7 @@ Bitrate
 Нууц үгийг харуулах
 [From]
 [To]
-[Ring device]
+[Ring Device]
 [Service Unavailable]
 [Invalid Request URI]
 [Busy Here]
@@ -167,58 +164,65 @@ Bitrate
 [Copy]
 Хуулах
 [Select All]
-[Display name]
+[Display Name]
 Харуулах нэр
-[Remember details]
+[Remember Details]
 [No]
-[All calls]
+[All Calls]
 Бүх дуудлага
-[SIP header]
-[Different user]
+[SIP Header]
+[Different User]
 Өөр хэрэглэгч
-[Different domain]
+[Different Domain]
 Өөр домэйн
-[Different user or domain]
+[Different User or Domain]
 Өөр хэрэглэгч/домэйн
-[Different remote domain]
+[Different Remote Domain]
 Өөр remote домэйн
-[Deny incoming]
+[Deny Incoming]
 Ирэх дуудлагыг хаах
-[Allow IP rewrite]
+[Allow IP Rewrite]
 IP rewrite идэвхижүүлэх
-[Directory of users]
+[Directory of Users]
 Хэрэглэгчийн жагсаалт
-[Call on remote hold]
+[Call on Remote Hold]
 Дуудлага хүлээгдсэн
-[Call on local hold]
+[Call on Local Hold]
 Дуудлага хүлээгдсэн
-[Call on hold]
+[Call on Hold]
 Дуудлага хүлээгдсэн
-[Call is active]
+[Call is Active]
 Дуудлага хийгдэж байна
 [Menu]
-[Edit account]
+[Edit Account]
 Дугаар өөрчлөх
-[Add account...]
+[Add Account...]
 Дугаар нэмэх...
-[Remove account]
-[Make active]
+[Remove Account]
+[Make Active]
 [Are you sure you want to remove?]
 Та устгахдаа итгэлтэй байна уу?
-[Call pickup]
+[Call Pickup]
 Дуудлага авах
-[Speaker level]
-[Microphone level]
-[Mute speaker]
-[Mute microphone]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
 [Please fill out at least the required fields marked with *.]
 [Ask your SIP provider how to configure the account correctly.]
 Та үйлчилгээ үзүүлэгчээс лавлана уу
-[Random position]
+[Random Position]
 [Time]
+[Attended Transfer]
+[Disable VP8]
+VP8 хаах
 [Donate]
 Хандивлах
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []

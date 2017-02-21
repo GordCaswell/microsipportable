@@ -6,7 +6,7 @@ RTL: 0
 
 [Call]
 Chamar
-[End call]
+[End Call]
 Terminar
 [Contacts]
 Contatos
@@ -16,7 +16,7 @@ Teclado
 Conta
 [Settings]
 Configurações
-[Visit website]
+[Visit Website]
 Visitar site
 [Exit]
 Sair
@@ -26,9 +26,9 @@ Som de chamada
 Procurar
 [Default]
 Padrão
-[Auto answer]
+[Auto Answer]
 Atendimento Automático
-[Disable local account]
+[Disable Local Account]
 Desabilitar conta local
 [OK]
 OK
@@ -36,9 +36,9 @@ OK
 Guardar
 [Cancel]
 Cancelar
-[SIP server]
+[SIP Server]
 Servidor SIP
-[SIP proxy]
+[SIP Proxy]
 Proxy SIP
 [User]
 Usuário
@@ -70,7 +70,7 @@ Número
 Nome
 [Contact]
 Contato
-[Incoming call]
+[Incoming Call]
 Chamada a chegar
 [Answer]
 Atender
@@ -86,11 +86,11 @@ Ligado
 Automático
 [Transport]
 Transporte
-[Incorrect password]
+[Incorrect Password]
 Palavra passe incorreta
-[Public address]
+[Public Address]
 Endereço Público
-[Media encryption]
+[Media Encryption]
 Encriptação de Meio
 [Disabled]
 Desativado
@@ -98,15 +98,13 @@ Desativado
 Opcional
 [Mandatory]
 Obrigatório
-[STUN server]
+[STUN Server]
 Servidor STUN
-[Presence subscription]
+[Presence Subscription]
 Subscrição de Presença
-[Local port]
-Porto Local
 [Ringing]
 Chamando
-[Call ended]
+[Call Ended]
 Chamada terminda
 [Declined]
 Declinado
@@ -116,27 +114,27 @@ Não foi encontrado o endereço
 Pedido terminado
 [Away]
 Fora
-[Publish presence]
+[Publish Presence]
 Publicar presença
 [Session Progress]
 Progresso da sessão
 [Camera]
 Camera
-[Video call]
+[Video Call]
 Chamada de Video
-[Answer with video]
+[Answer with Video]
 Atender com video
-[View log file]
+[View Log File]
 Ver o ficheiro de Log
 [Microphone]
 Microfone
 [Speaker]
 Altifalante
-[Audio codecs]
+[Audio Codecs]
 Codecs de Áudio
-[Video codec]
+[Video Codec]
 Codecs de Video
-[Check for updates]
+[Check for Updates]
 Verificar updates
 [Daily]
 Diário
@@ -148,11 +146,11 @@ Mensal
 Quizenal
 [Never]
 Nunca
-[Update available]
+[Update Available]
 Atualização disponível
 [Do you want to update now?]
 Quer fazer update?
-[Force codec for incoming]
+[Force Codec for Incoming]
 Forçar codec para entrada
 [Available]
 Disponível
@@ -166,29 +164,25 @@ Desabilitar H.263+
 URI Inválido
 [Offline]
 Desligado
-[Single call mode]
+[Single Call Mode]
 Modo de chamada único
 [Local Video]
 Video Local
 [Call Transfer]
 Transferir chamada
-[Transfer status]
-Estado da transferência
 [final]
 Final
 [Call transfered successfully, disconnecting call]
 Chamada transferida com sucesso, desligando a chamada
 [Hold]
 Espera
-[Transfer]
-Tranferir
-[Sound events]
+[Sound Events]
 Playback local DTMF
 [Bitrate]
 Bitrate
 [Login]
 Utilizador
-[Enable log file]
+[Enable Log File]
 Ativar ficheiro de log
 [Calls]
 Chamadas
@@ -202,7 +196,7 @@ Mostrar palavra passe
 De
 [To]
 Para
-[Ring device]
+[Ring Device]
 Dipositivo de toque
 [Service Unavailable]
 Serviço não disponível
@@ -228,71 +222,81 @@ Fechar tudo
 Copiar
 [Select All]
 Selecionar tudo
-[Display name]
+[Display Name]
 O seu nome
-[Remember details]
+[Remember Details]
 Memorizar detalhes
 [No]
 Não
-[All calls]
+[All Calls]
 Todas Chamadas
-[SIP header]
+[SIP Header]
 Cabeçalho SIP
-[Different user]
+[Different User]
 Utilizador diferente
-[Different domain]
+[Different Domain]
 Domínio diferente
-[Different user or domain]
+[Different User or Domain]
 Utilizador ou domínio diferente
-[Different remote domain]
+[Different Remote Domain]
 Domínio remoto diferente
-[Deny incoming]
+[Deny Incoming]
 Negar entrada
-[Allow IP rewrite]
+[Allow IP Rewrite]
 Habilitar reescrita IP
-[Directory of users]
+[Directory of Users]
 Diretório de utilizadores
-[Call on remote hold]
+[Call on Remote Hold]
 Chamada em espera remota
-[Call on local hold]
+[Call on Local Hold]
 Chamada em espera local
-[Call on hold]
+[Call on Hold]
 Chamada em espera
-[Call is active]
+[Call is Active]
 Chamada está ativa
 [Menu]
 Menu
-[Edit account]
+[Edit Account]
 Editar conta
-[Add account...]
+[Add Account...]
 Adicionar Conta...
-[Remove account]
+[Remove Account]
 Remover conta
-[Make active]
+[Make Active]
 Tornar activo
 [Are you sure you want to remove?]
 Tem a certeza que pretende remover?
-[Call pickup]
+[Call Pickup]
 Captura de chamadas
-[Speaker level]
+[Speaker Level]
 Volume dos altifalantes
-[Microphone level]
+[Microphone Level]
 Volume do microfone
-[Mute speaker]
+[Mute Speaker]
 Silenciar os altifalantes
-[Mute microphone]
+[Mute Microphone]
 Silenciar o microfont
 [Please fill out at least the required fields marked with *.]
 Por favor preencha os campos marcados com *.
 [Ask your SIP provider how to configure the account correctly.]
 Pergunte ao seu SIP Provider como configurar a conta corretamente.
-[Random position]
+[Random Position]
 Posição aleatória da caixa de atendimento
 [Time]
 Tempo
+[Attended Transfer]
+[Disable VP8]
+Desabilitar VP8
 [Donate]
 Doar
-[Enable local account]
-[Send crash report]
-[Account name]
+[Enable Local Account]
+Habilitar Conta Local
+[Send Crash Report]
+Enviar relatório de erro
+[Account Name]
+Nome da Conta
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
 []
